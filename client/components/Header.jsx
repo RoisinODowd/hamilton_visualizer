@@ -43,10 +43,13 @@ export default class Header extends React.Component{
       display: 'flex',
       justifyContent: 'space-between',
       alignItems: 'center',
-      background: 'rgba(7, 54, 66, 1.0)',
-      fontSize: '32px',
+      backgroundImage: `url(hamilton_background.jpg)`,
+      backgroundRepeat: 'no-repeat',
+      backgroundAttachment: 'fixed',
+
+      fontSize: '40px',
       fontFamily: 'Palatino',
-      color: '#fdf6e3',
+      color: 'black',
      // border: '2px solid grey',
       boxSizing: 'border-box',
       margin: '0px'
@@ -56,14 +59,14 @@ export default class Header extends React.Component{
       <div id = "header" style={headerStyle}>
         <span style = {{marginLeft: '20px', display: 'flex', alignItems: 'center', overflow: 'hidden'}}>
           <a href = "#" onClick = {this.onClickHandler.bind(this)}>
-            <svg width="30" height="24" style = {{strokeWidth: '2px'}}>
+            <svg width="40" height="24" style = {{strokeWidth: '2px'}}>
               <path d="M0,5 30,5" stroke="grey" />
               <path d="M0,14 30,14" stroke="grey" />
               <path d="M0,23 30,23" stroke="grey" />
             </svg>
           </a>
         </span>
-        <span> Hamilton Visualizer</span>
+        <span> <b>Hamilton Visualizer</b></span>
         <span style = {{visibility: 'hidden'}}> right </span>
       </div>
     );

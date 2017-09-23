@@ -26,7 +26,7 @@ export default class Sidebar extends React.Component {
         display: 'none'
       }
       }>
-      <span style = {{marginLeft: '0px', marginTop: '30px', display: 'flex', alignItems: 'center'}}>
+      <span style = {{marginLeft: '0px', paddingLeft: '0px', marginTop: '30px', display: 'flex', alignItems: 'center'}}>
         <div href="#" onClick = {this.onClickHandler.bind(this)}>
           <svg width="30" height="24" style = {{strokeWidth: '2px'}}>
             

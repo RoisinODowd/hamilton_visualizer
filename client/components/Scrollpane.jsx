@@ -7,17 +7,18 @@ export default class Scrollpane extends React.Component{
 		console.log(json);
 		var w = this.props.width;
 		var h = this.props.height;
+		
 		const scrollStyle = {
 			width: w,
 			height: h,
-			backgroundColor: 'teal',
+			backgroundColor: 'black',	
 			overflow: 'scroll'
 		}
 		
 		console.log(scrollStyle);
 		return (
-			<div style={scrollStyle}> 
-				<Text />
+			<div style = {scrollStyle}> 
+				<Text />				
 			</div>
 		);
 	}
