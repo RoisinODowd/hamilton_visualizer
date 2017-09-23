@@ -5,6 +5,7 @@
 
 import React from 'react';
 import D3 from './D3.jsx'
+import Scrollpane from './Scrollpane.jsx'
 
 export default class Visualizer extends React.Component{
 
@@ -32,7 +33,7 @@ export default class Visualizer extends React.Component{
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
 				<D3 width='500px' height='750px' />
-				<D3 width='500px' height='750px' />
+				<Scrollpane width='500px' height='750px' />
 			</div>
     );
   }
