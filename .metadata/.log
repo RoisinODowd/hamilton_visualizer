@@ -22,3 +22,48 @@ java.io.EOFException: Unexpected end of ZLIB input stream
 	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.Zips.unzip(Zips.java:82)
 	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerProblemsHistory$UpdateIndexJob.run(ServerProblemsHistory.java:294)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.discovery.compatibility 2 0 2017-09-23 04:37:00.352
+!MESSAGE Server returned lastModified <= 0 for https://www.eclipse.org/downloads/download.php?r=1&file=/recommenders/discovery/2.x/plugins/org.eclipse.recommenders.discovery.jar
+
+!ENTRY org.eclipse.equinox.p2.discovery.compatibility 2 0 2017-09-23 04:37:00.357
+!MESSAGE Server returned lastModified <= 0 for https://www.eclipse.org/downloads/download.php?r=1&file=/recommenders/discovery/2.x/plugins/org.eclipse.recommenders.discovery.content.jar
+
+!ENTRY org.eclipse.equinox.p2.discovery 4 0 2017-09-23 04:37:03.839
+!MESSAGE Cannot load bundle org.eclipse.recommenders.discovery.jar_6658373676247980916.jar from url https://www.eclipse.org/downloads/download.php?r=1&file=/recommenders/discovery/2.x/plugins/org.eclipse.recommenders.discovery.jar: error in opening zip file
+!STACK 0
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:219)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:149)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.DiscoveryRegistryStrategy.processBundle(DiscoveryRegistryStrategy.java:86)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.DiscoveryRegistryStrategy.processBundles(DiscoveryRegistryStrategy.java:78)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.DiscoveryRegistryStrategy.onStart(DiscoveryRegistryStrategy.java:50)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.<init>(ExtensionRegistry.java:725)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.RemoteBundleDiscoveryStrategy.performDiscovery(RemoteBundleDiscoveryStrategy.java:159)
+	at org.eclipse.equinox.internal.p2.discovery.Catalog.performDiscovery(Catalog.java:85)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$6.run(CatalogViewer.java:569)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.equinox.p2.discovery 4 0 2017-09-23 04:37:03.866
+!MESSAGE Cannot load bundle org.eclipse.recommenders.discovery.content.jar_8246263088054865270.jar from url https://www.eclipse.org/downloads/download.php?r=1&file=/recommenders/discovery/2.x/plugins/org.eclipse.recommenders.discovery.content.jar: error in opening zip file
+!STACK 0
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:219)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:149)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.DiscoveryRegistryStrategy.processBundle(DiscoveryRegistryStrategy.java:86)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.DiscoveryRegistryStrategy.processBundles(DiscoveryRegistryStrategy.java:78)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.DiscoveryRegistryStrategy.onStart(DiscoveryRegistryStrategy.java:50)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.<init>(ExtensionRegistry.java:725)
+	at org.eclipse.equinox.internal.p2.discovery.compatibility.RemoteBundleDiscoveryStrategy.performDiscovery(RemoteBundleDiscoveryStrategy.java:159)
+	at org.eclipse.equinox.internal.p2.discovery.Catalog.performDiscovery(Catalog.java:85)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$6.run(CatalogViewer.java:569)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.equinox.p2.discovery 4 0 2017-09-23 04:37:03.888
+!MESSAGE Unknown category 'org.eclipse.recommenders.discovery.connectorCategory.incubator' referenced by connector 'org.eclipse.recommenders.snipmatch.discovery.content.connectorDescriptor.editor' declared in org.eclipse.recommenders.snipmatch.discovery.content.jar_1079677393053600267.jar
