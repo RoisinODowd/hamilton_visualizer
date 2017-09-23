@@ -32,13 +32,12 @@ export default class Visualizer extends React.Component{
       backgroundImage: `url(hamilton_background.jpg)`,
       backgroundRepeat: 'no-repeat',
       backgroundAttachment: 'fixed',
-      backgroundSize: '100%'
-
+			backgroundSize: '100%',
     }
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
 				<D3 width='500px' height='600px' />
-				<Scrollpane width='500px' height='600px' />
+				<Scrollpane width='500px' height='600px' lineHeight='18px' lineHeightNumber='18' />
 			</div>
     );
   }
