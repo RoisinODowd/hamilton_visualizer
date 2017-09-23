@@ -38,7 +38,7 @@ export default class App extends React.Component {
 
     return (
       <div>
-        <Sidebar x = '12387629834769283746'/>
+        <Sidebar x = ''/>
         <div style={appStyle}>
           <Header />
           <Visualizer root='root'/>

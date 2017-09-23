@@ -4,7 +4,7 @@
 
 
 import React from 'react';
-import Apple from './Test.jsx'
+import D3 from './D3.jsx'
 
 export default class Visualizer extends React.Component{
 
@@ -21,8 +21,8 @@ export default class Visualizer extends React.Component{
       //border: '2px grey solid',
       display: 'flex',
       flexDirection: 'column',
-      justifyContent: 'flex-start',
-      alignItems: 'flex-start',
+      justifyContent: 'center',
+      alignItems: 'center',
       marginTop: '20px',
       paddingLeft: '0',
       marginLeft: '0px',
@@ -31,7 +31,7 @@ export default class Visualizer extends React.Component{
     }
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<Apple />
+				<D3 width='800px' height='600px' />
 			</div>
     );
   }

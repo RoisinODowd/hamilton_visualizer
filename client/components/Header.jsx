@@ -23,15 +23,15 @@ export default class Header extends React.Component{
 			document.getElementById('sidebar').style.width = `${this.state.sidebarWidth}px`;
 			document.getElementById('header').style.width = `${fullWidth - this.state.sidebarWidth}px`;
 			document.getElementById('header').style.marginLeft = `${this.state.sidebarWidth}px`;
-			document.getElementById('vex-entry').style.width = `${fullWidth - this.state.sidebarWidth}px`;
-			document.getElementById('vex-entry').style.marginLeft = `${this.state.sidebarWidth}px`;
+			document.getElementById('visualizer').style.width = `${fullWidth - this.state.sidebarWidth}px`;
+			document.getElementById('visualizer').style.marginLeft = `${this.state.sidebarWidth}px`;
 			}else {
       document.getElementById('sidebar').style.display = 'none';
       document.getElementById('sidebar').style.width = '0vw';
       document.getElementById('header').style.width = '100vw';
       document.getElementById('header').style.marginLeft = '0vw';
-      document.getElementById('vex-entry').style.width = '100vw';
-      document.getElementById('vex-entry').style.marginLeft = '0vw';
+      document.getElementById('visualizer').style.width = '100vw';
+      document.getElementById('visualizer').style.marginLeft = '0vw';
     } 
   }
 

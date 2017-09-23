@@ -39,7 +39,7 @@ public class WordFrequency {
 		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName + ".txt")));
 		String line;
 
-		String currentSpeaker = "";
+		String currentSpeaker;
 		while ((line = reader.readLine()) != null) {
 			if (line.length() == 0) {
 				continue;
@@ -51,8 +51,8 @@ public class WordFrequency {
 			String[] tokens = line.split(" ");
 			ArrayList<String> list;
 			if (words.containsKey(currentSpeaker)) {
-				list = words.get(currentSpeaker);
 				words.remove(currentSpeaker);
+				list = words.get(currentSpeaker);
 			} else {
 				list = new ArrayList<>();
 			}
@@ -62,23 +62,16 @@ public class WordFrequency {
 			words.put(currentSpeaker, list);
 
 		}
-		
 		reader.close();
-		File file = new File(fileName + "_counted.txt");
-		if (!file.exists()) {
-			file.createNewFile();
-		}
 		BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-		
 		for (String character : words.keySet()) {
-			ArrayList<String> list = words.get(character);
-			Set<String> unique = new TreeSet<String>(list);
-			
-			writer.write("//" + character);
-			writer.newLine();
-			
+			Set<String> unique = new TreeSet<String>(words);
+			File file = new File(fileName + "_counted.txt");
+			if (!file.exists()) {
+				file.createNewFile();
+			}
 			for (String key : unique) {
-				writer.write(key + ": " + Collections.frequency(list, key));
+				writer.write(key + ": " + Collections.frequency(words, key));
 				writer.newLine();
 			}
 		}

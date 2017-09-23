@@ -75,7 +75,6 @@ public class WordFrequency {
 			Set<String> unique = new TreeSet<String>(list);
 			
 			writer.write("//" + character);
-			writer.newLine();
 			
 			for (String key : unique) {
 				writer.write(key + ": " + Collections.frequency(list, key));

@@ -23,7 +23,7 @@ public class WordFrequency {
 			if (aAscii <= cAscii && cAscii <= zAscii || c == '\'') {
 				out += c;
 			}
-
+			
 			if (c == '’')
 				out += '\'';
 
@@ -36,10 +36,10 @@ public class WordFrequency {
 		TreeMap<String, ArrayList<String>> words = new TreeMap<String, ArrayList<String>>();
 
 		String fileName = "test";
-		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName + ".txt")));
+		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName+".txt")));
 		String line;
 
-		String currentSpeaker = "";
+		String currentSpeaker;
 		while ((line = reader.readLine()) != null) {
 			if (line.length() == 0) {
 				continue;
@@ -52,36 +52,26 @@ public class WordFrequency {
 			ArrayList<String> list;
 			if (words.containsKey(currentSpeaker)) {
 				list = words.get(currentSpeaker);
-				words.remove(currentSpeaker);
-			} else {
+			}else {
 				list = new ArrayList<>();
 			}
 			for (String s : tokens) {
 				list.add(fixString(s));
 			}
-			words.put(currentSpeaker, list);
-
 		}
-		
 		reader.close();
-		File file = new File(fileName + "_counted.txt");
-		if (!file.exists()) {
+
+		Set<String> unique = new TreeSet<String>(words);
+		File file = new File(fileName+"_counted.txt");
+		if(!file.exists()) {
 			file.createNewFile();
 		}
 		BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-		
-		for (String character : words.keySet()) {
-			ArrayList<String> list = words.get(character);
-			Set<String> unique = new TreeSet<String>(list);
-			
-			writer.write("//" + character);
+		for (String key : unique) {
+			writer.write(key + ": " + Collections.frequency(words, key));
 			writer.newLine();
-			
-			for (String key : unique) {
-				writer.write(key + ": " + Collections.frequency(list, key));
-				writer.newLine();
-			}
 		}
+		
 		writer.close();
 	}
 }
