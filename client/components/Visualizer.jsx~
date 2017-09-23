@@ -31,8 +31,7 @@ export default class Visualizer extends React.Component{
       overflow: 'hidden',
       backgroundImage: `url(hamilton_background.jpg)`,
       backgroundRepeat: 'no-repeat',
-      backgroundAttachment: 'fixed',
-      backgroundSize: '100%'
+      backgroundAttachment: 'fixed'
 
     }
     return (

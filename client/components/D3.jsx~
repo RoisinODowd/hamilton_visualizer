@@ -26,7 +26,6 @@ export default class D3 extends React.Component{
 			<div style={D3Style}>
                 <svg width='400px' height='400px' style={svgStyle} >
                 <Circle x={100} y = {10} r = {10} fill = 'yellow' />
-                <Circle x={300} y = {180} r ={30} fill = 'rgba(80, 255, 255, 1)'/>
                 </svg>
             </div>
 
