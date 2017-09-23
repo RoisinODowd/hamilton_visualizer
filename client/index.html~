@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html id = "html" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Music Dev</title>
+</head>
+<body id = "body">
+  <div id="root">
+  </div>
+</body>
+</html>
