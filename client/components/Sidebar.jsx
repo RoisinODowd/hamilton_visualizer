@@ -13,13 +13,13 @@ export default class Sidebar extends React.Component {
 
   
   render() {
+		console.log(this.props.x );
 
     /*
             <path d="M0,5 30,5" stroke="white" />
             <path d="M0,14 30,14" stroke="white" />
             <path d="M0,23 30,23" stroke="white" /> 
     */
-		console.log(this.props.balloon);
     return (<div id = 'sidebar' style={
       {
         zIndex: '1', width: '0vw', height: '100vh', background: 'rgba(80, 100, 100, 0.7)', position: 'absolute',

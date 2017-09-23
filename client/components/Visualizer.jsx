@@ -32,10 +32,4 @@ export default class Visualizer extends React.Component{
       <div ref='elem' id = 'visualizer' style = {mainStyle}></div>
     );
   }
-
-  componentDidMount() {
-    var div = document.getElementById('visualizer');
-    this.state.div = div;
-
-  }
 }
