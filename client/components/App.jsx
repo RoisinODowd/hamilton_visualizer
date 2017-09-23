@@ -12,7 +12,7 @@ import Sidebar from './Sidebar.jsx'
 export default class App extends React.Component {
   render() {
 
-    var bgColor = 'rgba(255, 255, 200, 0.2)';
+    var bgColor = 'rgba(0, 43, 54, 1.0)';
 
     const appStyle = {
       display: 'flex',

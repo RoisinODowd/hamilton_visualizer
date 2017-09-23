@@ -9,7 +9,7 @@ export default class D3 extends React.Component{
 		const D3Style = {
 			width: w,
 			height: h,
-			backgroundColor: 'green'
+			backgroundColor: '#839496'
 		}
 		console.log(D3Style);
 		return (

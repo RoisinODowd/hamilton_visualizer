@@ -12,7 +12,7 @@ export default class Header extends React.Component{
 
     this.state = {sidebar : false, sidebarWidth: 160};
   }
-  
+
   onClickHandler(event) {
     event.preventDefault();
 
@@ -32,7 +32,7 @@ export default class Header extends React.Component{
       document.getElementById('header').style.marginLeft = '0vw';
       document.getElementById('visualizer').style.width = '100vw';
       document.getElementById('visualizer').style.marginLeft = '0vw';
-    } 
+    }
   }
 
   render() {
@@ -43,23 +43,23 @@ export default class Header extends React.Component{
       display: 'flex',
       justifyContent: 'space-between',
       alignItems: 'center',
-      background: 'rgba(80, 130, 160, 0.2)',
-      fontSize: '22px',
-      fontFamily: 'Arial',
-      color: 'grey',
+      background: 'rgba(7, 54, 66, 1.0)',
+      fontSize: '32px',
+      fontFamily: 'Palatino',
+      color: '#fdf6e3',
      // border: '2px solid grey',
       boxSizing: 'border-box',
       margin: '0px'
     }
 
     return (
-      <div id = "header" style={headerStyle}> 
+      <div id = "header" style={headerStyle}>
         <span style = {{marginLeft: '20px', display: 'flex', alignItems: 'center', overflow: 'hidden'}}>
           <a href = "#" onClick = {this.onClickHandler.bind(this)}>
             <svg width="30" height="24" style = {{strokeWidth: '2px'}}>
               <path d="M0,5 30,5" stroke="grey" />
               <path d="M0,14 30,14" stroke="grey" />
-              <path d="M0,23 30,23" stroke="grey" />          
+              <path d="M0,23 30,23" stroke="grey" />
             </svg>
           </a>
         </span>
