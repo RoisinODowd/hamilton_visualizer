@@ -82,7 +82,7 @@ public class WordFrequency {
 
 			int i = 0;
 			for (String key : unique) {
-				writer.write("		{\"word\": \"" + key + "\", \"freq\": " + Collections.frequency(list, key) + "}");
+				writer.write("		{\"word\": \"" + key + "\", \"freq: " + Collections.frequency(list, key) + "\"}");
 				if (i != unique.size() - 1) {
 					writer.write(",");
 				}
@@ -96,9 +96,6 @@ public class WordFrequency {
 			writer.newLine();
 			k++;
 		}
-		
-		writer.write("}");
-		
 		writer.close();
 	}
 }

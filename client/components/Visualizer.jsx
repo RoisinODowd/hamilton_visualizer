@@ -20,8 +20,8 @@ export default class Visualizer extends React.Component{
       background: 'rgba(80, 130, 160, 0.2)',
       //border: '2px grey solid',
       display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'center',
+      flexDirection: 'row',
+      justifyContent: 'space-around',
       alignItems: 'center',
       marginTop: '20px',
       paddingLeft: '0',
@@ -31,7 +31,8 @@ export default class Visualizer extends React.Component{
     }
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<D3 width='800px' height='600px' />
+				<D3 width='500px' height='750px' />
+				<D3 width='500px' height='750px' />
 			</div>
     );
   }

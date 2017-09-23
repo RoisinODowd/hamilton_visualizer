@@ -72,7 +72,6 @@ public class WordFrequency {
 		writer.write("{");
 		writer.newLine();
 
-		int k = 0;
 		for (String character : words.keySet()) {
 			ArrayList<String> list = words.get(character);
 			Set<String> unique = new TreeSet<String>(list);
@@ -82,23 +81,16 @@ public class WordFrequency {
 
 			int i = 0;
 			for (String key : unique) {
-				writer.write("		{\"word\": \"" + key + "\", \"freq\": " + Collections.frequency(list, key) + "}");
+				writer.write("		{\"word\": \"" + key + "\", \"freq: " + Collections.frequency(list, key) + "\"}");
 				if (i != unique.size() - 1) {
 					writer.write(",");
 				}
 				writer.newLine();
 				i++;
 			}
-			writer.write("	]");
-			if(k != words.keySet().size() - 1) {
-				writer.write(",");
-			}
+			writer.write("	],");
 			writer.newLine();
-			k++;
 		}
-		
-		writer.write("}");
-		
 		writer.close();
 	}
 }
