@@ -1,0 +1,43 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+
+public class Main {
+	public static void main(String[] args) throws IOException {
+		String fileName = "test";
+		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName + ".txt")));
+
+		String line;
+		String currentSpeaker = "";
+
+		ArrayList<String> output = new ArrayList<String>();
+
+		while ((line = reader.readLine()) != null) {
+			if (line.startsWith("[")) {
+				currentSpeaker = line.substring(1, line.indexOf("]"));
+				currentSpeaker.replaceAll(" ", "_");
+			} else {
+				String outputLine = "{\n  {\n  ";
+				outputLine += currentSpeaker;
+				outputLine += ": \'";
+				outputLine += line;
+				outputLine += "\'\n  }\n}";
+				outputLine += ",";
+				output.add(outputLine);
+			}
+
+		}
+		
+		File file = new File(fileName + "_fixed.txt");
+		if (!file.exists()) {
+			file.createNewFile();
+		}
+		
+		
+		
+		reader.close();
+
+	}
+}

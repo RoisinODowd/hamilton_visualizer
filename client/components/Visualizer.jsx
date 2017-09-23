@@ -4,6 +4,7 @@
 
 
 import React from 'react';
+import Apple from './Test.jsx'
 
 export default class Visualizer extends React.Component{
 
@@ -29,7 +30,9 @@ export default class Visualizer extends React.Component{
       overflow: 'hidden'
     }
     return (
-      <div ref='elem' id = 'visualizer' style = {mainStyle}></div>
+			<div ref='elem' id = 'visualizer' style = {mainStyle}>
+				<Apple />
+			</div>
     );
   }
 }
