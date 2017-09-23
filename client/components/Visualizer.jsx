@@ -13,7 +13,7 @@ export default class Visualizer extends React.Component{
   }
 
   render() {
-    var fullHeight = document.documentElement.clientHeight;   
+    var fullHeight = document.documentElement.clientHeight;
     const mainStyle = {
       width: '100%',
       height: `${fullHeight - 120 - 20}px`,
@@ -31,7 +31,6 @@ export default class Visualizer extends React.Component{
     }
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<Apple />
 			</div>
     );
   }
