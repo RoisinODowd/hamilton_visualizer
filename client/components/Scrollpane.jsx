@@ -72,7 +72,6 @@ export default class Scrollpane extends React.Component{
 		var json = require('../test.json'); //(with path)
 		var w = this.props.width;
 		var h = this.props.height;
-<<<<<<< HEAD
 		var lH = this.props.lineHeight;
 		const scrollStyle = {
 			width: w,
@@ -82,17 +81,12 @@ export default class Scrollpane extends React.Component{
 			lineHeight: {lH},
 			fontFamily: 'Arial',
 			fontSize: lH
-=======
->>>>>>> 56f8a5284f583f3a771f1b2fac053cdeef798537
 		}
 
 		
 		return (
-<<<<<<< HEAD
 			<div style={scrollStyle} onScroll = {this.scrollListener.bind(this)}> 
 				<Text />
-=======
->>>>>>> 56f8a5284f583f3a771f1b2fac053cdeef798537
 			</div>
 		);
 	}

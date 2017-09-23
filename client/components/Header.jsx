@@ -38,7 +38,7 @@ export default class Header extends React.Component{
   render() {
    const headerStyle = {
       height: '120px',
-      width: '100%',
+      width: '100vw',
       textAlign: 'center',
       display: 'flex',
       justifyContent: 'space-between',
@@ -46,7 +46,7 @@ export default class Header extends React.Component{
       backgroundImage: `url(hamilton_background.jpg)`,
       backgroundRepeat: 'no-repeat',
       backgroundAttachment: 'fixed',
-
+			backgroundSize: 'cover',
       fontSize: '40px',
       fontFamily: 'Palatino',
       color: 'black',

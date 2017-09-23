@@ -12,7 +12,7 @@ export default class Circle extends React.Component{
 
         return(
            // <svg width={width} height = {height}>
-                <circle cx={x} cy={y} r={width/2} fill={color}/>
+                <circle cx={x} cy={y} r={width/2} fill={color} stroke = '#00ccff' fillOpacity='0.7' strokeWidth='2'/>
            // </svg>
         );
     }

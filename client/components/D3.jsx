@@ -1,7 +1,59 @@
 import React from 'react';
 import Circle from './Circle.jsx'
+import Renderer from './Renderer.jsx'
 
 export default class D3 extends React.Component{
+
+  constructor() {
+		super();
+    this.state = {
+        blue: '#00ddff',
+			  green: '#00ffdd',
+			purple: '#ccaaff',
+			x: 0,
+			y: 0
+		}
+	}
+
+  onMoveHandler(event) {
+    this.setState({ 
+      x: event.clientX - this.state.div.getBoundingClientRect().left, 
+      y: event.clientY - this.state.div.getBoundingClientRect().top
+    });
+		console.log('ayy lmao');
+  }
+
+	onClickHandler(event) {
+		this.setState({x: event.clientX - this.state.div.getBoundingClientRect().left,
+		              y: event.clientY - this.state.div.getBoundingClientRect().top
+		});
+		console.log(`x: ${this.state.x}, y: ${this.state.y}`);
+	}
+
+	arc_links(dwg,x1,y1,x2,y2,n,k) {
+  var cx = (x1+x2)/2;
+  var cy = (y1+y2)/2;
+  var dx = (x2-x1)/2;
+  var dy = (y2-y1)/2;
+  var i;
+  for (i=0; i<n; i++) {
+    if (i==(n-1)/2) {
+      dwg.line(x1,y1,x2,y2).stroke({width:1}).fill('none');
+    }
+    else {
+      dd = Math.sqrt(dx*dx+dy*dy);
+      ex = cx + dy/dd * k * (i-(n-1)/2);
+      ey = cy - dx/dd * k * (i-(n-1)/2);
+      dwg.path("M"+x1+" "+y1+"Q"+ex+" "+ey+" "+x2+" "+y2).stroke({width:1}).fill('none');
+    }
+  }
+
+	}
+
+	componentDidMount() {
+		this.state.div = document.getElementById('drawing');
+	}
+
 	render() {
 		var json = require('../test.json'); //(with path)
 		console.log(json);
@@ -10,27 +62,30 @@ export default class D3 extends React.Component{
 		const D3Style = {
 			width: w,
 			height: h,
-			backgroundColor: '#839496',
+			backgroundColor: '#000000',
             display: 'flex',
             justifyContent: 'center',
             alignItems: 'center'
         }
 
         const svgStyle = {
-            border: '2px solid black'
-        }
+            border: '2px solid grey'
+				}
+    
         
+					//<Circle x={100} y = {300} r = {50} fill = {this.state.blue} />
+          //     <Circle x={300} y = {180} r ={30} fill = {this.state.purple}/>
+					//     <Circle x={350} y = {380} r ={40} fill = {this.state.green}/>
 
-		console.log(D3Style);
+	
+
 		return (
-			<div style={D3Style}>
-                <svg width='400px' height='400px' style={svgStyle} >
-                <Circle x={100} y = {10} r = {10} fill = 'yellow' />
-                <Circle x={300} y = {180} r ={30} fill = 'rgba(80, 255, 255, 1)'/>
+			<div id = 'outter' style={D3Style}>
+				<svg id='drawing' width='400px' height='500px' style={svgStyle} onClick = {this.onClickHandler.bind(this)} 
+				    >
                 </svg>
-            </div>
-
-
+						<Renderer />
+       </div>
 		);
 	}
 }

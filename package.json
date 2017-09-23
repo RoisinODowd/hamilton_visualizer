@@ -24,6 +24,7 @@
     "react-dom": "^15.6.1",
     "react-scrollbar": "^0.5.1",
     "requirejs": "^2.3.5",
+    "svg.js": "^2.6.3",
     "vexflow": "^1.2.84",
     "webpack": "^3.4.1",
     "webpack-dev-server": "^2.6.1"
