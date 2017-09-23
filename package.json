@@ -21,6 +21,7 @@
     "path": "^0.12.7",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-scrollbar": "^0.5.1",
     "requirejs": "^2.3.5",
     "vexflow": "^1.2.84",
     "webpack": "^3.4.1",

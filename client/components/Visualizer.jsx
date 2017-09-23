@@ -18,7 +18,7 @@ export default class Visualizer extends React.Component{
     const mainStyle = {
       width: '100%',
       height: `${fullHeight - 120 - 20}px`,
-      background: 'rgba(80, 130, 160, 0.2)',
+      //background: 'rgba(80, 130, 160, 0.2)',
       //border: '2px grey solid',
       display: 'flex',
       flexDirection: 'row',
@@ -28,12 +28,16 @@ export default class Visualizer extends React.Component{
       paddingLeft: '0',
       marginLeft: '0px',
       boxStyle: 'border-box',
-      overflow: 'hidden'
+      overflow: 'hidden',
+      backgroundImage: `url(hamilton_background.jpg)`,
+      backgroundRepeat: 'no-repeat',
+      backgroundAttachment: 'fixed'
+
     }
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<D3 width='500px' height='750px' />
-				<Scrollpane width='500px' height='750px' />
+				<D3 width='500px' height='600px' />
+				<Scrollpane width='500px' height='600px' />
 			</div>
     );
   }

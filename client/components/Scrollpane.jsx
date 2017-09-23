@@ -1,4 +1,5 @@
 import React from 'react';
+import Text from './Text.jsx';
 
 export default class Scrollpane extends React.Component{
 	render() {
@@ -9,11 +10,15 @@ export default class Scrollpane extends React.Component{
 		const scrollStyle = {
 			width: w,
 			height: h,
-			backgroundColor: 'teal'
+			backgroundColor: 'teal',
+			overflow: 'scroll'
 		}
+		
 		console.log(scrollStyle);
 		return (
-			<div style={scrollStyle}> </div>
+			<div style={scrollStyle}> 
+				<Text />
+			</div>
 		);
 	}
 }
