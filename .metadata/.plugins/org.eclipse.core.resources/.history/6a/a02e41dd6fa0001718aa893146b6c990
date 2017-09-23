@@ -77,7 +77,7 @@ public class WordFrequency {
 			ArrayList<String> list = words.get(character);
 			Set<String> unique = new TreeSet<String>(list);
 
-			writer.write("		[\n			{\"name\": \""+character+"\"},");
+			writer.write("		[\n			{\"name\", \""+character+"\"},");
 			writer.newLine();
 
 			int i = 0;
