@@ -1,278 +1,556 @@
 {
 	"results": [
-		[
-{"name": "KING GEORGE"},
-
-{"word": "They"},
-
-{"word": "say"},
-
-{"word": "George"},
-
-{"word": "Washington’s"},
-
-{"word": "yielding"},
-
-{"word": "his"},
-
-{"word": "power"},
-
-{"word": "and"},
-
-{"word": "stepping"},
-
-{"word": "away"},
-
-{"word": "I"},
-
-{"word": "wasn’t"},
-
-{"word": "aware"},
-
-{"word": "that"},
-
-{"word": "was"},
-
-{"word": "something"},
-
-{"word": "a"},
-
-{"word": "person"},
-
-{"word": "could"},
-
-{"word": "do"},
-
-{"word": "I’m"},
-
-{"word": "perplexed"},
-
-{"word": "Are"},
-
-{"word": "they"},
-
-{"word": "gonna"},
-
-{"word": "keep"},
-
-{"word": "on"},
-
-{"word": "replacing"},
-
-{"word": "whoever’s"},
-
-{"word": "in"},
-
-{"word": "charge"},
-
-{"word": "If"},
-
-{"word": "so"},
-
-{"word": "who’s"},
-
-{"word": "next"},
-
-{"word": "There’s"},
-
-{"word": "nobody"},
-
-{"word": "else"},
-
-{"word": "in"},
-
-{"word": "their"},
-
-{"word": "country"},
-
-{"word": "who"},
-
-{"word": "looms"},
-
-{"word": "quite"},
-
-{"word": "as"},
-
-{"word": "large…"},
-
-{"word": "A"},
-
-{"word": "sentinel"},
-
-{"word": "whispers"},
-
-{"word": "in"},
-
-{"word": "King"},
-
-{"word": "George’s"},
-
-{"word": "ear"},
-
-{"word": "John"},
-
-{"word": "Adams"},
-
-{"word": "I"},
-
-{"word": "know"},
-
-{"word": "him"},
-
-{"word": "That"},
-
-{"word": "can’t"},
-
-{"word": "be"},
-
-{"word": "That’s"},
-
-{"word": "that"},
-
-{"word": "little"},
-
-{"word": "guy"},
-
-{"word": "who"},
-
-{"word": "spoke"},
-
-{"word": "to"},
-
-{"word": "me"},
-
-{"word": "All"},
-
-{"word": "those"},
-
-{"word": "years"},
-
-{"word": "ago"},
-
-{"word": "What"},
-
-{"word": "was"},
-
-{"word": "it"},
-
-{"word": "eightyfive"},
-
-{"word": "That"},
-
-{"word": "poor"},
-
-{"word": "man"},
-
-{"word": "they’re"},
-
-{"word": "gonna"},
-
-{"word": "eat"},
-
-{"word": "him"},
-
-{"word": "alive"},
-
-{"word": "Oceans"},
-
-{"word": "rise"},
-
-{"word": "Empires"},
-
-{"word": "fall"},
-
-{"word": "Next"},
-
-{"word": "to"},
-
-{"word": "Washington"},
-
-{"word": "they"},
-
-{"word": "all"},
-
-{"word": "look"},
-
-{"word": "small"},
-
-{"word": "All"},
-
-{"word": "alone"},
-
-{"word": "Watch"},
-
-{"word": "them"},
-
-{"word": "run"},
-
-{"word": "They"},
-
-{"word": "will"},
-
-{"word": "tear"},
-
-{"word": "each"},
-
-{"word": "other"},
-
-{"word": "into"},
-
-{"word": "pieces"},
-
-{"word": "Jesus"},
-
-{"word": "Christ"},
-
-{"word": "this"},
-
-{"word": "will"},
-
-{"word": "be"},
-
-{"word": "fun"},
-
-{"word": "Da"},
-
-{"word": "da"},
-
-{"word": "da"},
-
-{"word": "dat"},
-
-{"word": "da"},
-
-{"word": "dat"},
-
-{"word": "da"},
-
-{"word": "da"},
-
-{"word": "da"},
-
-{"word": "da"},
-
-{"word": "ya"},
-
-{"word": "da"},
-
-{"word": "Da"},
-
-{"word": "da"},
-
-{"word": "da"},
-
-{"word": "dat"},
-
-{"word": "dat"},
-
-{"word": "da"},
-
-{"word": "ya"},
-
-{"word": "daaaaa"},
-
-{"word": "Hahahahahahahahaha"},
-
-{"word": "Good"},
-
-{"word": "Luck"}]
+		[{
+				"name": "KING GEORGE"
+			},
+
+			{
+				"word": "They"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "George"
+			},
+
+			{
+				"word": "Washington’s"
+			},
+
+			{
+				"word": "yielding"
+			},
+
+			{
+				"word": "his"
+			},
+
+			{
+				"word": "power"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "stepping"
+			},
+
+			{
+				"word": "away"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wasn’t"
+			},
+
+			{
+				"word": "aware"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "something"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "person"
+			},
+
+			{
+				"word": "could"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "perplexed"
+			},
+
+			{
+				"word": "Are"
+			},
+
+			{
+				"word": "they"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "keep"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "replacing"
+			},
+
+			{
+				"word": "whoever’s"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "charge"
+			},
+
+			{
+				"word": "If"
+			},
+
+			{
+				"word": "so"
+			},
+
+			{
+				"word": "who’s"
+			},
+
+			{
+				"word": "next"
+			},
+
+			{
+				"word": "There’s"
+			},
+
+			{
+				"word": "nobody"
+			},
+
+			{
+				"word": "else"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "their"
+			},
+
+			{
+				"word": "country"
+			},
+
+			{
+				"word": "who"
+			},
+
+			{
+				"word": "looms"
+			},
+
+			{
+				"word": "quite"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "large…"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "sentinel"
+			},
+
+			{
+				"word": "whispers"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "King"
+			},
+
+			{
+				"word": "George’s"
+			},
+
+			{
+				"word": "ear"
+			},
+
+			{
+				"word": "John"
+			},
+
+			{
+				"word": "Adams"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "know"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "That"
+			},
+
+			{
+				"word": "can’t"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "That’s"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "little"
+			},
+
+			{
+				"word": "guy"
+			},
+
+			{
+				"word": "who"
+			},
+
+			{
+				"word": "spoke"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "All"
+			},
+
+			{
+				"word": "those"
+			},
+
+			{
+				"word": "years"
+			},
+
+			{
+				"word": "ago"
+			},
+
+			{
+				"word": "What"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "eightyfive"
+			},
+
+			{
+				"word": "That"
+			},
+
+			{
+				"word": "poor"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "they’re"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "eat"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "alive"
+			},
+
+			{
+				"word": "Oceans"
+			},
+
+			{
+				"word": "rise"
+			},
+
+			{
+				"word": "Empires"
+			},
+
+			{
+				"word": "fall"
+			},
+
+			{
+				"word": "Next"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "Washington"
+			},
+
+			{
+				"word": "they"
+			},
+
+			{
+				"word": "all"
+			},
+
+			{
+				"word": "look"
+			},
+
+			{
+				"word": "small"
+			},
+
+			{
+				"word": "All"
+			},
+
+			{
+				"word": "alone"
+			},
+
+			{
+				"word": "Watch"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "run"
+			},
+
+			{
+				"word": "They"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "tear"
+			},
+
+			{
+				"word": "each"
+			},
+
+			{
+				"word": "other"
+			},
+
+			{
+				"word": "into"
+			},
+
+			{
+				"word": "pieces"
+			},
+
+			{
+				"word": "Jesus"
+			},
+
+			{
+				"word": "Christ"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "fun"
+			},
+
+			{
+				"word": "Da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "dat"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "dat"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "ya"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "Da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "dat"
+			},
+
+			{
+				"word": "dat"
+			},
+
+			{
+				"word": "da"
+			},
+
+			{
+				"word": "ya"
+			},
+
+			{
+				"word": "daaaaa"
+			},
+
+			{
+				"word": "Hahahahahahahahaha"
+			},
+
+			{
+				"word": "Good"
+			},
+
+			{
+				"word": "Luck"
+			}
+		]
+	]
+}
