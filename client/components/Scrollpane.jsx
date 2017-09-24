@@ -8,11 +8,12 @@ export default class Scrollpane extends React.Component{
 	constructor() {
 		super();
 		this.state = {
-			linesInPreviousParagraphs: 0,
+			previousParagraph: 0,
 			currentParagraph: 0,
-			lastLine: 0
+			pastLines: []
 		};
-	}
+
+  }
 
   scrollListener() {
 	  var scrolledOff = (ReactDOM.findDOMNode(this).scrollTop);
@@ -21,45 +22,70 @@ export default class Scrollpane extends React.Component{
 		var number = Math.round(scrolledOff / this.props.lineHeightNumber) - 1;
 		//console.log(number);	
 
-		var element = document.getElementById('text');
+		var arr = [];
+	  var element = document.getElementById('text');
 		var myListItems = element.getElementsByTagName('p');
 		var i = 0;
-		for ( ; i < myListItems.length; ++i) {
-			if (i == this.state.currentParagraph) {
+		var sum = 0;
+		for ( ; i <= myListItems.length; ++i) {
+			   arr[i] = sum;
+			   if (i == myListItems.length)
+			    	break;
 				 element = myListItems[i];
-				 break;
-			}
+			   var height = element.clientHeight;
+			   var numLinesPerParagraph = Math.round(height / this.props.lineHeightNumber) - 2;
+			   sum += numLinesPerParagraph + 1;
 		}
 
-		if (this.state.currentParagraph < 0) {
-			this.setState({currentParagraph: 0});
-		}
-		console.log(this.state);
 
+  	this.state = {
+			previousParagraph: this.state.previousParagraph,
+			currentParagraph: this.state.currentParagraph,
+			pastLines: arr 
+		};
+
+		element = document.getElementById('text').getElementsByTagName('p')[this.state.currentParagraph];
 		element.style.background = '#eeffcc';
-		var height = element.clientHeight;
-		var numLinesPerParagraph = Math.round(height / this.props.lineHeightNumber) - 2 ;
-		console.log(numLinesPerParagraph);
 
-		if (number >= this.state.linesInPreviousParagraphs + numLinesPerParagraph + 1	) {
-			var newVal = this.state.linesInPreviousParagraphs + 1 + numLinesPerParagraph;
-			var cur = this.state.currentParagraph;
+		if (number < 0)
+			number = 0;
+
+		if (number >= this.state.pastLines[this.state.currentParagraph + 1]) {
 			this.state = {
-				linesInPreviousParagraphs: newVal,
-				currentParagraph: cur+1,
-				lastLine: 0
-			 };
-			 element.style.background = 'none';
-		}else if (number <= this.state.linesInPreviousParagraphs - 0 - numLinesPerParagraph) {
+				previousParagraph: this.state.currentParagraph,
+				currentParagraph: this.state.currentParagraph + 1,
+				pastLines: this.state.pastLines
+			}
 			element.style.background = 'none';
-			var newVal = this.state.linesInPreviousParagraphs -0 - numLinesPerParagraph;
-			var cur = this.state.currentParagraph;
-			this.state = {
-				linesInPreviousParagraphs: newVal,
-				currentParagraph: cur-1,
-				lastLine: 0
-			};
+		}else if (number < this.state.pastLines[this.state.currentParagraph]) {
+      	this.state = {
+				previousParagraph: this.state.currentParagraph,
+				currentParagraph: this.state.currentParagraph - 1,
+				pastLines: this.state.pastLines
+			}
+			element.style.background = 'none';
 		}
+
+
+		//	if (number >= this.state.linesInPreviousParagraphs + numLinesPerParagraph + 1	) {
+		//	var newVal = this.state.linesInPreviousParagraphs + 1 + numLinesPerParagraph;
+		//	var cur = this.state.currentParagraph;
+		//	this.state = {
+		//		linesInPreviousParagraphs: newVal,
+		//		currentParagraph: cur+1,
+		//		pastLines: this.state.pastLines 
+		//	 };
+		//	 element.style.background = 'none';
+		//}else if (number <= this.state.linesInPreviousParagraphs - 0 - numLinesPerParagraph) {
+		//	element.style.background = 'none';
+		//	var newVal = this.state.linesInPreviousParagraphs -0 - numLinesPerParagraph;
+		//	var cur = this.state.currentParagraph;
+		//	this.state = {
+		//		linesInPreviousParagraphs: newVal,
+		//		currentParagraph: cur-1,
+		//		pastLines: this.state.pastLines
+		//	};
+		//	}
 
 	}
 
