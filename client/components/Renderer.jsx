@@ -40,7 +40,7 @@ export default class Renderer extends React.Component {
 		var rect = draw.rect(100, 100);
 		rect.animate().attr({ fill: '#f06' });
 		
-    rect.animate().center(250, 250);
+    rect.animate().center(250, 250).loop(10000, true);
 		this.arc_links(draw,50,50,250,50,2,40);
     this.arc_links(draw,250,50,250,250,3,40);
     this.arc_links(draw,250,250,50,250,4,40);
