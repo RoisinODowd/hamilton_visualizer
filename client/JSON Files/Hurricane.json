@@ -1,604 +1,1214 @@
 {
 	"results": [
-		[
-{"name": "HAMILTON"},
-
-{"word": "In"},
-
-{"word": "the"},
-
-{"word": "eye"},
-
-{"word": "of"},
-
-{"word": "a"},
-
-{"word": "hurricane"},
-
-{"word": "There"},
-
-{"word": "is"},
-
-{"word": "quiet"},
-
-{"word": "For"},
-
-{"word": "just"},
-
-{"word": "a"},
-
-{"word": "moment"},
-
-{"word": "A"},
-
-{"word": "yellow"},
-
-{"word": "sky"},
-
-{"word": "When"},
-
-{"word": "I"},
-
-{"word": "was"},
-
-{"word": "seventeen"},
-
-{"word": "a"},
-
-{"word": "hurricane"},
-
-{"word": "Destroyed"},
-
-{"word": "my"},
-
-{"word": "town"},
-
-{"word": "I"},
-
-{"word": "didn’t"},
-
-{"word": "drown"},
-
-{"word": "I"},
-
-{"word": "couldn’t"},
-
-{"word": "seem"},
-
-{"word": "to"},
-
-{"word": "die"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "my"},
-
-{"word": "way"},
-
-{"word": "out"},
-
-{"word": "Wrote"},
-
-{"word": "everything"},
-
-{"word": "down"},
-
-{"word": "far"},
-
-{"word": "as"},
-
-{"word": "I"},
-
-{"word": "could"},
-
-{"word": "see"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "my"},
-
-{"word": "way"},
-
-{"word": "out"},
-
-{"word": "I"},
-
-{"word": "looked"},
-
-{"word": "up"},
-
-{"word": "and"},
-
-{"word": "the"},
-
-{"word": "town"},
-
-{"word": "had"},
-
-{"word": "its"},
-
-{"word": "eyes"},
-
-{"word": "on"},
-
-{"word": "me"},
-
-{"word": "They"},
-
-{"word": "passed"},
-
-{"word": "a"},
-
-{"word": "plate"},
-
-{"word": "around"},
-
-{"word": "Total"},
-
-{"word": "strangers"},
-
-{"word": "Moved"},
-
-{"word": "to"},
-
-{"word": "kindness"},
-
-{"word": "by"},
-
-{"word": "my"},
-
-{"word": "story"},
-
-{"word": "Raised"},
-
-{"word": "enough"},
-
-{"word": "for"},
-
-{"word": "me"},
-
-{"word": "to"},
-
-{"word": "book"},
-
-{"word": "passage"},
-
-{"word": "on"},
-
-{"word": "a"},
-
-{"word": "Ship"},
-
-{"word": "that"},
-
-{"word": "was"},
-
-{"word": "New"},
-
-{"word": "York"},
-
-{"word": "boud"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "my"},
-
-{"word": "way"},
-
-{"word": "out"},
-
-{"word": "of"},
-
-{"word": "hell"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "my"},
-
-{"word": "way"},
-
-{"word": "to"},
-
-{"word": "revolution"},
-
-{"word": "I"},
-
-{"word": "was"},
-
-{"word": "louder"},
-
-{"word": "than"},
-
-{"word": "the"},
-
-{"word": "crack"},
-
-{"word": "in"},
-
-{"word": "the"},
-
-{"word": "bell"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "Eliza"},
-
-{"word": "love"},
-
-{"word": "letters"},
-
-{"word": "until"},
-
-{"word": "she"},
-
-{"word": "fell"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "about"},
-
-{"word": "The"},
-
-{"word": "Constitution"},
-
-{"word": "and"},
-
-{"word": "defended"},
-
-{"word": "it"},
-
-{"word": "well"},
-
-{"word": "And"},
-
-{"word": "in"},
-
-{"word": "the"},
-
-{"word": "face"},
-
-{"word": "of"},
-
-{"word": "ignorance"},
-
-{"word": "and"},
-
-{"word": "resistance"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "financial"},
-
-{"word": "systems"},
-
-{"word": "into"},
-
-{"word": "existence"},
-
-{"word": "And"},
-
-{"word": "when"},
-
-{"word": "my"},
-
-{"word": "prayers"},
-
-{"word": "to"},
-
-{"word": "God"},
-
-{"word": "were"},
-
-{"word": "met"},
-
-{"word": "with"},
-
-{"word": "indifference"},
-
-{"word": "I"},
-
-{"word": "picked"},
-
-{"word": "up"},
-
-{"word": "a"},
-
-{"word": "pen"},
-
-{"word": "I"},
-
-{"word": "wrote"},
-
-{"word": "my"},
-
-{"word": "own"},
-
-{"word": "deliverance"},
-
-{"word": "In"},
-
-{"word": "the"},
-
-{"word": "eye"},
-
-{"word": "of"},
-
-{"word": "a"},
-
-{"word": "hurricane"},
-
-{"word": "There"},
-
-{"word": "is"},
-
-{"word": "quiet"},
-
-{"word": "For"},
-
-{"word": "just"},
-
-{"word": "a"},
-
-{"word": "moment"},
-
-{"word": "A"},
-
-{"word": "yellow"},
-
-{"word": "sky"},
-
-{"word": "I"},
-
-{"word": "was"},
-
-{"word": "twelve"},
-
-{"word": "when"},
-
-{"word": "my"},
-
-{"word": "mother"},
-
-{"word": "died"},
-
-{"word": "She"},
-
-{"word": "was"},
-
-{"word": "holding"},
-
-{"word": "me"},
-
-{"word": "We"},
-
-{"word": "were"},
-
-{"word": "sick"},
-
-{"word": "and"},
-
-{"word": "she"},
-
-{"word": "was"},
-
-{"word": "holding"},
-
-{"word": "me"},
-
-{"word": "I"},
-
-{"word": "couldn’t"},
-
-{"word": "seem"},
-
-{"word": "to"},
-
-{"word": "die"},
-
-{"name": "BURR"},
-
-{"word": "Wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it…"}],
-
-[{"name": "BURR AND ENSEMBLE"},
-
-{"word": "Wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it…"},
-
-{"word": "Wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait…	"},
-
-{"word": ""}],
-
-[{"name": "HAMILTON"},
-
-{"word": "I’ll"},
-
-{"word": "write"},
-
-{"word": "my"},
-
-{"word": "way"},
-
-{"word": "out…"},
-
-{"word": "Write"},
-
-{"word": "ev’rything"},
-
-{"word": "down"},
-
-{"word": "far"},
-
-{"word": "as"},
-
-{"word": "I"},
-
-{"word": "can"},
-
-{"word": "see…"},
-
-{"word": "I’ll"},
-
-{"word": "write"},
-
-{"word": "my"},
-
-{"word": "way"},
-
-{"word": "out…"},
-
-{"word": "Overwhelm"},
-
-{"word": "them"},
-
-{"word": "with"},
-
-{"word": "honesty"},
-
-{"word": ""}],
-
-[{"name": "WASHINTON"},
-
-{"word": "ELIZAANGELICA"},
-
-{"word": "MARIA"},
-
-{"word": "History"},
-
-{"word": "has"},
-
-{"word": "its"},
-
-{"word": "eyes"},
-
-{"word": "on"},
-
-{"word": "you"}],
-
-[{"name": "HAMILTON"},
-
-{"word": "This"},
-
-{"word": "is"},
-
-{"word": "the"},
-
-{"word": "eye"},
-
-{"word": "of"},
-
-{"word": "the"},
-
-{"word": "hurricane"},
-
-{"word": "this"},
-
-{"word": "is"},
-
-{"word": "the"},
-
-{"word": "only"},
-
-{"word": "Way"},
-
-{"word": "I"},
-
-{"word": "can"},
-
-{"word": "protect"},
-
-{"word": "my"},
-
-{"word": "legacy…"}],
-
-[{"name": "COMPANY (EXCEPT HAMILTON)"},
-
-{"word": "Wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait"},
-
-{"word": "for"},
-
-{"word": "it"},
-
-{"word": "wait…"}],
-
-[{"name": "HAMILTON"},
-
-{"word": "The"},
-
-{"word": "Reynolds"},
-
-{"word": "Pamphlet"}]
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "In"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "eye"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "hurricane"
+			},
+
+			{
+				"word": "There"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "quiet"
+			},
+
+			{
+				"word": "For"
+			},
+
+			{
+				"word": "just"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "moment"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "yellow"
+			},
+
+			{
+				"word": "sky"
+			},
+
+			{
+				"word": "When"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "seventeen"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "hurricane"
+			},
+
+			{
+				"word": "Destroyed"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "town"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "didn’t"
+			},
+
+			{
+				"word": "drown"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "couldn’t"
+			},
+
+			{
+				"word": "seem"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "die"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "way"
+			},
+
+			{
+				"word": "out"
+			},
+
+			{
+				"word": "Wrote"
+			},
+
+			{
+				"word": "everything"
+			},
+
+			{
+				"word": "down"
+			},
+
+			{
+				"word": "far"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "could"
+			},
+
+			{
+				"word": "see"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "way"
+			},
+
+			{
+				"word": "out"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "looked"
+			},
+
+			{
+				"word": "up"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "town"
+			},
+
+			{
+				"word": "had"
+			},
+
+			{
+				"word": "its"
+			},
+
+			{
+				"word": "eyes"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "They"
+			},
+
+			{
+				"word": "passed"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "plate"
+			},
+
+			{
+				"word": "around"
+			},
+
+			{
+				"word": "Total"
+			},
+
+			{
+				"word": "strangers"
+			},
+
+			{
+				"word": "Moved"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "kindness"
+			},
+
+			{
+				"word": "by"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "story"
+			},
+
+			{
+				"word": "Raised"
+			},
+
+			{
+				"word": "enough"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "book"
+			},
+
+			{
+				"word": "passage"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "Ship"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "New"
+			},
+
+			{
+				"word": "York"
+			},
+
+			{
+				"word": "boud"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "way"
+			},
+
+			{
+				"word": "out"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "hell"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "way"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "revolution"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "louder"
+			},
+
+			{
+				"word": "than"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "crack"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "bell"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "Eliza"
+			},
+
+			{
+				"word": "love"
+			},
+
+			{
+				"word": "letters"
+			},
+
+			{
+				"word": "until"
+			},
+
+			{
+				"word": "she"
+			},
+
+			{
+				"word": "fell"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "about"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "Constitution"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "defended"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "well"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "face"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "ignorance"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "resistance"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "financial"
+			},
+
+			{
+				"word": "systems"
+			},
+
+			{
+				"word": "into"
+			},
+
+			{
+				"word": "existence"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "when"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "prayers"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "God"
+			},
+
+			{
+				"word": "were"
+			},
+
+			{
+				"word": "met"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "indifference"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "picked"
+			},
+
+			{
+				"word": "up"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "pen"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wrote"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "own"
+			},
+
+			{
+				"word": "deliverance"
+			},
+
+			{
+				"word": "In"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "eye"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "hurricane"
+			},
+
+			{
+				"word": "There"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "quiet"
+			},
+
+			{
+				"word": "For"
+			},
+
+			{
+				"word": "just"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "moment"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "yellow"
+			},
+
+			{
+				"word": "sky"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "twelve"
+			},
+
+			{
+				"word": "when"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "mother"
+			},
+
+			{
+				"word": "died"
+			},
+
+			{
+				"word": "She"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "holding"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "We"
+			},
+
+			{
+				"word": "were"
+			},
+
+			{
+				"word": "sick"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "she"
+			},
+
+			{
+				"word": "was"
+			},
+
+			{
+				"word": "holding"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "couldn’t"
+			},
+
+			{
+				"word": "seem"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "die"
+			},
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it…"
+			}
+		],
+
+		[{
+				"name": "BURR AND ENSEMBLE"
+			},
+
+			{
+				"word": "Wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it…"
+			},
+
+			{
+				"word": "Wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": ""
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "I’ll"
+			},
+
+			{
+				"word": "write"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "way"
+			},
+
+			{
+				"word": "out…"
+			},
+
+			{
+				"word": "Write"
+			},
+
+			{
+				"word": "ev’rything"
+			},
+
+			{
+				"word": "down"
+			},
+
+			{
+				"word": "far"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "see…"
+			},
+
+			{
+				"word": "I’ll"
+			},
+
+			{
+				"word": "write"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "way"
+			},
+
+			{
+				"word": "out…"
+			},
+
+			{
+				"word": "Overwhelm"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "honesty"
+			},
+
+			{
+				"word": ""
+			}
+		],
+
+		[{
+				"name": "WASHINTON"
+			},
+
+			{
+				"word": "ELIZAANGELICA"
+			},
+
+			{
+				"word": "MARIA"
+			},
+
+			{
+				"word": "History"
+			},
+
+			{
+				"word": "has"
+			},
+
+			{
+				"word": "its"
+			},
+
+			{
+				"word": "eyes"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "you"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "This"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "eye"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "hurricane"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "only"
+			},
+
+			{
+				"word": "Way"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "protect"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "legacy…"
+			}
+		],
+
+		[{
+				"name": "COMPANY (EXCEPT HAMILTON)"
+			},
+
+			{
+				"word": "Wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "wait…"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "Reynolds"
+			},
+
+			{
+				"word": "Pamphlet"
+			}
+		]
+	]
+}
