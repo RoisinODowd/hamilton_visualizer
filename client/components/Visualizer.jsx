@@ -14,7 +14,7 @@ export default class Visualizer extends React.Component{
     super(props);
 
 		var json = require('../motifs.json');
-	  this.state = {motifs:  json["motifs"], lastParagraph:  -1, motifIndices: [], draw: '', visited: [] };
+	  this.state = {motifs:  json["motifs"], lastParagraph:  -1, motifIndices: [], draw: '', visited: [], index: -1 };
 		for (var i = 2; i < this.state.motifs.length; i+=4) {
       this.state.motifs[i]['word3'] = this.state.motifs[i]['word3'].substring(0, this.state.motifs[i]['word3'].length - 1); 
 		}
@@ -25,8 +25,8 @@ export default class Visualizer extends React.Component{
       var v = this.state.visited[n];
 			 if (Math.abs(x - v.x) <= v.w && Math.abs(y - v.y) <= v.h ) {
 				 console.log(v.a + ' ' + v.b + ' ' + v.c);
-				 break;
-			}
+				 this.setState({index: n});
+				}
 		 }
 	}
 
@@ -121,7 +121,7 @@ export default class Visualizer extends React.Component{
 
 			var color = this.getRandomColor();
 			rect.animate({ease: '<>'}).move(randX * 50, randY * 50 ).fill(color);
-    	currentlyVisited.push({a: a, b: b, c: c, x: randX*50, y: randY * 50, w: w, h: h, color: color});
+    	currentlyVisited.push({a: a, b: b, c: c, x: randX*50, y: randY * 50, w: w, h: h, color: color, freq: freq});
 			this.setState({visited: currentlyVisited});
 
 
@@ -156,13 +156,21 @@ export default class Visualizer extends React.Component{
     }
 
 
+    var str = '';
+		var freq = '';
+		if (this.state.index >= 0){
+	    	var v =  this.state.visited[this.state.index]; 
+			  str = v.a + " " + v.b + " " + v.c;
+			  freq = v.freq + " instances";
+		}
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
 				<D3 mouse={this.onMouseClick.bind(this) }funcBack={this.getDrawFromRenderer.bind(this)} indices = {this.state.motifIndices} id ='maind3' width='1000px' height='600px' />
 				<span>
 				<Scrollpane label = {this.props.label} func={this.scroll.bind(this)} id='scroll' width='34vw' height='400px' lineHeight='18px' lineHeightNumber='18' />
-				<div style={{ height:  '200px'}}>
-
+				<div style={{ height:  '188px', background: 'black', color: '#997500', border: '2px solid grey', font: '20px Arial', padding: '4px 10px'}}>
+					Motif: { str } <br/>
+					Frequency: { freq }
 				</div>
 			 </span>
 			</div>

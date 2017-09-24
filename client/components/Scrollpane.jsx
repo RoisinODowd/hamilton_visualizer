@@ -35,9 +35,9 @@ export default class Scrollpane extends React.Component{
 			   var height = element.clientHeight;
 			   var numLinesPerParagraph = Math.ceil(height / this.props.lineHeightNumber) - 2;
 					if (numLinesPerParagraph < 2) {
-						sum += numLinesPerParagraph + 0;
+						sum += numLinesPerParagraph + 1;
 				 }else{
-					 sum += Math.round(numLinesPerParagraph*1.25) + 1;
+					 sum += Math.round(numLinesPerParagraph*0.85) + 1;
 				 }
 		}
 
