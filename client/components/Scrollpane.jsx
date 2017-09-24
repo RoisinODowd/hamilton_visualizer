@@ -55,7 +55,7 @@ export default class Scrollpane extends React.Component{
 		if (number < 0)
 			number = 0;
 
-		if (number >= this.state.pastLines[this.state.currentParagraph + 1] && this.state.currentParagraph < myListItems.length - 1) {
+		if (number >= this.state.pastLines[this.state.currentParagraph + 1] && this.state.currentParagraph < myListItems.length - 2) {
 			this.state = {
 				previousParagraph: this.state.currentParagraph,
 				currentParagraph: this.state.currentParagraph + 1,
@@ -72,7 +72,7 @@ export default class Scrollpane extends React.Component{
 		}
 
 
-		this.props.func(this.state.currentParagraph);
+		this.props.func(this.state.currentParagraph, this.state, number);
 
 	}
 

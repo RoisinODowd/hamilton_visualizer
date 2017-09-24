@@ -1,751 +1,1496 @@
 {
 	"results": [
-		[
-{"name": "BURR"},
-
-{"word": "How"},
-
-{"word": "does"},
-
-{"word": "a"},
-
-{"word": "ragtag"},
-
-{"word": "volunteer"},
-
-{"word": "army"},
-
-{"word": "in"},
-
-{"word": "need"},
-
-{"word": "of"},
-
-{"word": "a"},
-
-{"word": "shower"},
-
-{"word": "Somehow"},
-
-{"word": "defeat"},
-
-{"word": "a"},
-
-{"word": "global"},
-
-{"word": "superpower"},
-
-{"word": "How"},
-
-{"word": "do"},
-
-{"word": "we"},
-
-{"word": "emerge"},
-
-{"word": "victorious"},
-
-{"word": "from"},
-
-{"word": "the"},
-
-{"word": "quagmire"},
-
-{"word": "Leave"},
-
-{"word": "the"},
-
-{"word": "battlefield"},
-
-{"word": "waving"},
-
-{"word": "Betsy"},
-
-{"word": "Ross’"},
-
-{"word": "flag"},
-
-{"word": "higher"},
-
-{"word": "Yo"},
-
-{"word": "Turns"},
-
-{"word": "out"},
-
-{"word": "we"},
-
-{"word": "have"},
-
-{"word": "a"},
-
-{"word": "secret"},
-
-{"word": "weapon"},
-
-{"word": "An"},
-
-{"word": "immigrant"},
-
-{"word": "you"},
-
-{"word": "know"},
-
-{"word": "and"},
-
-{"word": "love"},
-
-{"word": "who’s"},
-
-{"word": "unafraid"},
-
-{"word": "to"},
-
-{"word": "step"},
-
-{"word": "in"},
-
-{"word": "He’s"},
-
-{"word": "constantly"},
-
-{"word": "confusin’"},
-
-{"word": "confoundin’"},
-
-{"word": "the"},
-
-{"word": "British"},
-
-{"word": "henchmen"},
-
-{"word": "Ev’ryone"},
-
-{"word": "give"},
-
-{"word": "it"},
-
-{"word": "up"},
-
-{"word": "for"},
-
-{"word": "America’s"},
-
-{"word": "favorite"},
-
-{"word": "fighting"},
-
-{"word": "Frenchman"}
-		],[
-{"name": "COMPANY"},
-
-{"word": "Lafayette"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "I’m"},
-
-{"word": "takin"},
-
-{"word": "this"},
-
-{"word": "horse"},
-
-{"word": "by"},
-
-{"word": "the"},
-
-{"word": "reins"},
-
-{"word": "makin’"},
-
-{"word": "Redcoats"},
-
-{"word": "redder"},
-
-{"word": "with"},
-
-{"word": "bloodstains"}
-		],[
-{"name": "COMPANY"},
-
-{"word": "Lafayette"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "And"},
-
-{"word": "I’m"},
-
-{"word": "never"},
-
-{"word": "gonna"},
-
-{"word": "stop"},
-
-{"word": "until"},
-
-{"word": "I"},
-
-{"word": "make"},
-
-{"word": "‘em"},
-
-{"word": "Drop"},
-
-{"word": "and"},
-
-{"word": "burn"},
-
-{"word": "‘em"},
-
-{"word": "up"},
-
-{"word": "and"},
-
-{"word": "scatter"},
-
-{"word": "their"},
-
-{"word": "remains"},
-
-{"word": "I’m"}
-		],[
-{"name": "COMPANY"},
-
-{"word": "Lafayette"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "Watch"},
-
-{"word": "me"},
-
-{"word": "engagin’"},
-
-{"word": "em"},
-
-{"word": "Escapin’"},
-
-{"word": "em"},
-
-{"word": "Enragin’"},
-
-{"word": "em"},
-
-{"word": "I’m—"}
-		],[
-{"name": "COMPANY"},
-
-{"word": "Lafayette"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "I"},
-
-{"word": "go"},
-
-{"word": "to"},
-
-{"word": "France"},
-
-{"word": "for"},
-
-{"word": "more"},
-
-{"word": "funds"}
-		],[
-{"name": "COMPANY"},
-
-{"word": "Lafayette"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "I"},
-
-{"word": "come"},
-
-{"word": "back"},
-
-{"word": "with"},
-
-{"word": "more"}
-		],[
-{"name": "LAFAYETTE AND ENSEMBLE"},
-
-{"word": "Guns"},
-
-{"word": "And"},
-
-{"word": "ships"},
-
-{"word": "And"},
-
-{"word": "so"},
-
-{"word": "the"},
-
-{"word": "balance"},
-
-{"word": "shifts"}
-		],[
-{"name": "WASHINGTON"},
-
-{"word": "We"},
-
-{"word": "rendezvous"},
-
-{"word": "with"},
-
-{"word": "Rochambeau"},
-
-{"word": "consolidate"},
-
-{"word": "their"},
-
-{"word": "gifts"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "We"},
-
-{"word": "can"},
-
-{"word": "end"},
-
-{"word": "this"},
-
-{"word": "war"},
-
-{"word": "at"},
-
-{"word": "Yorktown"},
-
-{"word": "cut"},
-
-{"word": "them"},
-
-{"word": "off"},
-
-{"word": "at"},
-
-{"word": "sea"},
-
-{"word": "but"},
-
-{"word": "For"},
-
-{"word": "this"},
-
-{"word": "to"},
-
-{"word": "succeed"},
-
-{"word": "there"},
-
-{"word": "is"},
-
-{"word": "someone"},
-
-{"word": "else"},
-
-{"word": "we"},
-
-{"word": "need"}
-		],[
-{"name": "WASHINGTON"},
-
-{"word": "I"},
-
-{"word": "know"}
-		],[
-{"name": "WASHINGTON AND COMPANY"},
-
-{"word": "Hamilton"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "Sir"},
-
-{"word": "he"},
-
-{"word": "knows"},
-
-{"word": "what"},
-
-{"word": "to"},
-
-{"word": "do"},
-
-{"word": "in"},
-
-{"word": "a"},
-
-{"word": "trench"},
-
-{"word": "Ingenuitive"},
-
-{"word": "and"},
-
-{"word": "fluent"},
-
-{"word": "in"},
-
-{"word": "French"},
-
-{"word": "I"},
-
-{"word": "mean—"}
-		],[
-{"name": "WASHINGTON AND COMPANY"},
-
-{"word": "Hamilton"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "Sir"},
-
-{"word": "you’re"},
-
-{"word": "gonna"},
-
-{"word": "have"},
-
-{"word": "to"},
-
-{"word": "use"},
-
-{"word": "him"},
-
-{"word": "eventually"},
-
-{"word": "What’s"},
-
-{"word": "he"},
-
-{"word": "gonna"},
-
-{"word": "do"},
-
-{"word": "on"},
-
-{"word": "the"},
-
-{"word": "bench"},
-
-{"word": "I"},
-
-{"word": "mean—"}
-		],[
-{"name": "WASHINGTON AND COMPANY"},
-
-{"word": "Hamilton"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "No"},
-
-{"word": "one"},
-
-{"word": "has"},
-
-{"word": "more"},
-
-{"word": "resilience"},
-
-{"word": "Or"},
-
-{"word": "matches"},
-
-{"word": "my"},
-
-{"word": "practical"},
-
-{"word": "tactical"},
-
-{"word": "brilliance—"}
-		],[
-{"name": "WASHINGTON AND COMPANY"},
-
-{"word": "Hamilton"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "You"},
-
-{"word": "wanna"},
-
-{"word": "fight"},
-
-{"word": "for"},
-
-{"word": "your"},
-
-{"word": "land"},
-
-{"word": "back"},
-		],[
-{"name": "WASHINGTON"},
-
-{"word": "I"},
-
-{"word": "need"},
-
-{"word": "my"},
-
-{"word": "right"},
-
-{"word": "hand"},
-
-{"word": "man"},
-
-{"word": "back"}
-		],[
-{"name": "LAFAYETTE"},
-
-{"word": "Ah"},
-
-{"word": "Uh"},
-
-{"word": "get"},
-
-{"word": "ya"},
-
-{"word": "right"},
-
-{"word": "hand"},
-
-{"word": "man"},
-
-{"word": "back"},
-
-{"word": "You"},
-
-{"word": "know"},
-
-{"word": "you"},
-
-{"word": "gotta"},
-
-{"word": "get"},
-
-{"word": "ya"},
-
-{"word": "right"},
-
-{"word": "hand"},
-
-{"word": "man"},
-
-{"word": "back"},
-
-{"word": "I"},
-
-{"word": "mean"},
-
-{"word": "you"},
-
-{"word": "gotta"},
-
-{"word": "put"},
-
-{"word": "some"},
-
-{"word": "thought"},
-
-{"word": "into"},
-
-{"word": "the"},
-
-{"word": "letter"},
-
-{"word": "but"},
-
-{"word": "the"},
-
-{"word": "sooner"},
-
-{"word": "the"},
-
-{"word": "better"},
-
-{"word": "To"},
-
-{"word": "get"},
-
-{"word": "your"},
-
-{"word": "right"},
-
-{"word": "hand"},
-
-{"word": "man"},
-
-{"word": "back"}
-		],[
-{"name": "COMPANY"},
-
-{"word": "Hamilton"}
-		],[
-{"name": "WOMEN"},
-
-{"word": "Hamilton"},
-
-{"word": "Hamilton"},
-
-{"word": "Hamilton"},
-
-{"word": "Hamilton"},
-
-{"word": "Ha—"},
-
-{"word": "ha—"}
-		],[
-{"name": "MEN"},
-
-{"word": "Get"},
-
-{"word": "your"},
-
-{"word": "right"},
-
-{"word": "hand"},
-
-{"word": "man"},
-
-{"word": "back"},
-
-{"word": "Your"},
-
-{"word": "right"},
-
-{"word": "hand"},
-
-{"word": "man"},
-
-{"word": "back"},
-
-{"word": "Hamilton"},
-
-{"word": "Ha—"},
-
-{"word": "Ha—"},
-
-{"word": "Hamilton"},
-
-{"word": "Hamilton"},
-
-{"word": "Ha—"},
-
-{"word": "ha—"}
-		],[
-{"name": "WASHINGTON"},
-
-{"word": "Alexander"},
-
-{"word": "Hamilton"},
-
-{"word": "Troops"},
-
-{"word": "are"},
-
-{"word": "waiting"},
-
-{"word": "in"},
-
-{"word": "the"},
-
-{"word": "field"},
-
-{"word": "for"},
-
-{"word": "you"},
-
-{"word": "If"},
-
-{"word": "you"},
-
-{"word": "join"},
-
-{"word": "us"},
-
-{"word": "right"},
-
-{"word": "now"},
-
-{"word": "together"},
-
-{"word": "we"},
-
-{"word": "can"},
-
-{"word": "turn"},
-
-{"word": "the"},
-
-{"word": "tide"},
-
-{"word": "Oh"},
-
-{"word": "Alexander"},
-
-{"word": "Hamilton"},
-
-{"word": "I"},
-
-{"word": "have"},
-
-{"word": "soldiers"},
-
-{"word": "that"},
-
-{"word": "will"},
-
-{"word": "yield"},
-
-{"word": "for"},
-
-{"word": "you"},
-
-{"word": "If"},
-
-{"word": "we"},
-
-{"word": "manage"},
-
-{"word": "to"},
-
-{"word": "get"},
-
-{"word": "this"},
-
-{"word": "right"},
-
-{"word": "They’ll"},
-
-{"word": "surrender"},
-
-{"word": "by"},
-
-{"word": "early"},
-
-{"word": "light"},
-
-{"word": "The"},
-
-{"word": "world"},
-
-{"word": "will"},
-
-{"word": "never"},
-
-{"word": "be"},
-
-{"word": "the"},
-
-{"word": "same"},
-
-{"word": "Alexander…"}
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "How"
+			},
+
+			{
+				"word": "does"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "ragtag"
+			},
+
+			{
+				"word": "volunteer"
+			},
+
+			{
+				"word": "army"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "shower"
+			},
+
+			{
+				"word": "Somehow"
+			},
+
+			{
+				"word": "defeat"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "global"
+			},
+
+			{
+				"word": "superpower"
+			},
+
+			{
+				"word": "How"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "emerge"
+			},
+
+			{
+				"word": "victorious"
+			},
+
+			{
+				"word": "from"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "quagmire"
+			},
+
+			{
+				"word": "Leave"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "battlefield"
+			},
+
+			{
+				"word": "waving"
+			},
+
+			{
+				"word": "Betsy"
+			},
+
+			{
+				"word": "Ross’"
+			},
+
+			{
+				"word": "flag"
+			},
+
+			{
+				"word": "higher"
+			},
+
+			{
+				"word": "Yo"
+			},
+
+			{
+				"word": "Turns"
+			},
+
+			{
+				"word": "out"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "secret"
+			},
+
+			{
+				"word": "weapon"
+			},
+
+			{
+				"word": "An"
+			},
+
+			{
+				"word": "immigrant"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "know"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "love"
+			},
+
+			{
+				"word": "who’s"
+			},
+
+			{
+				"word": "unafraid"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "step"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "He’s"
+			},
+
+			{
+				"word": "constantly"
+			},
+
+			{
+				"word": "confusin’"
+			},
+
+			{
+				"word": "confoundin’"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "British"
+			},
+
+			{
+				"word": "henchmen"
+			},
+
+			{
+				"word": "Ev’ryone"
+			},
+
+			{
+				"word": "give"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "up"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "America’s"
+			},
+
+			{
+				"word": "favorite"
+			},
+
+			{
+				"word": "fighting"
+			},
+
+			{
+				"word": "Frenchman"
+			}
+		],
+		[{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Lafayette"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "takin"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "horse"
+			},
+
+			{
+				"word": "by"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "reins"
+			},
+
+			{
+				"word": "makin’"
+			},
+
+			{
+				"word": "Redcoats"
+			},
+
+			{
+				"word": "redder"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "bloodstains"
+			}
+		],
+		[{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Lafayette"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "never"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "stop"
+			},
+
+			{
+				"word": "until"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "make"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "Drop"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "burn"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "up"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "scatter"
+			},
+
+			{
+				"word": "their"
+			},
+
+			{
+				"word": "remains"
+			},
+
+			{
+				"word": "I’m"
+			}
+		],
+		[{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Lafayette"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "Watch"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "engagin’"
+			},
+
+			{
+				"word": "em"
+			},
+
+			{
+				"word": "Escapin’"
+			},
+
+			{
+				"word": "em"
+			},
+
+			{
+				"word": "Enragin’"
+			},
+
+			{
+				"word": "em"
+			},
+
+			{
+				"word": "I’m—"
+			}
+		],
+		[{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Lafayette"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "go"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "France"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "more"
+			},
+
+			{
+				"word": "funds"
+			}
+		],
+		[{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Lafayette"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "come"
+			},
+
+			{
+				"word": "back"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "more"
+			}
+		],
+		[{
+				"name": "LAFAYETTE AND ENSEMBLE"
+			},
+
+			{
+				"word": "Guns"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "ships"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "so"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "balance"
+			},
+
+			{
+				"word": "shifts"
+			}
+		],
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "We"
+			},
+
+			{
+				"word": "rendezvous"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "Rochambeau"
+			},
+
+			{
+				"word": "consolidate"
+			},
+
+			{
+				"word": "their"
+			},
+
+			{
+				"word": "gifts"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "We"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "end"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "war"
+			},
+
+			{
+				"word": "at"
+			},
+
+			{
+				"word": "Yorktown"
+			},
+
+			{
+				"word": "cut"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "off"
+			},
+
+			{
+				"word": "at"
+			},
+
+			{
+				"word": "sea"
+			},
+
+			{
+				"word": "but"
+			},
+
+			{
+				"word": "For"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "succeed"
+			},
+
+			{
+				"word": "there"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "someone"
+			},
+
+			{
+				"word": "else"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "need"
+			}
+		],
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "know"
+			}
+		],
+		[{
+				"name": "WASHINGTON AND COMPANY"
+			},
+
+			{
+				"word": "Hamilton"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "Sir"
+			},
+
+			{
+				"word": "he"
+			},
+
+			{
+				"word": "knows"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "trench"
+			},
+
+			{
+				"word": "Ingenuitive"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "fluent"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "French"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "mean—"
+			}
+		],
+		[{
+				"name": "WASHINGTON AND COMPANY"
+			},
+
+			{
+				"word": "Hamilton"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "Sir"
+			},
+
+			{
+				"word": "you’re"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "use"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "eventually"
+			},
+
+			{
+				"word": "What’s"
+			},
+
+			{
+				"word": "he"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "bench"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "mean—"
+			}
+		],
+		[{
+				"name": "WASHINGTON AND COMPANY"
+			},
+
+			{
+				"word": "Hamilton"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "No"
+			},
+
+			{
+				"word": "one"
+			},
+
+			{
+				"word": "has"
+			},
+
+			{
+				"word": "more"
+			},
+
+			{
+				"word": "resilience"
+			},
+
+			{
+				"word": "Or"
+			},
+
+			{
+				"word": "matches"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "practical"
+			},
+
+			{
+				"word": "tactical"
+			},
+
+			{
+				"word": "brilliance—"
+			}
+		],
+		[{
+				"name": "WASHINGTON AND COMPANY"
+			},
+
+			{
+				"word": "Hamilton"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "fight"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "land"
+			},
+
+			{
+				"word": "back"
+			}
+		],
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "hand"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "back"
+			}
+		],
+		[{
+				"name": "LAFAYETTE"
+			},
+
+			{
+				"word": "Ah"
+			},
+
+			{
+				"word": "Uh"
+			},
+
+			{
+				"word": "get"
+			},
+
+			{
+				"word": "ya"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "hand"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "back"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "know"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "gotta"
+			},
+
+			{
+				"word": "get"
+			},
+
+			{
+				"word": "ya"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "hand"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "back"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "mean"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "gotta"
+			},
+
+			{
+				"word": "put"
+			},
+
+			{
+				"word": "some"
+			},
+
+			{
+				"word": "thought"
+			},
+
+			{
+				"word": "into"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "letter"
+			},
+
+			{
+				"word": "but"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "sooner"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "better"
+			},
+
+			{
+				"word": "To"
+			},
+
+			{
+				"word": "get"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "hand"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "back"
+			}
+		],
+		[{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Hamilton"
+			}
+		],
+		[{
+				"name": "WOMEN"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Ha—"
+			},
+
+			{
+				"word": "ha—"
+			}
+		],
+		[{
+				"name": "MEN"
+			},
+
+			{
+				"word": "Get"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "hand"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "back"
+			},
+
+			{
+				"word": "Your"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "hand"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "back"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Ha—"
+			},
+
+			{
+				"word": "Ha—"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Ha—"
+			},
+
+			{
+				"word": "ha—"
+			}
+		],
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Alexander"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "Troops"
+			},
+
+			{
+				"word": "are"
+			},
+
+			{
+				"word": "waiting"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "field"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "If"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "join"
+			},
+
+			{
+				"word": "us"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "now"
+			},
+
+			{
+				"word": "together"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "turn"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "tide"
+			},
+
+			{
+				"word": "Oh"
+			},
+
+			{
+				"word": "Alexander"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "soldiers"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "yield"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "If"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "manage"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "get"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "They’ll"
+			},
+
+			{
+				"word": "surrender"
+			},
+
+			{
+				"word": "by"
+			},
+
+			{
+				"word": "early"
+			},
+
+			{
+				"word": "light"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "world"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "never"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "same"
+			},
+
+			{
+				"word": "Alexander…"
+			}
 		]
 	]
 }
