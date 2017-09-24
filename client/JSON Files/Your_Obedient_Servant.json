@@ -1,685 +1,1374 @@
 {
-"results": [
-[
-{"name": "BURR"},
-
-{"word": "How"},
-
-{"word": "does"},
-
-{"word": "Hamilton"},
-
-{"word": "An"},
-
-{"word": "arrogant"},
-
-{"word": "Immigrant"},
-
-{"word": "orphan"},
-
-{"word": "Bastard"},
-
-{"word": "whoreson"},
-
-{"word": "Somehow"},
-
-{"word": "endorse"},
-
-{"word": "Thomas"},
-
-{"word": "Jefferson"},
-
-{"word": "his"},
-
-{"word": "enemy"},
-
-{"word": "A"},
-
-{"word": "man"},
-
-{"word": "he’s"},
-
-{"word": "despised"},
-
-{"word": "since"},
-
-{"word": "the"},
-
-{"word": "beginning"},
-
-{"word": "Just"},
-
-{"word": "to"},
-
-{"word": "keep"},
-
-{"word": "me"},
-
-{"word": "from"},
-
-{"word": "winning"},
-
-{"word": "I"},
-
-{"word": "wanna"},
-
-{"word": "be"},
-
-{"word": "in"},
-
-{"word": "the"},
-
-{"word": "room"},
-
-{"word": "where"},
-
-{"word": "it"},
-
-{"word": "happens—"}],
-
-[{"name": "BURR AND COMPANY"},
-
-{"word": "The"},
-
-{"word": "room"},
-
-{"word": "where"},
-
-{"word": "it"},
-
-{"word": "happens"},
-
-{"word": "The"},
-
-{"word": "room"},
-
-{"word": "where"},
-
-{"word": "it"},
-
-{"word": "happens"},
-][
-{"name": "BURR"},
-
-{"word": "You’ve"},
-
-{"word": "kept"},
-
-{"word": "me"},
-
-{"word": "from—"},
-][]
-{"name": "BURR AND COMPANY"},
-
-{"word": "The"},
-
-{"word": "room"},
-
-{"word": "where"},
-
-{"word": "it"},
-
-{"word": "happens"},
-][
-{"name": "BURR"},
-
-{"word": "For"},
-
-{"word": "the"},
-
-{"word": "last"},
-
-{"word": "time"},
-
-{"word": "Dear"},
-
-{"word": "Alexander"},
-
-{"word": "I"},
-
-{"word": "am"},
-
-{"word": "slow"},
-
-{"word": "to"},
-
-{"word": "anger"},
-
-{"word": "But"},
-
-{"word": "I"},
-
-{"word": "toe"},
-
-{"word": "the"},
-
-{"word": "line"},
-
-{"word": "As"},
-
-{"word": "I"},
-
-{"word": "reckon"},
-
-{"word": "with"},
-
-{"word": "the"},
-
-{"word": "effects"},
-
-{"word": "Of"},
-
-{"word": "your"},
-
-{"word": "life"},
-
-{"word": "on"},
-
-{"word": "mine"},
-
-{"word": "I"},
-
-{"word": "look"},
-
-{"word": "back"},
-
-{"word": "on"},
-
-{"word": "where"},
-
-{"word": "I"},
-
-{"word": "failed"},
-
-{"word": "And"},
-
-{"word": "in"},
-
-{"word": "every"},
-
-{"word": "place"},
-
-{"word": "I"},
-
-{"word": "checked"},
-
-{"word": "The"},
-
-{"word": "only"},
-
-{"word": "common"},
-
-{"word": "thread"},
-
-{"word": "has"},
-
-{"word": "been"},
-
-{"word": "your"},
-
-{"word": "disrespect"},
-
-{"word": "Now"},
-
-{"word": "you"},
-
-{"word": "call"},
-
-{"word": "me"},
-
-{"word": "“amoral”"},
-
-{"word": "A"},
-
-{"word": "“dangerous"},
-
-{"word": "disgrace”"},
-
-{"word": "If"},
-
-{"word": "you’ve"},
-
-{"word": "got"},
-
-{"word": "something"},
-
-{"word": "to"},
-
-{"word": "say"},
-
-{"word": "Name"},
-
-{"word": "a"},
-
-{"word": "time"},
-
-{"word": "and"},
-
-{"word": "place"},
-
-{"word": "Face"},
-
-{"word": "to"},
-
-{"word": "face"},
-
-{"word": "I"},
-
-{"word": "have"},
-
-{"word": "the"},
-
-{"word": "honor"},
-
-{"word": "to"},
-
-{"word": "be"},
-
-{"word": "Your"},
-
-{"word": "Obedient"},
-
-{"word": "Servant"},
-
-{"word": "A"},
-
-{"word": "dot"},
-
-{"word": "Burr"},][
-
-{"name": "HAMILTON"},
-
-{"word": "Mr"},
-
-{"word": "Vice"},
-
-{"word": "President"},
-
-{"word": "I"},
-
-{"word": "am"},
-
-{"word": "not"},
-
-{"word": "the"},
-
-{"word": "reason"},
-
-{"word": "no"},
-
-{"word": "one"},
-
-{"word": "trusts"},
-
-{"word": "you"},
-
-{"word": "No"},
-
-{"word": "one"},
-
-{"word": "knows"},
-
-{"word": "what"},
-
-{"word": "you"},
-
-{"word": "believe"},
-
-{"word": "I"},
-
-{"word": "will"},
-
-{"word": "not"},
-
-{"word": "equivocate"},
-
-{"word": "on"},
-
-{"word": "my"},
-
-{"word": "opinion"},
-
-{"word": "I"},
-
-{"word": "have"},
-
-{"word": "always"},
-
-{"word": "worn"},
-
-{"word": "it"},
-
-{"word": "on"},
-
-{"word": "my"},
-
-{"word": "sleeve"},
-
-{"word": "Even"},
-
-{"word": "if"},
-
-{"word": "I"},
-
-{"word": "said"},
-
-{"word": "what"},
-
-{"word": "you"},
-
-{"word": "think"},
-
-{"word": "I"},
-
-{"word": "said"},
-
-{"word": "You"},
-
-{"word": "would"},
-
-{"word": "need"},
-
-{"word": "to"},
-
-{"word": "cite"},
-
-{"word": "a"},
-
-{"word": "more"},
-
-{"word": "specific"},
-
-{"word": "grievance"},
-
-{"word": "Here’s"},
-
-{"word": "an"},
-
-{"word": "itemized"},
-
-{"word": "list"},
-
-{"word": "of"},
-
-{"word": "thirty"},
-
-{"word": "years"},
-
-{"word": "of"},
-
-{"word": "disagreements"},][
-
-{"name": "BURR"},
-
-{"word": "Sweet"},
-
-{"word": "Jesus"},
-][
-{"name": "HAMILTON"},
-
-{"word": "Hey"},
-
-{"word": "I"},
-
-{"word": "have"},
-
-{"word": "not"},
-
-{"word": "been"},
-
-{"word": "shy"},
-
-{"word": "I"},
-
-{"word": "am"},
-
-{"word": "just"},
-
-{"word": "a"},
-
-{"word": "guy"},
-
-{"word": "in"},
-
-{"word": "the"},
-
-{"word": "public"},
-
-{"word": "eye"},
-
-{"word": "Tryin’"},
-
-{"word": "to"},
-
-{"word": "do"},
-
-{"word": "my"},
-
-{"word": "best"},
-
-{"word": "for"},
-
-{"word": "our"},
-
-{"word": "republic"},
-
-{"word": "I"},
-
-{"word": "don’t"},
-
-{"word": "wanna"},
-
-{"word": "fight"},
-
-{"word": "But"},
-
-{"word": "I"},
-
-{"word": "won’t"},
-
-{"word": "apologize"},
-
-{"word": "for"},
-
-{"word": "doing"},
-
-{"word": "what’s"},
-
-{"word": "right"},
-
-{"word": "I"},
-
-{"word": "have"},
-
-{"word": "the"},
-
-{"word": "honor"},
-
-{"word": "to"},
-
-{"word": "be"},
-
-{"word": "Your"},
-
-{"word": "Obedient"},
-
-{"word": "Servant"},
-
-{"word": "A"},
-
-{"word": "dot"},
-
-{"word": "Ham"},
-][
-{"name": "BURR"},
-
-{"word": "Careful"},
-
-{"word": "how"},
-
-{"word": "you"},
-
-{"word": "proceed"},
-
-{"word": "good"},
-
-{"word": "man"},
-
-{"word": "Intemperate"},
-
-{"word": "indeed"},
-
-{"word": "good"},
-
-{"word": "man"},
-
-{"word": "Answer"},
-
-{"word": "for"},
-
-{"word": "the"},
-
-{"word": "accusations"},
-
-{"word": "I"},
-
-{"word": "lay"},
-
-{"word": "at"},
-
-{"word": "your"},
-
-{"word": "feet"},
-
-{"word": "or"},
-
-{"word": "Prepare"},
-
-{"word": "to"},
-
-{"word": "bleed"},
-
-{"word": "good"},
-
-{"word": "man"},
-][
-{"name": "HAMILTON"},
-
-{"word": "Burr"},
-
-{"word": "your"},
-
-{"word": "grievance"},
-
-{"word": "is"},
-
-{"word": "legitimate"},
-
-{"word": "I"},
-
-{"word": "stand"},
-
-{"word": "by"},
-
-{"word": "what"},
-
-{"word": "I"},
-
-{"word": "said"},
-
-{"word": "every"},
-
-{"word": "bit"},
-
-{"word": "of"},
-
-{"word": "it"},
-
-{"word": "You"},
-
-{"word": "stand"},
-
-{"word": "only"},
-
-{"word": "for"},
-
-{"word": "yourself"},
-
-{"word": "It’s"},
-
-{"word": "what"},
-
-{"word": "you"},
-
-{"word": "do"},
-
-{"word": "I"},
-
-{"word": "can’t"},
-
-{"word": "apologize"},
-
-{"word": "because"},
-
-{"word": "it’s"},
-
-{"word": "true"},
-][
-{"name": "BURR"},
-
-{"word": "Then"},
-
-{"word": "stand"},
-
-{"word": "Alexander"},
-
-{"word": "Weehawken"},
-
-{"word": "Dawn"},
-
-{"word": "Guns"},
-
-{"word": "Drawn"}],
-
-[{"name": "HAMILTON"},
-
-{"word": "You’re"},
-
-{"word": "on"},
-][
-{"name": "BURR AND HAMILTON"},
-
-{"word": "I"},
-
-{"word": "have"},
-
-{"word": "the"},
-
-{"word": "honor"},
-
-{"word": "to"},
-
-{"word": "be"},
-
-{"word": "Your"},
-
-{"word": "Obedient"},
-
-{"word": "Servant"},
-][
-{"name": "HAMILTON"},
-
-{"word": "A"},
-
-{"word": "dot"},
-
-{"word": "Ham"},
-][
-{"name": "BURR"},
-
-{"word": "A"},
-
-{"word": "dot"},
-
-{"word": "Burr"}
-]
+	"results": [
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "How"
+			},
+
+			{
+				"word": "does"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"word": "An"
+			},
+
+			{
+				"word": "arrogant"
+			},
+
+			{
+				"word": "Immigrant"
+			},
+
+			{
+				"word": "orphan"
+			},
+
+			{
+				"word": "Bastard"
+			},
+
+			{
+				"word": "whoreson"
+			},
+
+			{
+				"word": "Somehow"
+			},
+
+			{
+				"word": "endorse"
+			},
+
+			{
+				"word": "Thomas"
+			},
+
+			{
+				"word": "Jefferson"
+			},
+
+			{
+				"word": "his"
+			},
+
+			{
+				"word": "enemy"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "he’s"
+			},
+
+			{
+				"word": "despised"
+			},
+
+			{
+				"word": "since"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "beginning"
+			},
+
+			{
+				"word": "Just"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "keep"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "from"
+			},
+
+			{
+				"word": "winning"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "room"
+			},
+
+			{
+				"word": "where"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "happens—"
+			}
+		],
+
+		[{
+				"name": "BURR AND COMPANY"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "room"
+			},
+
+			{
+				"word": "where"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "happens"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "room"
+			},
+
+			{
+				"word": "where"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "happens"
+			}
+		],
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "You’ve"
+			},
+
+			{
+				"word": "kept"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "from—"
+			}
+		],
+		[{
+				"name": "BURR AND COMPANY"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "room"
+			},
+
+			{
+				"word": "where"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "happens"
+			}
+		],
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "For"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "Dear"
+			},
+
+			{
+				"word": "Alexander"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "slow"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "anger"
+			},
+
+			{
+				"word": "But"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "toe"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "line"
+			},
+
+			{
+				"word": "As"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "reckon"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "effects"
+			},
+
+			{
+				"word": "Of"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "life"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "mine"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "look"
+			},
+
+			{
+				"word": "back"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "where"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "failed"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "every"
+			},
+
+			{
+				"word": "place"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "checked"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "only"
+			},
+
+			{
+				"word": "common"
+			},
+
+			{
+				"word": "thread"
+			},
+
+			{
+				"word": "has"
+			},
+
+			{
+				"word": "been"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "disrespect"
+			},
+
+			{
+				"word": "Now"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "call"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "“amoral”"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "“dangerous"
+			},
+
+			{
+				"word": "disgrace”"
+			},
+
+			{
+				"word": "If"
+			},
+
+			{
+				"word": "you’ve"
+			},
+
+			{
+				"word": "got"
+			},
+
+			{
+				"word": "something"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "Name"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "place"
+			},
+
+			{
+				"word": "Face"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "face"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "honor"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "Your"
+			},
+
+			{
+				"word": "Obedient"
+			},
+
+			{
+				"word": "Servant"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "dot"
+			},
+
+			{
+				"word": "Burr"
+			}
+		],
+		[
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Mr"
+			},
+
+			{
+				"word": "Vice"
+			},
+
+			{
+				"word": "President"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "not"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "reason"
+			},
+
+			{
+				"word": "no"
+			},
+
+			{
+				"word": "one"
+			},
+
+			{
+				"word": "trusts"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "No"
+			},
+
+			{
+				"word": "one"
+			},
+
+			{
+				"word": "knows"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "believe"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "not"
+			},
+
+			{
+				"word": "equivocate"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "opinion"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "always"
+			},
+
+			{
+				"word": "worn"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "sleeve"
+			},
+
+			{
+				"word": "Even"
+			},
+
+			{
+				"word": "if"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "said"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "think"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "said"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "would"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "cite"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "more"
+			},
+
+			{
+				"word": "specific"
+			},
+
+			{
+				"word": "grievance"
+			},
+
+			{
+				"word": "Here’s"
+			},
+
+			{
+				"word": "an"
+			},
+
+			{
+				"word": "itemized"
+			},
+
+			{
+				"word": "list"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "thirty"
+			},
+
+			{
+				"word": "years"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "disagreements"
+			}
+		],
+		[
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Sweet"
+			},
+
+			{
+				"word": "Jesus"
+			}
+		],
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Hey"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "not"
+			},
+
+			{
+				"word": "been"
+			},
+
+			{
+				"word": "shy"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "just"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "guy"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "public"
+			},
+
+			{
+				"word": "eye"
+			},
+
+			{
+				"word": "Tryin’"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "best"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "our"
+			},
+
+			{
+				"word": "republic"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "don’t"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "fight"
+			},
+
+			{
+				"word": "But"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "won’t"
+			},
+
+			{
+				"word": "apologize"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "doing"
+			},
+
+			{
+				"word": "what’s"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "honor"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "Your"
+			},
+
+			{
+				"word": "Obedient"
+			},
+
+			{
+				"word": "Servant"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "dot"
+			},
+
+			{
+				"word": "Ham"
+			}
+		],
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Careful"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "proceed"
+			},
+
+			{
+				"word": "good"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "Intemperate"
+			},
+
+			{
+				"word": "indeed"
+			},
+
+			{
+				"word": "good"
+			},
+
+			{
+				"word": "man"
+			},
+
+			{
+				"word": "Answer"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "accusations"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "lay"
+			},
+
+			{
+				"word": "at"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "feet"
+			},
+
+			{
+				"word": "or"
+			},
+
+			{
+				"word": "Prepare"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "bleed"
+			},
+
+			{
+				"word": "good"
+			},
+
+			{
+				"word": "man"
+			}
+		],
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Burr"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "grievance"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "legitimate"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "stand"
+			},
+
+			{
+				"word": "by"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "said"
+			},
+
+			{
+				"word": "every"
+			},
+
+			{
+				"word": "bit"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "stand"
+			},
+
+			{
+				"word": "only"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "yourself"
+			},
+
+			{
+				"word": "It’s"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "can’t"
+			},
+
+			{
+				"word": "apologize"
+			},
+
+			{
+				"word": "because"
+			},
+
+			{
+				"word": "it’s"
+			},
+
+			{
+				"word": "true"
+			}
+		],
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Then"
+			},
+
+			{
+				"word": "stand"
+			},
+
+			{
+				"word": "Alexander"
+			},
+
+			{
+				"word": "Weehawken"
+			},
+
+			{
+				"word": "Dawn"
+			},
+
+			{
+				"word": "Guns"
+			},
+
+			{
+				"word": "Drawn"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "You’re"
+			},
+
+			{
+				"word": "on"
+			}
+		],
+		[{
+				"name": "BURR AND HAMILTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "honor"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "Your"
+			},
+
+			{
+				"word": "Obedient"
+			},
+
+			{
+				"word": "Servant"
+			}
+		],
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "dot"
+			},
+
+			{
+				"word": "Ham"
+			}
+		],
+		[{
+				"name": "BURR"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "dot"
+			},
+
+			{
+				"word": "Burr"
+			}
+		]
+	]
+}
