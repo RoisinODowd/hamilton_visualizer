@@ -4,6 +4,7 @@
 
 
 import React from 'react';
+import Iframe from './Iframe.jsx'
 
 export default class Header extends React.Component{
 
@@ -67,7 +68,7 @@ export default class Header extends React.Component{
           </a>
         </span>
         <span> <b>Hamilton Visualizer</b></span>
-        <span style = {{visibility: 'hidden'}}> right </span>
+        <span > <Iframe /> </span>
       </div>
     );
   }
