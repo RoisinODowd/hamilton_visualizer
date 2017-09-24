@@ -3,7 +3,7 @@ import TextParagraph from './TextParagraph.jsx'
 
 export default class Text extends React.Component{
 	render() {
-		var json = require(`../JSON Files/A_Winter's_Ball.json`); 
+		var json = require(`../JSON Files/Aaron_Burr,_Sir.json`); 
 
 		var results = json["results"];
 		console.log(results);
@@ -21,7 +21,7 @@ export default class Text extends React.Component{
 		var k = 0;
 			return (
 				<div id = 'text' style = {{ padding: '0px 10px 0px', color: '#997500'}}>
-					{paragraphs.map(paragraph => (<TextParagraph data={paragraph} key={paragraph.length + (++k)} />))}
+					{paragraphs.map(paragraph => (<TextParagraph data={paragraph} key={paragraph.length *13* (++k)} />))}
 					<p>  <br/> <br/> <br/> <br/> <br/> <br/ ><br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/ ><br/> <br/> </p>
 		  	</div>
 						);

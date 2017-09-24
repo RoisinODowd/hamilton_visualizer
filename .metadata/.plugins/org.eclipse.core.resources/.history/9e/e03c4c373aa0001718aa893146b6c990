@@ -1,9 +1,0 @@
-import java.io.IOException;
-
-public class WordFrequency {
-	public static void main(String[] args) throws IOException{
-		String fileName = "test.txt";
-		BufferedReader reader = new BufferedReader(new FileReader(new File(fileName)));
-		
-	}
-}

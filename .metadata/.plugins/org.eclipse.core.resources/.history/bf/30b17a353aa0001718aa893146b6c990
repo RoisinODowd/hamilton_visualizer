@@ -1,7 +1,0 @@
-
-public class WordFrequency {
-	public static void main(String[] args) throws IOException{
-		String fileName = "test.txt";
-		
-	}
-}

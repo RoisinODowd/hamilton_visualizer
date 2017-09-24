@@ -14,9 +14,60 @@ export default class Visualizer extends React.Component{
     super(props);
 
 		var json = require('../motifs.json');
-	  this.state = {motifs:  json["motifs"]};
-		console.log(this.state.motifs);
+	  this.state = {motifs:  json["motifs"], lastParagraph:  -1, motifIndices: [], draw: ''};
+		for (var i = 2; i < this.state.motifs.length; i+=4) {
+      this.state.motifs[i]['word3'] = this.state.motifs[i]['word3'].substring(0, this.state.motifs[i]['word3'].length - 1); 
+		}
   }
+
+	getDrawFromRenderer(param) {
+		this.setState({draw: param});
+	}
+
+	doesMotifMatch(k, w1, w2, w3){
+		//console.log('against ' + this.state.motifs[k]['word1'] + ' ' + this.state.motifs[k+1]['word2'] + ' ' + this.state.motifs[k+2]['word3']);
+		return this.state.motifs[k]['word1'] === w1 && this.state.motifs[k+1]['word2'] === w2 && this.state.motifs[k+2]['word3'] === w3;
+	}
+
+	scroll(currentParagraph){
+		if (currentParagraph == this.state.lastParagraph) {
+			return;
+		}
+		this.state.lastParagraph = currentParagraph;
+		
+
+		var paragraph = document.getElementById('text').getElementsByTagName('p')[currentParagraph].innerHTML;
+		//test for motifs
+		var matchedMotifIndices = [];
+
+		var words = paragraph.split(/(\s+)/).filter( function(e) { return e.trim().length > 0; } );
+		var actualWords = [];
+		var i = 0;
+		if (words.length == 0) 
+			return;
+		for ( ; i < words.length; i++) {
+			if(words[i].endsWith(']')) {
+				i++;
+				break;
+			}
+		}
+		for(; !words[i].startsWith('<'); i++) {
+			actualWords.push(words[i]);
+		}
+		if (actualWords.length == 0)
+			return;
+		
+		for (var k = 0; k < actualWords.length - 2; k++){
+			for(var j = 0; j < this.state.motifs.length; j+=4) {
+				if(this.doesMotifMatch(j, actualWords[k], actualWords[k+1], actualWords[k+2])) {
+					matchedMotifIndices.push(j);
+				}
+			}
+		}
+
+		this.state.motifIndices = matchedMotifIndices;
+	  var rect = this.state.draw.rect(100, 100).attr({ fill: '#f06' })	
+	}
 
   render() {
     var fullHeight = document.documentElement.clientHeight;
@@ -41,10 +92,12 @@ export default class Visualizer extends React.Component{
       backgroundSize: 'cover',
 
     }
+
+
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<D3 id='maind3' width='1000px' height='600px' />
-				<Scrollpane id='scroll' width='34vw' height='600px' lineHeight='18px' lineHeightNumber='18' />
+				<D3 funcBack={this.getDrawFromRenderer.bind(this)} indices = {this.state.motifIndices} id ='maind3' width='1000px' height='600px' />
+				<Scrollpane func={this.scroll.bind(this)} id='scroll' width='34vw' height='600px' lineHeight='18px' lineHeightNumber='18' />
 			</div>
     );
   }

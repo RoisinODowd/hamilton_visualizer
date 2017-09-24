@@ -60,13 +60,14 @@ export default class D3 extends React.Component{
 
 	
 
+		//<Renderer indices={this.props.indices} />
 		return (
 			<div id = 'outter' style={D3Style}>
 				<svg id='drawing' width='1000px' height='500px' style={svgStyle} onClick = {this.onClickHandler.bind(this)}>
                 </svg>
 						<div>
 					</div>
-					<Renderer />
+					<Renderer funcBack={this.props.funcBack}/>
        </div>
 		);
 	}

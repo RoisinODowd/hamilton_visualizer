@@ -1,987 +1,1841 @@
 {
-	"results": [
-		[
-{"name": "COMPANY"}
-        ],[
-{"name": "HAMILTON"}
-
-{"word": "Pardon"}
-
-{"word": "me"}
-
-{"word": "Are"}
-
-{"word": "you"}
-
-{"word": "Aaron"}
-
-{"word": "Burr"}
-
-{"word": "sir
-"}
-        ],[
-{"name": "BURR"}
-
-{"word": "That"}
-
-{"word": "depends"}
-
-{"word": "Who’s"}
-
-{"word": "asking
-"}
-        ],[
-{"name": "HAMILTON"}
-
-{"word": "Oh"}
-
-{"word": "well"}
-
-{"word": "sure"}
-
-{"word": "sir"}
-
-{"word": "I’m"}
-
-{"word": "Alexander"}
-
-{"word": "Hamilton"}
-
-{"word": "I’m"}
-
-{"word": "at"}
-
-{"word": "your"}
-
-{"word": "service"}
-
-{"word": "sir
-"}
-
-{"word": "I"}
-
-{"word": "have"}
-
-{"word": "been"}
-
-{"word": "looking"}
-
-{"word": "for"}
-
-{"word": "you
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "I’m"}
-
-{"word": "getting"}
-
-{"word": "nervous
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "Sir…
-"}
-
-{"word": "I"}
-
-{"word": "heard"}
-
-{"word": "your"}
-
-{"word": "name"}
-
-{"word": "at"}
-
-{"word": "Princeton"}
-
-{"word": "I"}
-
-{"word": "was"}
-
-{"word": "seeking"}
-
-{"word": "an"}
-
-{"word": "accelerated"}
-
-{"word": "course"}
-
-{"word": "of"}
-
-{"word": "study"}
-
-{"word": "when"}
-
-{"word": "I"}
-
-{"word": "got"}
-
-{"word": "sort"}
-
-{"word": "of"}
-
-{"word": "out"}
-
-{"word": "of"}
-
-{"word": "sorts"}
-
-{"word": "with"}
-
-{"word": "a"}
-
-{"word": "buddy"}
-
-{"word": "of"}
-
-{"word": "yours"}
-
-{"word": "I"}
-
-{"word": "may"}
-
-{"word": "have"}
-
-{"word": "punched"}
-
-{"word": "him"}
-
-{"word": "It’s"}
-
-{"word": "a"}
-
-{"word": "blur"}
-
-{"word": "sir"}
-
-{"word": "He"}
-
-{"word": "handles"}
-
-{"word": "the"}
-
-{"word": "financials
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "You"}
-
-{"word": "punched"}
-
-{"word": "the"}
-
-{"word": "bursar
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "Yes
-"}
-
-{"word": "I"}
-
-{"word": "wanted"}
-
-{"word": "to"}
-
-{"word": "do"}
-
-{"word": "what"}
-
-{"word": "you"}
-
-{"word": "did"}
-
-{"word": "Graduate"}
-
-{"word": "in"}
-
-{"word": "two"}
-
-{"word": "then"}
-
-{"word": "join"}
-
-{"word": "the"}
-
-{"word": "revolution"}
-
-{"word": "He"}
-
-{"word": "looked"}
-
-{"word": "at"}
-
-{"word": "me"}
-
-{"word": "like"}
-
-{"word": "I"}
-
-{"word": "was"}
-
-{"word": "stupid"}
-
-{"word": "I’m"}
-
-{"word": "not"}
-
-{"word": "stupid
-"}
-
-{"word": "So"}
-
-{"word": "how’d"}
-
-{"word": "you"}
-
-{"word": "do"}
-
-{"word": "it"}
-
-{"word": "How’d"}
-
-{"word": "you"}
-
-{"word": "graduate"}
-
-{"word": "so"}
-
-{"word": "fast
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "It"}
-
-{"word": "was"}
-
-{"word": "my"}
-
-{"word": "parents’"}
-
-{"word": "dying"}
-
-{"word": "wish"}
-
-{"word": "before"}
-
-{"word": "they"}
-
-{"word": "passed
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "You’re"}
-
-{"word": "an"}
-
-{"word": "orphan"}
-
-{"word": "Of"}
-
-{"word": "course"}
-
-{"word": "I’m"}
-
-{"word": "an"}
-
-{"word": "orphan
-"}
-
-{"word": "God"}
-
-{"word": "I"}
-
-{"word": "wish"}
-
-{"word": "there"}
-
-{"word": "was"}
-
-{"word": "a"}
-
-{"word": "war
-"}
-
-{"word": "Then"}
-
-{"word": "we"}
-
-{"word": "could"}
-
-{"word": "prove"}
-
-{"word": "that"}
-
-{"word": "we’re"}
-
-{"word": "worth"}
-
-{"word": "more
-"}
-
-{"word": "Than"}
-
-{"word": "anyone"}
-
-{"word": "bargained"}
-
-{"word": "for…
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "Can"}
-
-{"word": "I"}
-
-{"word": "buy"}
-
-{"word": "you"}
-
-{"word": "a"}
-
-{"word": "drink
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "That"}
-
-{"word": "would"}
-
-{"word": "be"}
-
-{"word": "nice
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "While"}
-
-{"word": "we’re"}
-
-{"word": "talking"}
-
-{"word": "let"}
-
-{"word": "me"}
-
-{"word": "offer"}
-
-{"word": "you"}
-
-{"word": "some"}
-
-{"word": "free"}
-
-{"word": "advice
-"}
-
-{"word": "Talk"}
-
-{"word": "less
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "What
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "Smile"}
-
-{"word": "more
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "Ha
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "Don’t"}
-
-{"word": "let"}
-
-{"word": "them"}
-
-{"word": "know"}
-
-{"word": "what"}
-
-{"word": "you’re"}
-
-{"word": "against"}
-
-{"word": "or"}
-
-{"word": "what"}
-
-{"word": "you’re"}
-
-{"word": "for
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "You"}
-
-{"word": "can’t"}
-
-{"word": "be"}
-
-{"word": "serious
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "You"}
-
-{"word": "wanna"}
-
-{"word": "get"}
-
-{"word": "ahead
-"}
-        ][
-{"name": "HAMILTON"}
-
-{"word": "Yes
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "Fools"}
-
-{"word": "who"}
-
-{"word": "run"}
-
-{"word": "their"}
-
-{"word": "mouths"}
-
-{"word": "off"}
-
-{"word": "wind"}
-
-{"word": "up"}
-
-{"word": "dead
-"}
-        ][
-{"name": "LAURENS"}
-
-{"word": "Yo"}
-
-{"word": "yo"}
-
-{"word": "yo"}
-
-{"word": "yo"}
-
-{"word": "yo
-"}
-
-{"word": "What"}
-
-{"word": "time"}
-
-{"word": "is"}
-
-{"word": "it
-"}
-        ][
-{"name": "LAURENS/LAFAYETTE/MULLIGAN"}
-
-{"word": "Show"}
-
-{"word": "time
-"}
-        ][
-{"name": "BURR"}
-
-{"word": "Like"}
-
-{"word": "I"}
-
-{"word": "said…
-"}
-        ][
-{"name": "LAURENS"}
-
-{"word": "Show"}
-
-{"word": "time"}
-
-{"word": "Show"}
-
-{"word": "time"}
-
-{"word": "Yo
-"}
-
-{"word": "I’m"}
-
-{"word": "John"}
-
-{"word": "Laurens"}
-
-{"word": "in"}
-
-{"word": "the"}
-
-{"word": "place"}
-
-{"word": "to"}
-
-{"word": "be
-"}
-
-{"word": "Two"}
-
-{"word": "pints"}
-
-{"word": "o’"}
-
-{"word": "Sam"}
-
-{"word": "Adams"}
-
-{"word": "but"}
-
-{"word": "I’m"}
-
-{"word": "workin’"}
-
-{"word": "on"}
-
-{"word": "three"}
-
-{"word": "uh
-"}
-
-{"word": "Those"}
-
-{"word": "redcoats"}
-
-{"word": "don’t"}
-
-{"word": "want"}
-
-{"word": "it"}
-
-{"word": "with"}
-
-{"word": "me
-"}
-
-{"word": "Cuz"}
-
-{"word": "I"}
-
-{"word": "will"}
-
-{"word": "pop"}
-
-{"word": "chicka"}
-
-{"word": "pop"}
-
-{"word": "these"}
-
-{"word": "cops"}
-
-{"word": "till"}
-
-{"word": "I’m"}
-
-{"word": "free
-"}
-][
-{"name": "LAFAYETTE"}
-
-{"word": "Oui"}
-
-{"word": "oui"}
-
-{"word": "mon"}
-
-{"word": "ami"}
-
-{"word": "je"}
-
-{"word": "m’appelle"}
-
-{"word": "Lafayette
-"}
-
-{"word": "The"}
-
-{"word": "Lancelot"}
-
-{"word": "of"}
-
-{"word": "the"}
-
-{"word": "revolutionary"}
-
-{"word": "set
-"}
-
-{"word": "I"}
-
-{"word": "came"}
-
-{"word": "from"}
-
-{"word": "afar"}
-
-{"word": "just"}
-
-{"word": "to"}
-
-{"word": "say"}
-
-{"word": "“Bonsoir”
-"}
-
-{"word": "Tell"}
-
-{"word": "the"}
-
-{"word": "King"}
-
-{"word": "“Casse"}
-
-{"word": "toi”"}
-
-{"word": "Who’s"}
-
-{"word": "the"}
-
-{"word": "best
-"}
-
-{"word": "C’est"}
-
-{"word": "moi
-"}
-][
-{"name": "MULLIGAN"}
-
-{"word": "Brrrah"}
-
-{"word": "brraaah"}
-
-{"word": "I"}
-
-{"word": "am"}
-
-{"word": "Hercules"}
-
-{"word": "Mulligan
-"}
-
-{"word": "Up"}
-
-{"word": "in"}
-
-{"word": "it"}
-
-{"word": "lovin’"}
-
-{"word": "it"}
-
-{"word": "yes"}
-
-{"word": "I"}
-
-{"word": "heard"}
-
-{"word": "ya"}
-
-{"word": "mother"}
-
-{"word": "said"}
-
-{"word": "“Come"}
-
-{"word": "again”
-"}
-][
-{"name": "LAFAYETTE & LAURENS"}
-
-{"word": "Ayyyyy
-"}
-][
-{"name": "MULLIGAN"}
-
-{"word": "Lock"}
-
-{"word": "up"}
-
-{"word": "ya"}
-
-{"word": "daughters"}
-
-{"word": "and"}
-
-{"word": "horses"}
-
-{"word": "of"}
-
-{"word": "course
-"}
-
-{"word": "It’s"}
-
-{"word": "hard"}
-
-{"word": "to"}
-
-{"word": "have"}
-
-{"word": "intercourse"}
-
-{"word": "over"}
-
-{"word": "four"}
-
-{"word": "sets"}
-
-{"word": "of"}
-
-{"word": "corsets…
-"}
-][
-{"name": "LAFAYETTE"}
-
-{"word": "Wow
-"}
-][
-{"name": "LAURENS"}
-
-{"word": "No"}
-
-{"word": "more"}
-
-{"word": "sex"}
-
-{"word": "pour"}
-
-{"word": "me"}
-
-{"word": "another"}
-
-{"word": "brew"}
-
-{"word": "son
-"}
-
-{"word": "Let’s"}
-
-{"word": "raise"}
-
-{"word": "a"}
-
-{"word": "couple"}
-
-{"word": "more…
-"}
-][
-{"name": "LAURENS/LAFAYETTE/MULLIGAN"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "revolution
-"}
-][
-{"name": "LAURENS"}
-
-{"word": "Well"}
-
-{"word": "if"}
-
-{"word": "it"}
-
-{"word": "ain’t"}
-
-{"word": "the"}
-
-{"word": "prodigy"}
-
-{"word": "of"}
-
-{"word": "Princeton"}
-
-{"word": "college
-"}
-][
-{"name": "MULLIGAN"}
-
-{"word": "Aaron"}
-
-{"word": "Burr
-"}
-][
-{"name": "LAURENS"}
-
-{"word": "Give"}
-
-{"word": "us"}
-
-{"word": "a"}
-
-{"word": "verse"}
-
-{"word": "drop"}
-
-{"word": "some"}
-
-{"word": "knowledge
-"}
-][
-{"name": "BURR"}
-
-{"word": "Good"}
-
-{"word": "luck"}
-
-{"word": "with"}
-
-{"word": "that"}
-
-{"word": "you’re"}
-
-{"word": "takin’"}
-
-{"word": "a"}
-
-{"word": "stand
-"}
-
-{"word": "You"}
-
-{"word": "spit"}
-
-{"word": "I’m"}
-
-{"word": "‘a"}
-
-{"word": "sit"}
-
-{"word": "We’ll"}
-
-{"word": "see"}
-
-{"word": "where"}
-
-{"word": "we"}
-
-{"word": "land
-"}
-
-{"name": "LAFAYETTE/MULLIGAN"}
-
-{"word": "Boooo
-"}
-][
-{"name": "LAURENS"}
-
-{"word": "Burr"}
-
-{"word": "the"}
-
-{"word": "revolution’s"}
-
-{"word": "imminent"}
-
-{"word": "What"}
-
-{"word": "do"}
-
-{"word": "you"}
-
-{"word": "stall"}
-
-{"word": "for
-"}
-][
-{"name": "HAMILTON"}
-
-{"word": "If"}
-
-{"word": "you"}
-
-{"word": "stand"}
-
-{"word": "for"}
-
-{"word": "nothing"}
-
-{"word": "Burr"}
-
-{"word": "what’ll"}
-
-{"word": "you"}
-
-{"word": "fall"}
-
-{"word": "for
-"}
-][
-{"name": "MULLIGAN/LAFAYETTE/LAURENS"}
-
-{"word": "Ooh
-"}
-
-{"word": "Who"}
-
-{"word": "you
-"}
-
-{"word": "Who"}
-
-{"word": "you
-"}
-
-{"word": "Who"}
-
-{"word": "are"}
-
-{"word": "you
-"}
-][
-    {"name": "MULLIGAN/LAFAYETTE/LAURENS"}
-
-{"word": "Ooh"}
-
-{"word": "who"}
-
-{"word": "is"}
-
-{"word": "this"}
-
-{"word": "kid"}
-
-{"word": "What’s"}
-
-{"word": "he"}
-
-{"word": "gonna"}
-
-{"word": "do"}]
+    "results": [
+
+        [{
+                "name": "COMPANY / HAMILTON"
+            },
+
+            {
+                "word": "Pardon"
+            },
+
+            {
+                "word": "me"
+            },
+
+            {
+                "word": "Are"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "Aaron"
+            },
+
+            {
+                "word": "Burr"
+            },
+
+            {
+                "word": "sir"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "That"
+            },
+
+            {
+                "word": "depends"
+            },
+
+            {
+                "word": "Who’s"
+            },
+
+            {
+                "word": "asking"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "Oh"
+            },
+
+            {
+                "word": "well"
+            },
+
+            {
+                "word": "sure"
+            },
+
+            {
+                "word": "sir"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "Alexander"
+            },
+
+            {
+                "word": "Hamilton"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "at"
+            },
+
+            {
+                "word": "your"
+            },
+
+            {
+                "word": "service"
+            },
+
+            {
+                "word": "sir"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "have"
+            },
+
+            {
+                "word": "been"
+            },
+
+            {
+                "word": "looking"
+            },
+
+            {
+                "word": "for"
+            },
+
+            {
+                "word": "you"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "getting"
+            },
+
+            {
+                "word": "nervous"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "Sir…"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "heard"
+            },
+
+            {
+                "word": "your"
+            },
+
+            {
+                "word": "name"
+            },
+
+            {
+                "word": "at"
+            },
+
+            {
+                "word": "Princeton"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "was"
+            },
+
+            {
+                "word": "seeking"
+            },
+
+            {
+                "word": "an"
+            },
+
+            {
+                "word": "accelerated"
+            },
+
+            {
+                "word": "course"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "study"
+            },
+
+            {
+                "word": "when"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "got"
+            },
+
+            {
+                "word": "sort"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "out"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "sorts"
+            },
+
+            {
+                "word": "with"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "buddy"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "yours"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "may"
+            },
+
+            {
+                "word": "have"
+            },
+
+            {
+                "word": "punched"
+            },
+
+            {
+                "word": "him"
+            },
+
+            {
+                "word": "It’s"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "blur"
+            },
+
+            {
+                "word": "sir"
+            },
+
+            {
+                "word": "He"
+            },
+
+            {
+                "word": "handles"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "financials"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "You"
+            },
+
+            {
+                "word": "punched"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "bursar"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "Yes"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "wanted"
+            },
+
+            {
+                "word": "to"
+            },
+
+            {
+                "word": "do"
+            },
+
+            {
+                "word": "what"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "did"
+            },
+
+            {
+                "word": "Graduate"
+            },
+
+            {
+                "word": "in"
+            },
+
+            {
+                "word": "two"
+            },
+
+            {
+                "word": "then"
+            },
+
+            {
+                "word": "join"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "revolution"
+            },
+
+            {
+                "word": "He"
+            },
+
+            {
+                "word": "looked"
+            },
+
+            {
+                "word": "at"
+            },
+
+            {
+                "word": "me"
+            },
+
+            {
+                "word": "like"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "was"
+            },
+
+            {
+                "word": "stupid"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "not"
+            },
+
+            {
+                "word": "stupid"
+            },
+
+            {
+                "word": "So"
+            },
+
+            {
+                "word": "how’d"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "do"
+            },
+
+            {
+                "word": "it"
+            },
+
+            {
+                "word": "How’d"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "graduate"
+            },
+
+            {
+                "word": "so"
+            },
+
+            {
+                "word": "fast"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "It"
+            },
+
+            {
+                "word": "was"
+            },
+
+            {
+                "word": "my"
+            },
+
+            {
+                "word": "parents’"
+            },
+
+            {
+                "word": "dying"
+            },
+
+            {
+                "word": "wish"
+            },
+
+            {
+                "word": "before"
+            },
+
+            {
+                "word": "they"
+            },
+
+            {
+                "word": "passed"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "You’re"
+            },
+
+            {
+                "word": "an"
+            },
+
+            {
+                "word": "orphan"
+            },
+
+            {
+                "word": "Of"
+            },
+
+            {
+                "word": "course"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "an"
+            },
+
+            {
+                "word": "orphan"
+            },
+
+            {
+                "word": "God"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "wish"
+            },
+
+            {
+                "word": "there"
+            },
+
+            {
+                "word": "was"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "war"
+            },
+
+            {
+                "word": "Then"
+            },
+
+            {
+                "word": "we"
+            },
+
+            {
+                "word": "could"
+            },
+
+            {
+                "word": "prove"
+            },
+
+            {
+                "word": "that"
+            },
+
+            {
+                "word": "we’re"
+            },
+
+            {
+                "word": "worth"
+            },
+
+            {
+                "word": "more"
+            },
+
+            {
+                "word": "Than"
+            },
+
+            {
+                "word": "anyone"
+            },
+
+            {
+                "word": "bargained"
+            },
+
+            {
+                "word": "for…"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "Can"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "buy"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "drink"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "That"
+            },
+
+            {
+                "word": "would"
+            },
+
+            {
+                "word": "be"
+            },
+
+            {
+                "word": "nice"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "While"
+            },
+
+            {
+                "word": "we’re"
+            },
+
+            {
+                "word": "talking"
+            },
+
+            {
+                "word": "let"
+            },
+
+            {
+                "word": "me"
+            },
+
+            {
+                "word": "offer"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "some"
+            },
+
+            {
+                "word": "free"
+            },
+
+            {
+                "word": "advice"
+            },
+
+            {
+                "word": "Talk"
+            },
+
+            {
+                "word": "less"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "What"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "Smile"
+            },
+
+            {
+                "word": "more"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "Ha"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "Don’t"
+            },
+
+            {
+                "word": "let"
+            },
+
+            {
+                "word": "them"
+            },
+
+            {
+                "word": "know"
+            },
+
+            {
+                "word": "what"
+            },
+
+            {
+                "word": "you’re"
+            },
+
+            {
+                "word": "against"
+            },
+
+            {
+                "word": "or"
+            },
+
+            {
+                "word": "what"
+            },
+
+            {
+                "word": "you’re"
+            },
+
+            {
+                "word": "for"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "You"
+            },
+
+            {
+                "word": "can’t"
+            },
+
+            {
+                "word": "be"
+            },
+
+            {
+                "word": "serious"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "You"
+            },
+
+            {
+                "word": "wanna"
+            },
+
+            {
+                "word": "get"
+            },
+
+            {
+                "word": "ahead"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "Yes"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "Fools"
+            },
+
+            {
+                "word": "who"
+            },
+
+            {
+                "word": "run"
+            },
+
+            {
+                "word": "their"
+            },
+
+            {
+                "word": "mouths"
+            },
+
+            {
+                "word": "off"
+            },
+
+            {
+                "word": "wind"
+            },
+
+            {
+                "word": "up"
+            },
+
+            {
+                "word": "dead"
+            }
+        ],
+        [{
+                "name": "LAURENS"
+            },
+
+            {
+                "word": "Yo"
+            },
+
+            {
+                "word": "yo"
+            },
+
+            {
+                "word": "yo"
+            },
+
+            {
+                "word": "yo"
+            },
+
+            {
+                "word": "yo"
+            },
+
+            {
+                "word": "What"
+            },
+
+            {
+                "word": "time"
+            },
+
+            {
+                "word": "is"
+            },
+
+            {
+                "word": "it"
+            }
+        ],
+        [{
+                "name": "LAURENS/LAFAYETTE/MULLIGAN"
+            },
+
+            {
+                "word": "Show"
+            },
+
+            {
+                "word": "time"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "Like"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "said…"
+            }
+        ],
+        [{
+                "name": "LAURENS"
+            },
+
+            {
+                "word": "Show"
+            },
+
+            {
+                "word": "time"
+            },
+
+            {
+                "word": "Show"
+            },
+
+            {
+                "word": "time"
+            },
+
+            {
+                "word": "Yo"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "John"
+            },
+
+            {
+                "word": "Laurens"
+            },
+
+            {
+                "word": "in"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "place"
+            },
+
+            {
+                "word": "to"
+            },
+
+            {
+                "word": "be"
+            },
+
+            {
+                "word": "Two"
+            },
+
+            {
+                "word": "pints"
+            },
+
+            {
+                "word": "o’"
+            },
+
+            {
+                "word": "Sam"
+            },
+
+            {
+                "word": "Adams"
+            },
+
+            {
+                "word": "but"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "workin’"
+            },
+
+            {
+                "word": "on"
+            },
+
+            {
+                "word": "three"
+            },
+
+            {
+                "word": "uh"
+            },
+
+            {
+                "word": "Those"
+            },
+
+            {
+                "word": "redcoats"
+            },
+
+            {
+                "word": "don’t"
+            },
+
+            {
+                "word": "want"
+            },
+
+            {
+                "word": "it"
+            },
+
+            {
+                "word": "with"
+            },
+
+            {
+                "word": "me"
+            },
+
+            {
+                "word": "Cuz"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "will"
+            },
+
+            {
+                "word": "pop"
+            },
+
+            {
+                "word": "chicka"
+            },
+
+            {
+                "word": "pop"
+            },
+
+            {
+                "word": "these"
+            },
+
+            {
+                "word": "cops"
+            },
+
+            {
+                "word": "till"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "free"
+            }
+        ],
+        [{
+                "name": "LAFAYETTE"
+            },
+
+            {
+                "word": "Oui"
+            },
+
+            {
+                "word": "oui"
+            },
+
+            {
+                "word": "mon"
+            },
+
+            {
+                "word": "ami"
+            },
+
+            {
+                "word": "je"
+            },
+
+            {
+                "word": "m’appelle"
+            },
+
+            {
+                "word": "Lafayette"
+            },
+
+            {
+                "word": "The"
+            },
+
+            {
+                "word": "Lancelot"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "revolutionary"
+            },
+
+            {
+                "word": "set"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "came"
+            },
+
+            {
+                "word": "from"
+            },
+
+            {
+                "word": "afar"
+            },
+
+            {
+                "word": "just"
+            },
+
+            {
+                "word": "to"
+            },
+
+            {
+                "word": "say"
+            },
+
+            {
+                "word": "“Bonsoir”"
+            },
+
+            {
+                "word": "Tell"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "King"
+            },
+
+            {
+                "word": "“Casse"
+            },
+
+            {
+                "word": "toi”"
+            },
+
+            {
+                "word": "Who’s"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "best"
+            },
+
+            {
+                "word": "C’est"
+            },
+
+            {
+                "word": "moi"
+            }
+        ],
+        [{
+                "name": "MULLIGAN"
+            },
+
+            {
+                "word": "Brrrah"
+            },
+
+            {
+                "word": "brraaah"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "am"
+            },
+
+            {
+                "word": "Hercules"
+            },
+
+            {
+                "word": "Mulligan"
+            },
+
+            {
+                "word": "Up"
+            },
+
+            {
+                "word": "in"
+            },
+
+            {
+                "word": "it"
+            },
+
+            {
+                "word": "lovin’"
+            },
+
+            {
+                "word": "it"
+            },
+
+            {
+                "word": "yes"
+            },
+
+            {
+                "word": "I"
+            },
+
+            {
+                "word": "heard"
+            },
+
+            {
+                "word": "ya"
+            },
+
+            {
+                "word": "mother"
+            },
+
+            {
+                "word": "said"
+            },
+
+            {
+                "word": "“Come"
+            },
+
+            {
+                "word": "again”"
+            }
+        ],
+        [{
+                "name": "LAFAYETTE & LAURENS"
+            },
+
+            {
+                "word": "Ayyyyy"
+            }
+        ],
+        [{
+                "name": "MULLIGAN"
+            },
+
+            {
+                "word": "Lock"
+            },
+
+            {
+                "word": "up"
+            },
+
+            {
+                "word": "ya"
+            },
+
+            {
+                "word": "daughters"
+            },
+
+            {
+                "word": "and"
+            },
+
+            {
+                "word": "horses"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "course"
+            },
+
+            {
+                "word": "It’s"
+            },
+
+            {
+                "word": "hard"
+            },
+
+            {
+                "word": "to"
+            },
+
+            {
+                "word": "have"
+            },
+
+            {
+                "word": "intercourse"
+            },
+
+            {
+                "word": "over"
+            },
+
+            {
+                "word": "four"
+            },
+
+            {
+                "word": "sets"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "corsets…"
+            }
+        ],
+        [{
+                "name": "LAFAYETTE"
+            },
+
+            {
+                "word": "Wow"
+            }
+        ],
+        [{
+                "name": "LAURENS"
+            },
+
+            {
+                "word": "No"
+            },
+
+            {
+                "word": "more"
+            },
+
+            {
+                "word": "sex"
+            },
+
+            {
+                "word": "pour"
+            },
+
+            {
+                "word": "me"
+            },
+
+            {
+                "word": "another"
+            },
+
+            {
+                "word": "brew"
+            },
+
+            {
+                "word": "son"
+            },
+
+            {
+                "word": "Let’s"
+            },
+
+            {
+                "word": "raise"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "couple"
+            },
+
+            {
+                "word": "more…"
+            }
+        ],
+        [{
+                "name": "LAURENS/LAFAYETTE/MULLIGAN"
+            },
+
+            {
+                "word": "To"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "revolution"
+            }
+        ],
+        [{
+                "name": "LAURENS"
+            },
+
+            {
+                "word": "Well"
+            },
+
+            {
+                "word": "if"
+            },
+
+            {
+                "word": "it"
+            },
+
+            {
+                "word": "ain’t"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "prodigy"
+            },
+
+            {
+                "word": "of"
+            },
+
+            {
+                "word": "Princeton"
+            },
+
+            {
+                "word": "college"
+            }
+        ],
+        [{
+                "name": "MULLIGAN"
+            },
+
+            {
+                "word": "Aaron"
+            },
+
+            {
+                "word": "Burr"
+            }
+        ],
+        [{
+                "name": "LAURENS"
+            },
+
+            {
+                "word": "Give"
+            },
+
+            {
+                "word": "us"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "verse"
+            },
+
+            {
+                "word": "drop"
+            },
+
+            {
+                "word": "some"
+            },
+
+            {
+                "word": "knowledge"
+            }
+        ],
+        [{
+                "name": "BURR"
+            },
+
+            {
+                "word": "Good"
+            },
+
+            {
+                "word": "luck"
+            },
+
+            {
+                "word": "with"
+            },
+
+            {
+                "word": "that"
+            },
+
+            {
+                "word": "you’re"
+            },
+
+            {
+                "word": "takin’"
+            },
+
+            {
+                "word": "a"
+            },
+
+            {
+                "word": "stand"
+            },
+
+            {
+                "word": "You"
+            },
+
+            {
+                "word": "spit"
+            },
+
+            {
+                "word": "I’m"
+            },
+
+            {
+                "word": "‘a"
+            },
+
+            {
+                "word": "sit"
+            },
+
+            {
+                "word": "We’ll"
+            },
+
+            {
+                "word": "see"
+            },
+
+            {
+                "word": "where"
+            },
+
+            {
+                "word": "we"
+            },
+
+            {
+                "word": "land"
+            },
+
+            {
+                "name": "LAFAYETTE/MULLIGAN"
+            },
+
+            {
+                "word": "Boooo"
+            }
+        ],
+        [{
+                "name": "LAURENS"
+            },
+
+            {
+                "word": "Burr"
+            },
+
+            {
+                "word": "the"
+            },
+
+            {
+                "word": "revolution’s"
+            },
+
+            {
+                "word": "imminent"
+            },
+
+            {
+                "word": "What"
+            },
+
+            {
+                "word": "do"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "stall"
+            },
+
+            {
+                "word": "for"
+            }
+        ],
+        [{
+                "name": "HAMILTON"
+            },
+
+            {
+                "word": "If"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "stand"
+            },
+
+            {
+                "word": "for"
+            },
+
+            {
+                "word": "nothing"
+            },
+
+            {
+                "word": "Burr"
+            },
+
+            {
+                "word": "what’ll"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "fall"
+            },
+
+            {
+                "word": "for"
+            }
+        ],
+        [{
+                "name": "MULLIGAN/LAFAYETTE/LAURENS"
+            },
+
+            {
+                "word": "Ooh"
+            },
+
+            {
+                "word": "Who"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "Who"
+            },
+
+            {
+                "word": "you"
+            },
+
+            {
+                "word": "Who"
+            },
+
+            {
+                "word": "are"
+            },
+
+            {
+                "word": "you"
+            }
+        ],
+        [{
+                "name": "MULLIGAN/LAFAYETTE/LAURENS"
+            },
+
+            {
+                "word": "Ooh"
+            },
+
+            {
+                "word": "who"
+            },
+
+            {
+                "word": "is"
+            },
+
+            {
+                "word": "this"
+            },
+
+            {
+                "word": "kid"
+            },
+
+            {
+                "word": "What’s"
+            },
+
+            {
+                "word": "he"
+            },
+
+            {
+                "word": "gonna"
+            },
+
+            {
+                "word": "do"
+            }
+        ]
     ]
 }

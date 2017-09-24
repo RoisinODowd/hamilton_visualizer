@@ -5,10 +5,10 @@ export default class Renderer extends React.Component {
 
 	constructor() {
 		super();
-    this.state = {
-      x: 0,
-      y: 0
-    };
+		this.state = {
+			draw: ''
+		};
+    
 	}
 
   arc_links(dwg,x1,y1,x2,y2,n,k) {
@@ -30,21 +30,25 @@ export default class Renderer extends React.Component {
   }
 
 	}
-	
+
 	componentDidMount() {
 	
     var draw = SVG('drawing');
+		this.state = {
+			draw: draw
+		};
 
+		console.log('called');
 
 		draw.size('60vw', 600);
-		var rect = draw.circle(100, 100);
-		rect.animate().attr({ fill: '#89a' });
+		//	var rect = draw.circle(100, 100);
+		//	rect.animate().attr({ fill: '#89a' });
 		
-    rect.animate().center(250, 250).loop(2, true);
-		this.arc_links(draw,50,50,250,50,2,40);
-    this.arc_links(draw,250,50,250,250,3,40);
-    this.arc_links(draw,250,250,50,250,4,40);
-    this.arc_links(draw,50,250,50,50,5,40);
+		//  rect.animate().center(250, 250).loop(2, true);
+		//	this.arc_links(draw,50,50,250,50,2,40);
+		//  this.arc_links(draw,250,50,250,250,3,40);
+		// this.arc_links(draw,250,250,50,250,4,40);
+		// this.arc_links(draw,50,250,50,50,5,40);
 
 		// draw.circle(50).move(25,25).fill('#fff').stroke({width:1});
 		//draw.circle(50).move(225,25).fill('#fff').stroke({width:1});
@@ -52,12 +56,13 @@ export default class Renderer extends React.Component {
 		//draw.circle(50).move(25,225).fill('#fff').stroke({width:1});		
 
 
-	
+		this.props.funcBack(draw);
 
 		}
 
 
 	render() {
+		console.log('called :)');
 		return <div > </div>
 	}
 
