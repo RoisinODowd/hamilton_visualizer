@@ -1,1051 +1,1979 @@
 {
 	"results": [
-		[
-{"name": "WASHINGTON"}
+			[{
+					"name": "WASHINGTON"
+				},
+
+				{
+					"word": "Let"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "wish"
+				},
+
+				{
+					"word": "I’d"
+				},
+
+				{
+					"word": "known"
+				},
+
+				{
+					"word": "When"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "was"
+				},
+
+				{
+					"word": "young"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "dreamed"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "glory"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "no"
+				},
+
+				{
+					"word": "control"
+				}
+			],
+
+			[{
+					"name": "WASHINGTON AND COMPANY"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "lives"
+				},
+
+				{
+					"word": "Who"
+				},
 
-{"word": "Let"}
+				{
+					"word": "dies"
+				},
 
-{"word": "me"}
+				{
+					"word": "Who"
+				},
 
-{"word": "tell"}
+				{
+					"word": "tells"
+				},
 
-{"word": "you"}
+				{
+					"word": "your"
+				},
 
-{"word": "what"}
-
-{"word": "I"}
-
-{"word": "wish"}
-
-{"word": "I’d"}
-
-{"word": "known
-"}
-
-{"word": "When"}
-
-{"word": "I"}
-
-{"word": "was"}
-
-{"word": "young"}
-
-{"word": "and"}
-
-{"word": "dreamed"}
-
-{"word": "of"}
-
-{"word": "glory
-"}
-
-{"word": "You"}
-
-{"word": "have"}
-
-{"word": "no"}
-
-{"word": "control
-"}
-
-{"name": "WASHINGTON AND COMPANY"}
-
-{"word": "Who"}
-
-{"word": "lives
-"}
-
-{"word": "Who"}
-
-{"word": "dies
-"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"name": "BURR"}
-
-{"word": "President"}
-
-{"word": "Jefferson
-"}
-
-{"name": "JEFFERSON"}
-
-{"word": "I’ll"}
-
-{"word": "give"}
-
-{"word": "him"}
-
-{"word": "this"}
-
-{"word": "his"}
-
-{"word": "financial"}
-
-{"word": "system"}
-
-{"word": "is"}
-
-{"word": "a
-"}
-
-{"word": "Work"}
-
-{"word": "of"}
-
-{"word": "genius"}
-
-{"word": "I"}
-
-{"word": "couldn’t"}
-
-{"word": "undo"}
-
-{"word": "it"}
-
-{"word": "if"}
-
-{"word": "I"}
-
-{"word": "tried
-"}
-
-{"word": "And"}
-
-{"word": "I"}
-
-{"word": "tried
-"}
-
-{"name": "WASHINGTON AND COMPANY"}
-
-{"word": "Who"}
-
-{"word": "lives
-"}
-
-{"word": "Who"}
-
-{"word": "dies
-"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"name": "BURR"}
-
-{"word": "President"}
-
-{"word": "Madison
-"}
-
-{"name": "MADISON"}
-
-{"word": "He"}
-
-{"word": "took"}
-
-{"word": "our"}
-
-{"word": "country"}
-
-{"word": "from"}
-
-{"word": "bankruptcy"}
-
-{"word": "to"}
-
-{"word": "prosperity
-"}
-
-{"word": "I"}
-
-{"word": "hate"}
-
-{"word": "to"}
-
-{"word": "admit"}
-
-{"word": "it"}
-
-{"word": "but"}
-
-{"word": "he"}
-
-{"word": "doesn’t"}
-
-{"word": "get"}
-
-{"word": "enough"}
-
-{"word": "credit
-"}
-
-{"word": "For"}
-
-{"word": "all"}
-
-{"word": "the"}
-
-{"word": "credit"}
-
-{"word": "he"}
-
-{"word": "gave"}
-
-{"word": "us
-"}
-
-{"name": "WASHINGTON AND COMPANY"}
-
-{"word": "Who"}
-
-{"word": "lives
-"}
-
-{"word": "Who"}
-
-{"word": "dies
-"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "Every"}
-
-{"word": "other"}
-
-{"word": "founding"}
-
-{"word": "fathers"}
-
-{"word": "story"}
-
-{"word": "gets"}
-
-{"word": "told
-"}
-
-{"word": "Every"}
-
-{"word": "other"}
-
-{"word": "founding"}
-
-{"word": "father"}
-
-{"word": "gets"}
-
-{"word": "to"}
-
-{"word": "grow"}
-
-{"word": "old
-"}
-
-{"name": "BURR"}
-
-{"word": "But"}
-
-{"word": "when"}
-
-{"word": "you’re"}
-
-{"word": "gone"}
-
-{"word": "who"}
-
-{"word": "remembers"}
-
-{"word": "your"}
-
-{"word": "name
-"}
-
-{"word": "Who"}
-
-{"word": "keeps"}
-
-{"word": "your"}
-
-{"word": "flame
-"}
-
-{"name": "BURR AND MEN"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story	"}
-
-{"word": "
-"}
-
-{"name": "ANGELICA AND WOMEN"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"word": "Your"}
-
-{"word": "story
-"}
-
-{"name": "WOMEN"}
-
-{"word": "Eliza
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "put"}
-
-{"word": "myself"}
-
-{"word": "back"}
-
-{"word": "in"}
-
-{"word": "the"}
-
-{"word": "narrative
-"}
-
-{"name": "WOMEN"}
-
-{"word": "Eliza
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "stop"}
-
-{"word": "wasting"}
-
-{"word": "time"}
-
-{"word": "on"}
-
-{"word": "tears
-"}
-
-{"word": "I"}
-
-{"word": "live"}
-
-{"word": "another"}
-
-{"word": "fifty"}
-
-{"word": "years
-"}
-
-{"word": "It’s"}
-
-{"word": "not"}
-
-{"word": "enough
-"}
-
-{"name": "COMPANY"}
-
-{"word": "Eliza
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "interview"}
-
-{"word": "every"}
-
-{"word": "soldier"}
-
-{"word": "who"}
-
-{"word": "fought"}
-
-{"word": "by"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"name": "MULLIGAN/LAFAYETTE/LAURENS"}
-
-{"word": "She"}
-
-{"word": "tells"}
-
-{"word": "our"}
-
-{"word": "story
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "try"}
-
-{"word": "to"}
-
-{"word": "make"}
-
-{"word": "sense"}
-
-{"word": "of"}
-
-{"word": "your"}
-
-{"word": "thousands"}
-
-{"word": "of"}
-
-{"word": "pages"}
-
-{"word": "of"}
-
-{"word": "writings
-"}
-
-{"word": "You"}
-
-{"word": "really"}
-
-{"word": "do"}
-
-{"word": "write"}
-
-{"word": "like"}
-
-{"word": "you’re"}
-
-{"word": "running"}
-
-{"word": "out"}
-
-{"word": "of—
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "rely"}
-
-{"word": "on—
-"}
-
-{"name": "ELIZA AND ANGELICA"}
-
-{"word": "Angelica
-"}
-
-{"name": "ELIZA"}
-
-{"word": "While"}
-
-{"word": "she’s"}
-
-{"word": "alive—
-"}
-
-{"name": "ELIZA AND ANGELICA"}
-
-{"word": "We"}
-
-{"word": "tell"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"name": "ELIZA"}
-
-{"word": "She"}
-
-{"word": "is"}
-
-{"word": "buried"}
-
-{"word": "in"}
-
-{"word": "Trinity"}
-
-{"word": "Church
-"}
-
-{"name": "ELIZA AND ANGELICA"}
-
-{"word": "Near"}
-
-{"word": "you
-"}
-
-{"name": "ELIZA"}
-
-{"word": "When"}
-
-{"word": "I"}
-
-{"word": "needed"}
-
-{"word": "her"}
-
-{"word": "most"}
-
-{"word": "she"}
-
-{"word": "was"}
-
-{"word": "right"}
-
-{"word": "on—
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "ELIZA"}
-
-{"word": "And"}
-
-{"word": "I’m"}
-
-{"word": "still"}
-
-{"word": "not"}
-
-{"word": "through
-"}
-
-{"word": "I"}
-
-{"word": "ask"}
-
-{"word": "myself"}
-
-{"word": "“What"}
-
-{"word": "would"}
-
-{"word": "you"}
-
-{"word": "do"}
-
-{"word": "if"}
-
-{"word": "you"}
-
-{"word": "had"}
-
-{"word": "more—”
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "ELIZA"}
-
-{"word": "The"}
-
-{"word": "Lord"}
-
-{"word": "in"}
-
-{"word": "his"}
-
-{"word": "kindness
-"}
-
-{"word": "He"}
-
-{"word": "gives"}
-
-{"word": "me"}
-
-{"word": "what"}
-
-{"word": "you"}
-
-{"word": "always"}
-
-{"word": "wanted
-"}
-
-{"word": "He"}
-
-{"word": "gives"}
-
-{"word": "me"}
-
-{"word": "more—
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "raise"}
-
-{"word": "funds"}
-
-{"word": "in"}
-
-{"word": "DC"}
-
-{"word": "for"}
-
-{"word": "the"}
-
-{"word": "Washington"}
-
-{"word": "Monument
-"}
-
-{"name": "WASHINGTON"}
-
-{"word": "She"}
-
-{"word": "tells"}
-
-{"word": "my"}
-
-{"word": "story
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "speak"}
-
-{"word": "out"}
-
-{"word": "against"}
-
-{"word": "slavery
-"}
-
-{"word": "You"}
-
-{"word": "could"}
-
-{"word": "have"}
-
-{"word": "done"}
-
-{"word": "so"}
-
-{"word": "much"}
-
-{"word": "more"}
-
-{"word": "if"}
-
-{"word": "you"}
-
-{"word": "only"}
-
-{"word": "had—
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "ELIZA"}
-
-{"word": "And"}
-
-{"word": "when"}
-
-{"word": "my"}
-
-{"word": "time"}
-
-{"word": "is"}
-
-{"word": "up"}
-
-{"word": "have"}
-
-{"word": "I"}
-
-{"word": "done"}
-
-{"word": "enough
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Will"}
-
-{"word": "they"}
-
-{"word": "tell"}
-
-{"word": "our"}
-
-{"word": "story	COMPANY
-"}
-
-{"word": "Will"}
-
-{"word": "they"}
-
-{"word": "tell"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Oh"}
-
-{"word": "Can"}
-
-{"word": "I"}
-
-{"word": "show"}
-
-{"word": "you"}
-
-{"word": "what"}
-
-{"word": "I’m"}
-
-{"word": "proudest"}
-
-{"word": "of
-"}
-
-{"name": "COMPANY"}
-
-{"word": "The"}
-
-{"word": "orphanage
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "established"}
-
-{"word": "the"}
-
-{"word": "first"}
-
-{"word": "private"}
-
-{"word": "orphanage"}
-
-{"word": "in"}
-
-{"word": "New"}
-
-{"word": "York"}
-
-{"word": "City
-"}
-
-{"name": "COMPANY"}
-
-{"word": "The"}
-
-{"word": "orphanage
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I"}
-
-{"word": "help"}
-
-{"word": "to"}
-
-{"word": "raise"}
-
-{"word": "hundreds"}
-
-{"word": "of"}
-
-{"word": "children
-"}
-
-{"word": "I"}
-
-{"word": "get"}
-
-{"word": "to"}
-
-{"word": "see"}
-
-{"word": "them"}
-
-{"word": "growing"}
-
-{"word": "up
-"}
-
-{"name": "COMPANY"}
-
-{"word": "The"}
-
-{"word": "orphanage
-"}
-
-{"name": "ELIZA"}
-
-{"word": "In"}
-
-{"word": "their"}
-
-{"word": "eyes"}
-
-{"word": "I"}
-
-{"word": "see"}
-
-{"word": "you"}
-
-{"word": "Alexander
-"}
-
-{"word": "I"}
-
-{"word": "see"}
-
-{"word": "you"}
-
-{"word": "every—
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "ELIZA"}
-
-{"word": "And"}
-
-{"word": "when"}
-
-{"word": "my"}
-
-{"word": "time"}
-
-{"word": "is"}
-
-{"word": "up
-"}
-
-{"word": "Have"}
-
-{"word": "I"}
-
-{"word": "done"}
-
-{"word": "enough
-"}
-
-{"word": "Will"}
-
-{"word": "they"}
-
-{"word": "tell"}
-
-{"word": "my"}
-
-{"word": "story	"}
-
-{"word": "
-"}
-
-{"name": "COMPANY"}
-
-{"word": "Will"}
-
-{"word": "they"}
-
-{"word": "tell"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Oh"}
-
-{"word": "I"}
-
-{"word": "can’t"}
-
-{"word": "wait"}
-
-{"word": "to"}
-
-{"word": "see"}
-
-{"word": "you"}
-
-{"word": "again
-"}
-
-{"word": "It’s"}
-
-{"word": "only"}
-
-{"word": "a"}
-
-{"word": "matter"}
-
-{"word": "of—
-"}
-
-{"name": "ELIZA AND COMPANY"}
-
-{"word": "Time
-"}
-
-{"name": "COMPANY"}
-
-{"word": "Will"}
-
-{"word": "they"}
-
-{"word": "tell"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"word": "Who"}
-
-{"word": "lives"}
-
-{"word": "who"}
-
-{"word": "dies"}
-
-{"word": "who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"word": "Will"}
-
-{"word": "they"}
-
-{"word": "tell"}
-
-{"word": "your"}
-
-{"word": "story
-"}
-
-{"word": "Who"}
-
-{"word": "lives"}
-
-{"word": "who"}
-
-{"word": "dies—	"}
-
-{"word": "
-"}
-
-{"name": "COMPANY"}
-
-{"word": "Time…
-"}
-
-{"word": "Time…
-"}
-
-{"word": "Time
-"}
-
-{"name": "FULL COMPANY"}
-
-{"word": "Who"}
-
-{"word": "tells"}
-
-{"word": "your"}
-
-{"word": "story"}
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "President"
+				},
+
+				{
+					"word": "Jefferson"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON"
+				},
+
+				{
+					"word": "I’ll"
+				},
+
+				{
+					"word": "give"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "this"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "financial"
+				},
+
+				{
+					"word": "system"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "Work"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "genius"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "couldn’t"
+				},
+
+				{
+					"word": "undo"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "if"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "tried"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "tried"
+				}
+			],
+
+			[{
+					"name": "WASHINGTON AND COMPANY"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "lives"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "dies"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "President"
+				},
+
+				{
+					"word": "Madison"
+				}
+			],
+
+			[{
+					"name": "MADISON"
+				},
+
+				{
+					"word": "He"
+				},
+
+				{
+					"word": "took"
+				},
+
+				{
+					"word": "our"
+				},
+
+				{
+					"word": "country"
+				},
+
+				{
+					"word": "from"
+				},
+
+				{
+					"word": "bankruptcy"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "prosperity"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "hate"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "admit"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "but"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "doesn’t"
+				},
+
+				{
+					"word": "get"
+				},
+
+				{
+					"word": "enough"
+				},
+
+				{
+					"word": "credit"
+				},
+
+				{
+					"word": "For"
+				},
+
+				{
+					"word": "all"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "credit"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "gave"
+				},
+
+				{
+					"word": "us"
+				}
+			],
+
+			[{
+					"name": "WASHINGTON AND COMPANY"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "lives"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "dies"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "Every"
+				},
+
+				{
+					"word": "other"
+				},
+
+				{
+					"word": "founding"
+				},
+
+				{
+					"word": "fathers"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "gets"
+				},
+
+				{
+					"word": "told"
+				},
+
+				{
+					"word": "Every"
+				},
+
+				{
+					"word": "other"
+				},
+
+				{
+					"word": "founding"
+				},
+
+				{
+					"word": "father"
+				},
+
+				{
+					"word": "gets"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "grow"
+				},
+
+				{
+					"word": "old"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "But"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "you’re"
+				},
+
+				{
+					"word": "gone"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "remembers"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "name"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "keeps"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "flame"
+				}
+			],
+
+			[{
+					"name": "BURR AND MEN"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": ""
+				}
+			],
+
+			[{
+					"name": "ANGELICA AND WOMEN"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "Your"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "WOMEN"
+				},
+
+				{
+					"word": "Eliza"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "put"
+				},
+
+				{
+					"word": "myself"
+				},
+
+				{
+					"word": "back"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "narrative"
+				}
+			],
+
+			[{
+					"name": "WOMEN"
+				},
+
+				{
+					"word": "Eliza"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "stop"
+				},
+
+				{
+					"word": "wasting"
+				},
+
+				{
+					"word": "time"
+				},
+
+				{
+					"word": "on"
+				},
+
+				{
+					"word": "tears"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "live"
+				},
+
+				{
+					"word": "another"
+				},
+
+				{
+					"word": "fifty"
+				},
+
+				{
+					"word": "years"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "enough"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "Eliza"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "interview"
+				},
+
+				{
+					"word": "every"
+				},
+
+				{
+					"word": "soldier"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "fought"
+				},
+
+				{
+					"word": "by"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "side"
+				}
+			],
+
+			[{
+					"name": "MULLIGAN/LAFAYETTE/LAURENS"
+				},
+
+				{
+					"word": "She"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "our"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "try"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "make"
+				},
+
+				{
+					"word": "sense"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "thousands"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "pages"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "writings"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "really"
+				},
+
+				{
+					"word": "do"
+				},
+
+				{
+					"word": "write"
+				},
+
+				{
+					"word": "like"
+				},
+
+				{
+					"word": "you’re"
+				},
+
+				{
+					"word": "running"
+				},
+
+				{
+					"word": "out"
+				},
+
+				{
+					"word": "of—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "rely"
+				},
+
+				{
+					"word": "on—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND ANGELICA"
+				},
+
+				{
+					"word": "Angelica"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "While"
+				},
+
+				{
+					"word": "she’s"
+				},
+
+				{
+					"word": "alive—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND ANGELICA"
+				},
+
+				{
+					"word": "We"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "She"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "buried"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "Trinity"
+				},
+
+				{
+					"word": "Church"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND ANGELICA"
+				},
+
+				{
+					"word": "Near"
+				},
+
+				{
+					"word": "you"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "When"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "needed"
+				},
+
+				{
+					"word": "her"
+				},
+
+				{
+					"word": "most"
+				},
+
+				{
+					"word": "she"
+				},
+
+				{
+					"word": "was"
+				},
+
+				{
+					"word": "right"
+				},
+
+				{
+					"word": "on—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "still"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "through"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "ask"
+				},
+
+				{
+					"word": "myself"
+				},
+
+				{
+					"word": "“What"
+				},
+
+				{
+					"word": "would"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "do"
+				},
+
+				{
+					"word": "if"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "had"
+				},
+
+				{
+					"word": "more—”"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "Lord"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "kindness"
+				},
+
+				{
+					"word": "He"
+				},
+
+				{
+					"word": "gives"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "always"
+				},
+
+				{
+					"word": "wanted"
+				},
+
+				{
+					"word": "He"
+				},
+
+				{
+					"word": "gives"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "more—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "raise"
+				},
+
+				{
+					"word": "funds"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "DC"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "Washington"
+				},
+
+				{
+					"word": "Monument"
+				}
+			],
+
+			[{
+					"name": "WASHINGTON"
+				},
+
+				{
+					"word": "She"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "speak"
+				},
+
+				{
+					"word": "out"
+				},
+
+				{
+					"word": "against"
+				},
+
+				{
+					"word": "slavery"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "could"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "done"
+				},
+
+				{
+					"word": "so"
+				},
+
+				{
+					"word": "much"
+				},
+
+				{
+					"word": "more"
+				},
+
+				{
+					"word": "if"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "only"
+				},
+
+				{
+					"word": "had—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "time"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "up"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "done"
+				},
+
+				{
+					"word": "enough"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Will"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "our"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "Will"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Oh"
+				},
+
+				{
+					"word": "Can"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "show"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "proudest"
+				},
+
+				{
+					"word": "of"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "orphanage"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "established"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "first"
+				},
+
+				{
+					"word": "private"
+				},
+
+				{
+					"word": "orphanage"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "New"
+				},
+
+				{
+					"word": "York"
+				},
+
+				{
+					"word": "City"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "orphanage"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "help"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "raise"
+				},
+
+				{
+					"word": "hundreds"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "children"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "get"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "them"
+				},
+
+				{
+					"word": "growing"
+				},
+
+				{
+					"word": "up"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "orphanage"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "In"
+				},
+
+				{
+					"word": "their"
+				},
+
+				{
+					"word": "eyes"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "Alexander"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "every—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "time"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "up"
+				},
+
+				{
+					"word": "Have"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "done"
+				},
+
+				{
+					"word": "enough"
+				},
+
+				{
+					"word": "Will"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": ""
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "Will"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Oh"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "can’t"
+				},
+
+				{
+					"word": "wait"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "again"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "only"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "matter"
+				},
+
+				{
+					"word": "of—"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND COMPANY"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "Will"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "lives"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "dies"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "Will"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "lives"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "dies"
+				},
+
+				{
+					"word": ""
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "Time…"
+				},
+
+				{
+					"word": "Time…"
+				},
+
+				{
+					"word": "Time"
+				}
+			],
+
+			[{
+					"name": "FULL COMPANY"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "tells"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "story"
+				}
+			]
