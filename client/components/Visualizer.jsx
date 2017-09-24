@@ -14,11 +14,21 @@ export default class Visualizer extends React.Component{
     super(props);
 
 		var json = require('../motifs.json');
-	  this.state = {motifs:  json["motifs"], lastParagraph:  -1, motifIndices: [], draw: '' };
+	  this.state = {motifs:  json["motifs"], lastParagraph:  -1, motifIndices: [], draw: '', visited: [] };
 		for (var i = 2; i < this.state.motifs.length; i+=4) {
       this.state.motifs[i]['word3'] = this.state.motifs[i]['word3'].substring(0, this.state.motifs[i]['word3'].length - 1); 
 		}
   }
+
+	onMouseClick(x, y) {
+     for (var n in this.state.visited) {
+      var v = this.state.visited[n];
+			 if (Math.abs(x - v.x) <= v.w && Math.abs(y - v.y) <= v.h ) {
+				 console.log(v.a + ' ' + v.b + ' ' + v.c);
+				 break;
+			}
+		 }
+	}
 
 	getDrawFromRenderer(param) {
 		this.setState({draw: param});
@@ -29,6 +39,10 @@ export default class Visualizer extends React.Component{
 		return this.state.motifs[k]['word1'] === w1 && this.state.motifs[k+1]['word2'] === w2 && this.state.motifs[k+2]['word3'] === w3;
 	}
 
+	getRandomColor() {
+ 		 var color = "hsl(" + Math.random() * 360 + ", 100%, 75%)";
+     return color;
+  }
 	scroll(currentParagraph, scrollState, numberOffScreen){
 		if (currentParagraph == this.state.lastParagraph) {
 			return;
@@ -68,6 +82,21 @@ export default class Visualizer extends React.Component{
 		this.state.motifIndices = matchedMotifIndices;
 		var w = 16, h = 12;
 
+		var scrollElement = document.getElementById('fuck');
+		if (scrollState.currentParagraph == 0) {
+			console.log('reset');
+			//	this.setState({draw: SVG('drawing')});
+		}
+
+
+		//this.state.draw.rect(2000, 2000).fill('black');
+
+
+			//for (i = 0; i < this.state.visited.length; i++ ){
+		//	var v = this.state.visited[i];
+		//	rect.draw(v.w, v.h).move(v.x, v.y).fill(v.color);
+		//	}
+
 		for (i = 0; i < matchedMotifIndices.length; i++) {
 			var k = matchedMotifIndices[i];
 			//	if (this.state.visited.includes({paragraph: currentParagraph, index: k})){
@@ -78,16 +107,23 @@ export default class Visualizer extends React.Component{
 			//	this.setState({visited, visit});
 			//	}
 			var a = this.state.motifs[k]['word1'], b = this.state.motifs[k+1]['word2'], c= this.state.motifs[k+2]['word3'];
-			console.log(a + ' ' + b + ' ' + c);
+			//	console.log(a + ' ' + b + ' ' + c);
 		  var freq = this.state.motifs[k+3]['freq'];
 
 			var randX = Math.floor(Math.random() * w);
 			var randY = Math.floor(Math.random() * h);
 
 			var color = 0x99ccff;
-			var rect = this.state.draw.rect(40*(Math.min(2, freq/20.0)) , 40*(Math.min(2, freq/20.0)));
+			var currentlyVisited = this.state.visited;
+			var w = 40*(Math.min(2, freq/20.0));
+			var h = 40*(Math.min(2, freq/20.0));
+			var rect = this.state.draw.rect(w,h);
 
-			rect.animate({ease: '<>'}).move(randX * 50, randY * 50 ).fill('#fff');
+			var color = this.getRandomColor();
+			rect.animate({ease: '<>'}).move(randX * 50, randY * 50 ).fill(color);
+    	currentlyVisited.push({a: a, b: b, c: c, x: randX*50, y: randY * 50, w: w, h: h, color: color});
+			this.setState({visited: currentlyVisited});
+
 
 		}
 
@@ -122,8 +158,13 @@ export default class Visualizer extends React.Component{
 
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<D3 funcBack={this.getDrawFromRenderer.bind(this)} indices = {this.state.motifIndices} id ='maind3' width='1000px' height='600px' />
-				<Scrollpane label = {this.props.label} func={this.scroll.bind(this)} id='scroll' width='34vw' height='600px' lineHeight='18px' lineHeightNumber='18' />
+				<D3 mouse={this.onMouseClick.bind(this) }funcBack={this.getDrawFromRenderer.bind(this)} indices = {this.state.motifIndices} id ='maind3' width='1000px' height='600px' />
+				<span>
+				<Scrollpane label = {this.props.label} func={this.scroll.bind(this)} id='scroll' width='34vw' height='400px' lineHeight='18px' lineHeightNumber='18' />
+				<div style={{ height:  '200px'}}>
+
+				</div>
+			 </span>
 			</div>
     );
   }

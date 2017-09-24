@@ -28,6 +28,7 @@ export default class D3 extends React.Component{
 		              y: event.clientY - this.state.div.getBoundingClientRect().top
 		});
 		console.log(`x: ${this.state.x}, y: ${this.state.y}`);
+		this.props.mouse(this.state.x, this.state.y);
 	}
 
 	

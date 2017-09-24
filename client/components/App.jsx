@@ -19,6 +19,8 @@ export default class App extends React.Component {
   processText(song) {
 		this.state = {label: song};
 		this.setState(this.state);
+		document.getElementById('fuck').scrollTop = 0;
+
 	}
 
   render() {

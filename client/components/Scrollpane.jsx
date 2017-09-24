@@ -34,20 +34,27 @@ export default class Scrollpane extends React.Component{
 				 element = myListItems[i];
 			   var height = element.clientHeight;
 			   var numLinesPerParagraph = Math.ceil(height / this.props.lineHeightNumber) - 2;
-					if (numLinesPerParagraph < 3) {
-						sum += numLinesPerParagraph + 1;
+					if (numLinesPerParagraph < 2) {
+						sum += numLinesPerParagraph + 0;
 				 }else{
-					 sum += Math.round(numLinesPerParagraph*0.85) + 1;
+					 sum += Math.round(numLinesPerParagraph*1.25) + 1;
 				 }
 		}
 
-
-
-  	this.state = {
-			previousParagraph: this.state.previousParagraph,
-			currentParagraph: this.state.currentParagraph,
-			pastLines: arr 
-		};
+		var selfElement = document.getElementById('fuck');
+		if (selfElement.scrollTop == 0) {
+			this.state = {
+				previousParagraph: 0,
+				currentParagraph: 0,
+				pastLines: arr
+			}
+		}else {
+  	  this.state = {
+		  	previousParagraph: this.state.previousParagraph,
+		  	currentParagraph: this.state.currentParagraph,
+		  	pastLines: arr 
+	  	};
+		}
 
 		element = document.getElementById('text').getElementsByTagName('p')[this.state.currentParagraph];
 		element.style.background = 'rgba(255, 255, 255, 1)';
@@ -99,7 +106,7 @@ export default class Scrollpane extends React.Component{
 
 		
 		return (
-			<div style={scrollStyle} onScroll = {this.scrollListener.bind(this)}> 
+			<div id='fuck' style={scrollStyle} onScroll = {this.scrollListener.bind(this)}> 
 				<Text label={this.props.label} />
 			</div>
 		);
