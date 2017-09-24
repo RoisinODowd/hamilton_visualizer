@@ -30,26 +30,7 @@ export default class D3 extends React.Component{
 		console.log(`x: ${this.state.x}, y: ${this.state.y}`);
 	}
 
-	arc_links(dwg,x1,y1,x2,y2,n,k) {
-  var cx = (x1+x2)/2;
-  var cy = (y1+y2)/2;
-  var dx = (x2-x1)/2;
-  var dy = (y2-y1)/2;
-  var i;
-  for (i=0; i<n; i++) {
-    if (i==(n-1)/2) {
-      dwg.line(x1,y1,x2,y2).stroke({width:1}).fill('none');
-    }
-    else {
-      dd = Math.sqrt(dx*dx+dy*dy);
-      ex = cx + dy/dd * k * (i-(n-1)/2);
-      ey = cy - dx/dd * k * (i-(n-1)/2);
-      dwg.path("M"+x1+" "+y1+"Q"+ex+" "+ey+" "+x2+" "+y2).stroke({width:1}).fill('none');
-    }
-  }
-
-	}
-
+	
 	componentDidMount() {
 		this.state.div = document.getElementById('drawing');
 	}
@@ -60,8 +41,8 @@ export default class D3 extends React.Component{
 		var w = this.props.width;
 		var h = this.props.height;
 		const D3Style = {
-			width: w,
-			height: h,
+			//	width: w,
+			//height: h,
 			backgroundColor: '#000000',
             display: 'flex',
             justifyContent: 'center',
@@ -69,7 +50,6 @@ export default class D3 extends React.Component{
         }
 
         const svgStyle = {
-            border: '2px solid grey'
 				}
     
         
@@ -81,10 +61,11 @@ export default class D3 extends React.Component{
 
 		return (
 			<div id = 'outter' style={D3Style}>
-				<svg id='drawing' width='400px' height='500px' style={svgStyle} onClick = {this.onClickHandler.bind(this)} 
-				    >
+				<svg id='drawing' width='400px' height='500px' style={svgStyle} onClick = {this.onClickHandler.bind(this)}>
                 </svg>
-						<Renderer />
+						<div>
+					</div>
+					<Renderer />
        </div>
 		);
 	}

@@ -11,21 +11,50 @@ export default class Renderer extends React.Component {
     };
 	}
 
+  arc_links(dwg,x1,y1,x2,y2,n,k) {
+  var cx = (x1+x2)/2;
+  var cy = (y1+y2)/2;
+  var dx = (x2-x1)/2;
+  var dy = (y2-y1)/2;
+  var i;
+  for (i=0; i<n; i++) {
+    if (i==(n-1)/2) {
+      dwg.line(x1,y1,x2,y2).stroke({width:1}).attr({'stroke': "#fff"}).fill('none');
+    }
+    else {
+     var dd = Math.sqrt(dx*dx+dy*dy);
+      var ex = cx + dy/dd * k * (i-(n-1)/2);
+      var ey = cy - dx/dd * k * (i-(n-1)/2);
+      dwg.path("M"+x1+" "+y1+"Q"+ex+" "+ey+" "+x2+" "+y2).stroke({width:1}).attr({'stroke': "#fff"}).fill('none');
+    }
+  }
 
+	}
 	
 	componentDidMount() {
 	
     var draw = SVG('drawing');
-		draw.size(400, 500);
-		var rect = draw.rect(100, 100).attr({ fill: '#f06' });
-    rect.animate().center(200, 200)
 
-		//	var div = document.getElementById('outter');
-	 //	div.element.onmove = this.onMoveHandler.bind(this);
-		//	div.element.onclick = this.onClickHandler.bind(this);
-		//this.state.div = div;
 
-	}
+		draw.size(500, 600);
+		var rect = draw.rect(100, 100);
+		rect.animate().attr({ fill: '#f06' });
+		
+    rect.animate().center(250, 250);
+		this.arc_links(draw,50,50,250,50,2,40);
+    this.arc_links(draw,250,50,250,250,3,40);
+    this.arc_links(draw,250,250,50,250,4,40);
+    this.arc_links(draw,50,250,50,50,5,40);
+
+		// draw.circle(50).move(25,25).fill('#fff').stroke({width:1});
+		//draw.circle(50).move(225,25).fill('#fff').stroke({width:1});
+		//draw.circle(50).move(225,225).fill('#fff').stroke({width:1});
+		//draw.circle(50).move(25,225).fill('#fff').stroke({width:1});		
+
+
+	
+
+		}
 
 
 	render() {
