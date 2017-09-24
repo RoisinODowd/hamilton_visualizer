@@ -106,7 +106,7 @@
 
 {"word": "sir
 "}
-
+		][
 {"name": "JEFFERSON"}
 
 {"word": "We"}
@@ -165,12 +165,12 @@
 
 {"word": "‘em
 "}
-
+		][
 {"name": "JEFFERSON/MADISON"}
 
 {"word": "Oww
 "}
-
+		][
 {"name": "JEFFERSON"}
 
 {"word": "But"}
@@ -234,14 +234,14 @@
 
 {"word": "sits
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "Not"}
 
 {"word": "true
 "}
-
+		][
 {"name": "JEFFERSON"}
 
 {"word": "Ooh"}
@@ -473,7 +473,7 @@
 
 {"word": "whisky
 "}
-
+		][
 {"name": "CROWD (reacting)"}
 
 {"word": "Thats"}
@@ -500,7 +500,7 @@
 
 {"word": "response
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "Thomas"}
@@ -914,7 +914,7 @@
 
 {"word": "fits
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "Excuse"}
@@ -953,19 +953,19 @@
 
 {"word": "Hamilton
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "Sir
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "A"}
 
 {"word": "word
 "}
-
+		][
 {"name": "MADISON"}
 
 {"word": "You"}
@@ -978,7 +978,7 @@
 
 {"word": "votes
 "}
-
+		][
 {"name": "JEFFERSON/MADISON"}
 
 {"word": "You"}
@@ -991,14 +991,14 @@
 
 {"word": "votes
 "}
-
+		][
 {"name": "JEFFERSON"}
 
 {"word": "Ahahaha"}
 
 {"word": "ha
 "}
-
+		][
 {"name": "JEFFERSON/MADISON"}
 
 {"word": "You’re"}
@@ -1023,7 +1023,7 @@
 
 {"word": "votes
 "}
-
+		][
 {"name": "JEFFERSON"}
 
 {"word": "Such"}
@@ -1054,7 +1054,7 @@
 
 {"word": "thunder
 "}
-
+		][
 {"name": "MADISON"}
 
 {"word": "Why"}
@@ -1069,7 +1069,7 @@
 
 {"word": "thunder…
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "You"}
@@ -1082,7 +1082,7 @@
 
 {"word": "together
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "I’m"}
@@ -1103,7 +1103,7 @@
 
 {"word": "feather
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "Young"}
@@ -1124,7 +1124,7 @@
 
 {"word": "mouth
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "So"}
@@ -1147,7 +1147,7 @@
 
 {"word": "South
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "You"}
@@ -1158,7 +1158,7 @@
 
 {"word": "votes
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "No"}
@@ -1179,7 +1179,7 @@
 
 {"word": "plan
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "No"}
@@ -1196,7 +1196,7 @@
 
 {"word": "folks
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "James"}
@@ -1217,7 +1217,7 @@
 
 {"word": "nonstarter
 "}
-
+		][
 {"name": "WASHINGTON"}
 
 {"word": "Winning"}
@@ -1234,7 +1234,7 @@
 
 {"word": "harder
 "}
-
+		][
 {"name": "HAMILTON"}
 
 {"word": "They’re"}
@@ -1258,7 +1258,7 @@
 
 {"word": "compromise
 "}
-
+][
 {"name": "HAMILTON"}
 
 {"word": "But"}
@@ -1281,7 +1281,7 @@
 
 {"word": "mine
 "}
-
+][
 {"name": "WASHINGTON"}
 
 {"word": "Convince"}
@@ -1290,7 +1290,7 @@
 
 {"word": "otherwise
 "}
-
+][
 {"name": "HAMILTON"}
 
 {"word": "What"}
@@ -1309,7 +1309,7 @@
 
 {"word": "approval
 "}
-
+][
 {"name": "WASHINGTON"}
 
 {"word": "I"}
@@ -1326,12 +1326,12 @@
 
 {"word": "removal
 "}
-
+][
 {"name": "HAMILTON"}
 
 {"word": "Sir—
 "}
-
+][
 {"name": "WASHINGTON"}
 
 {"word": "Figure"}
@@ -1353,3 +1353,6 @@
 {"word": "your"}
 
 {"word": "commander"}
+]
+	]
+}

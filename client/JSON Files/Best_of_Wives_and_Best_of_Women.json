@@ -1,187 +1,179 @@
 {
 	"results": [
 		[
-{"name": "ELIZA"}
+{"name": "ELIZA"},
 
-{"word": "Alexander"}
+{"word": "Alexander"},
 
-{"word": "come"}
+{"word": "come"},
 
-{"word": "back"}
+{"word": "back"},
 
-{"word": "to"}
+{"word": "to"},
 
-{"word": "sleep
-"}
+{"word": "sleep"}
+		],[
+{"name": "HAMILTON"},
 
-{"name": "HAMILTON"}
+{"word": "I"},
 
-{"word": "I"}
+{"word": "have"},
 
-{"word": "have"}
+{"word": "an"},
 
-{"word": "an"}
+{"word": "early"},
 
-{"word": "early"}
+{"word": "meeting"},
 
-{"word": "meeting"}
+{"word": "out"},
 
-{"word": "out"}
+{"word": "of"},
 
-{"word": "of"}
+{"word": "town"}
+		],[
+{"name": "ELIZA"},
 
-{"word": "town
-"}
+{"word": "It’s"},
 
-{"name": "ELIZA"}
+{"word": "still"},
 
-{"word": "It’s"}
+{"word": "dark"},
 
-{"word": "still"}
+{"word": "outside"}
+		],[
+{"name": "HAMILTON"},
 
-{"word": "dark"}
+{"word": "I"},
 
-{"word": "outside
-"}
+{"word": "know"},
 
-{"name": "HAMILTON"}
+{"word": "I"},
 
-{"word": "I"}
+{"word": "just"},
 
-{"word": "know"}
+{"word": "need"},
 
-{"word": "I"}
+{"word": "to"},
 
-{"word": "just"}
+{"word": "write"},
 
-{"word": "need"}
+{"word": "something"},
 
-{"word": "to"}
+{"word": "down"}
+		],[
+{"name": "ELIZA"},
 
-{"word": "write"}
+{"word": "Why"},
 
-{"word": "something"}
+{"word": "do"},
 
-{"word": "down
-"}
+{"word": "you"},
 
-{"name": "ELIZA"}
+{"word": "write"},
 
-{"word": "Why"}
+{"word": "like"},
 
-{"word": "do"}
+{"word": "you’re"},
 
-{"word": "you"}
+{"word": "running"},
 
-{"word": "write"}
+{"word": "out"},
 
-{"word": "like"}
+{"word": "of"},
 
-{"word": "you’re"}
+{"word": "time"}
+		],[
+{"name": "HAMILTON"},
 
-{"word": "running"}
+{"word": "Shhh"}
+		],[
+{"name": "ELIZA"},
 
-{"word": "out"}
+{"word": "Come"},
 
-{"word": "of"}
+{"word": "back"},
 
-{"word": "time
-"}
+{"word": "to"},
 
-{"name": "HAMILTON"}
+{"word": "bed"},
 
-{"word": "Shhh
-"}
+{"word": "That"},
 
-{"name": "ELIZA"}
+{"word": "would"},
 
-{"word": "Come"}
+{"word": "be"},
 
-{"word": "back"}
+{"word": "enough"}
+		],[
+{"name": "HAMILTON"},
 
-{"word": "to"}
+{"word": "I’ll"},
 
-{"word": "bed"}
+{"word": "be"},
 
-{"word": "That"}
+{"word": "back"},
 
-{"word": "would"}
+{"word": "before"},
 
-{"word": "be"}
+{"word": "you"},
 
-{"word": "enough
-"}
+{"word": "know"},
 
-{"name": "HAMILTON"}
+{"word": "I’m"},
 
-{"word": "I’ll"}
+{"word": "gone"}
+		],[
+{"name": "ELIZA"},
 
-{"word": "be"}
+{"word": "Come"},
 
-{"word": "back"}
+{"word": "back"},
 
-{"word": "before"}
+{"word": "to"},
 
-{"word": "you"}
+{"word": "sleep"}
+		],[
+{"name": "HAMILTON"},
 
-{"word": "know"}
+{"word": "This"},
 
-{"word": "I’m"}
+{"word": "meeting’s"},
 
-{"word": "gone
-"}
+{"word": "at"},
 
-{"name": "ELIZA"}
+{"word": "dawn"}
+		],[
+{"name": "ELIZA"},
 
-{"word": "Come"}
+{"word": "Well"},
 
-{"word": "back"}
+{"word": "I’m"},
 
-{"word": "to"}
+{"word": "going"},
 
-{"word": "sleep
-"}
+{"word": "back"},
 
-{"name": "HAMILTON"}
+{"word": "to"},
 
-{"word": "This"}
+{"word": "sleep"}
+		],[
+{"name": "HAMILTON"},
 
-{"word": "meeting’s"}
+{"word": "Hey"},
 
-{"word": "at"}
+{"word": "Best"},
 
-{"word": "dawn
-"}
+{"word": "of"},
 
-{"name": "ELIZA"}
+{"word": "wives"},
 
-{"word": "Well"}
+{"word": "and"},
 
-{"word": "I’m"}
+{"word": "best"},
 
-{"word": "going"}
-
-{"word": "back"}
-
-{"word": "to"}
-
-{"word": "sleep
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Hey"}
-
-{"word": "Best"}
-
-{"word": "of"}
-
-{"word": "wives"}
-
-{"word": "and"}
-
-{"word": "best"}
-
-{"word": "of"}
+{"word": "of"},
 
 {"word": "women"}
+		]
+	]
+}
