@@ -24,7 +24,7 @@ export default class Visualizer extends React.Component{
       //border: '2px grey solid',
       display: 'flex',
       flexDirection: 'row',
-      justifyContent: 'space-around',
+      justifyContent: 'center',
       alignItems: 'center',
       marginTop: '5px',
       paddingLeft: '0',
@@ -40,9 +40,8 @@ export default class Visualizer extends React.Component{
     }
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
-				<D3 id='maind3' width='500px' height='600px' />
-		    <img src = {'http://vignette3.wikia.nocookie.net/central/images/9/9c/Hamilton_star_transparent_background.png/revision/latest?cb=20160708221146'} />
-				<Scrollpane id='scroll' width='500px' height='600px' lineHeight='18px' lineHeightNumber='18' />
+				<D3 id='maind3' width='1000px' height='600px' />
+				<Scrollpane id='scroll' width='34vw' height='600px' lineHeight='18px' lineHeightNumber='18' />
 			</div>
     );
   }
