@@ -10,6 +10,17 @@ import Sidebar from './Sidebar.jsx'
 
 
 export default class App extends React.Component {
+
+	constructor() {
+		super();
+		this.state = {label: 0};
+	}
+
+  processText(song) {
+		this.state = {label: song};
+		this.setState(this.state);
+	}
+
   render() {
 
     var bgColor = 'rgba(255, 255, 255, .8)';
@@ -42,8 +53,8 @@ export default class App extends React.Component {
       <div>
         <Sidebar x = ''/>
         <div style={appStyle}>
-          <Header />
-          <Visualizer root='root'/>
+          <Header func={this.processText.bind(this)}/>
+          <Visualizer label={this.state.label} root='root'/>
         </div>
       </div>
     );

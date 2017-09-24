@@ -1,858 +1,1635 @@
 {
 	"results": [
-		[
-{"name": "HAMILTON"}
-
-{"word": "Mr"}
-
-{"word": "Vice"}
-
-{"word": "President
-"}
-
-{"word": "Mr"}
-
-{"word": "Madison
-"}
-
-{"word": "Senator"}
-
-{"word": "Burr
-"}
-
-{"word": "What"}
-
-{"word": "is"}
-
-{"word": "this
-"}
-
-{"name": "JEFFERSON"}
-
-{"word": "We"}
-
-{"word": "have"}
-
-{"word": "the"}
-
-{"word": "check"}
-
-{"word": "stubs"}
-
-{"word": "From"}
-
-{"word": "separate"}
-
-{"word": "accounts…
-"}
-
-{"name": "MADISON"}
-
-{"word": "Almost"}
-
-{"word": "a"}
-
-{"word": "thousand"}
-
-{"word": "dollars"}
-
-{"word": "paid"}
-
-{"word": "in"}
-
-{"word": "different"}
-
-{"word": "amounts…
-"}
-
-{"name": "BURR"}
-
-{"word": "To"}
-
-{"word": "a"}
-
-{"word": "Mr"}
-
-{"word": "James"}
-
-{"word": "Reynolds"}
-
-{"word": "way"}
-
-{"word": "back"}
-
-{"word": "in
-"}
-
-{"word": "Seventeen"}
-
-{"word": "ninetyone
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Is"}
-
-{"word": "that"}
-
-{"word": "what"}
-
-{"word": "you"}
-
-{"word": "have"}
-
-{"word": "Are"}
-
-{"word": "you"}
-
-{"word": "done
-"}
-
-{"name": "MADISON"}
-
-{"word": "You"}
-
-{"word": "are"}
-
-{"word": "uniquely"}
-
-{"word": "situated"}
-
-{"word": "by"}
-
-{"word": "virtue"}
-
-{"word": "of"}
-
-{"word": "your"}
-
-{"word": "position—
-"}
-
-{"name": "JEFFERSON"}
-
-{"word": "Though"}
-
-{"word": "‘virtue’"}
-
-{"word": "is"}
-
-{"word": "not"}
-
-{"word": "a"}
-
-{"word": "word"}
-
-{"word": "I’d"}
-
-{"word": "apply"}
-
-{"word": "to"}
-
-{"word": "this"}
-
-{"word": "situation—
-"}
-
-{"name": "MADISON"}
-
-{"word": "To"}
-
-{"word": "seek"}
-
-{"word": "financial"}
-
-{"word": "gain"}
-
-{"word": "to"}
-
-{"word": "stray"}
-
-{"word": "from"}
-
-{"word": "your"}
-
-{"word": "sacred"}
-
-{"word": "mission—
-"}
-
-{"name": "JEFFERSON"}
-
-{"word": "And"}
-
-{"word": "the"}
-
-{"word": "evidence"}
-
-{"word": "suggests"}
-
-{"word": "you’ve"}
-
-{"word": "engaged"}
-
-{"word": "in"}
-
-{"word": "speculation—
-"}
-
-{"name": "BURR"}
-
-{"word": "An"}
-
-{"word": "immigrant"}
-
-{"word": "embezzling"}
-
-{"word": "our"}
-
-{"word": "government"}
-
-{"word": "funds—
-"}
-
-{"name": "JEFFERSON/MADISON"}
-
-{"word": "I"}
-
-{"word": "can"}
-
-{"word": "almost"}
-
-{"word": "see"}
-
-{"word": "the"}
-
-{"word": "headline"}
-
-{"word": "your"}
-
-{"word": "career"}
-
-{"word": "is"}
-
-{"word": "done
-"}
-
-{"name": "BURR"}
-
-{"word": "I"}
-
-{"word": "hope"}
-
-{"word": "you"}
-
-{"word": "saved"}
-
-{"word": "some"}
-
-{"word": "money"}
-
-{"word": "for"}
-
-{"word": "your"}
-
-{"word": "daughter"}
-
-{"word": "and"}
-
-{"word": "sons
-"}
-
-{"name": "BURR/JEFFERSON/MADISON"}
-
-{"word": "Ya"}
-
-{"word": "best"}
-
-{"word": "gwan"}
-
-{"word": "run"}
-
-{"word": "back"}
-
-{"word": "where"}
-
-{"word": "ya"}
-
-{"word": "come"}
-
-{"word": "from
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Ha"}
-
-{"word": "You"}
-
-{"word": "don’t"}
-
-{"word": "even"}
-
-{"word": "know"}
-
-{"word": "what"}
-
-{"word": "you’re"}
-
-{"word": "asking"}
-
-{"word": "me"}
-
-{"word": "to"}
-
-{"word": "confess
-"}
-
-{"name": "JEFFERSON/MADISON/BURR"}
-
-{"word": "Confess
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "You"}
-
-{"word": "have"}
-
-{"word": "nothing"}
-
-{"word": "I"}
-
-{"word": "don’t"}
-
-{"word": "have"}
-
-{"word": "to"}
-
-{"word": "tell"}
-
-{"word": "you"}
-
-{"word": "anything"}
-
-{"word": "at"}
-
-{"word": "all
-"}
-
-{"word": "Unless
-"}
-
-{"name": "JEFFERSON/MADISON/BURR"}
-
-{"word": "Unless
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "If"}
-
-{"word": "I"}
-
-{"word": "can"}
-
-{"word": "prove"}
-
-{"word": "that"}
-
-{"word": "I"}
-
-{"word": "never"}
-
-{"word": "broke"}
-
-{"word": "the"}
-
-{"word": "law
-"}
-
-{"word": "Do"}
-
-{"word": "you"}
-
-{"word": "promise"}
-
-{"word": "not"}
-
-{"word": "to"}
-
-{"word": "tell"}
-
-{"word": "another"}
-
-{"word": "soul"}
-
-{"word": "what"}
-
-{"word": "you"}
-
-{"word": "saw
-"}
-
-{"name": "BURR"}
-
-{"word": "No"}
-
-{"word": "one"}
-
-{"word": "else"}
-
-{"word": "was"}
-
-{"word": "in"}
-
-{"word": "the"}
-
-{"word": "room"}
-
-{"word": "where"}
-
-{"word": "it"}
-
-{"word": "happened
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Is"}
-
-{"word": "that"}
-
-{"word": "a"}
-
-{"word": "yes
-"}
-
-{"name": "JEFFERSON/MADISON/BURR"}
-
-{"word": "Um"}
-
-{"word": "yes
-"}
-
-{"name": "BURR"}
-
-{"word": "And"}
-
-{"word": "in"}
-
-{"word": "a"}
-
-{"word": "prosperous"}
-
-{"word": "enough"}
-
-{"word": "position"}
-
-{"word": "to"}
-
-{"word": "put"}
-
-{"word": "wealth
-"}
-
-{"word": "In"}
-
-{"word": "the"}
-
-{"word": "pockets"}
-
-{"word": "of"}
-
-{"word": "people"}
-
-{"word": "like"}
-
-{"word": "me"}
-
-{"word": "down"}
-
-{"word": "on"}
-
-{"word": "their"}
-
-{"word": "luck
-"}
-
-{"word": "You"}
-
-{"word": "see"}
-
-{"word": "it"}
-
-{"word": "was"}
-
-{"word": "my"}
-
-{"word": "wife"}
-
-{"word": "who"}
-
-{"word": "you"}
-
-{"word": "decided"}
-
-{"word": "to—”
-"}
-
-{"name": "JEFFERSON"}
-
-{"word": "Whaaaat—
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "She"}
-
-{"word": "courted"}
-
-{"word": "me
-"}
-
-{"word": "Escorted"}
-
-{"word": "me"}
-
-{"word": "to"}
-
-{"word": "bed"}
-
-{"word": "and"}
-
-{"word": "when"}
-
-{"word": "she"}
-
-{"word": "had"}
-
-{"word": "me"}
-
-{"word": "in"}
-
-{"word": "a"}
-
-{"word": "corner
-"}
-
-{"word": "That’s"}
-
-{"word": "when"}
-
-{"word": "Reynolds"}
-
-{"word": "extorted"}
-
-{"word": "me
-"}
-
-{"word": "For"}
-
-{"word": "a"}
-
-{"word": "sordid"}
-
-{"word": "fee
-"}
-
-{"word": "I"}
-
-{"word": "paid"}
-
-{"word": "him"}
-
-{"word": "quarterly
-"}
-
-{"word": "I"}
-
-{"word": "may"}
-
-{"word": "have"}
-
-{"word": "mortally"}
-
-{"word": "wounded"}
-
-{"word": "my"}
-
-{"word": "prospects
-"}
-
-{"word": "But"}
-
-{"word": "my"}
-
-{"word": "papers"}
-
-{"word": "are"}
-
-{"word": "orderly
-"}
-
-{"word": "As"}
-
-{"word": "you"}
-
-{"word": "can"}
-
-{"word": "see"}
-
-{"word": "I"}
-
-{"word": "kept"}
-
-{"word": "a"}
-
-{"word": "record"}
-
-{"word": "of"}
-
-{"word": "every"}
-
-{"word": "check"}
-
-{"word": "in"}
-
-{"word": "my"}
-
-{"word": "checkered
-"}
-
-{"word": "History"}
-
-{"word": "Check"}
-
-{"word": "it"}
-
-{"word": "again"}
-
-{"word": "against"}
-
-{"word": "your"}
-
-{"word": "list"}
-
-{"word": "n’"}
-
-{"word": "see"}
-
-{"word": "consistency
-"}
-
-{"word": "I"}
-
-{"word": "never"}
-
-{"word": "spent"}
-
-{"word": "a"}
-
-{"word": "cent"}
-
-{"word": "that"}
-
-{"word": "wasn’t"}
-
-{"word": "mine
-"}
-
-{"word": "You"}
-
-{"word": "sent"}
-
-{"word": "the"}
-
-{"word": "dogs"}
-
-{"word": "after"}
-
-{"word": "my"}
-
-{"word": "scent"}
-
-{"word": "that’s"}
-
-{"word": "fine
-"}
-
-{"word": "Yes"}
-
-{"word": "I"}
-
-{"word": "have"}
-
-{"word": "reasons"}
-
-{"word": "for"}
-
-{"word": "shame
-"}
-
-{"word": "But"}
-
-{"word": "I"}
-
-{"word": "have"}
-
-{"word": "not"}
-
-{"word": "committed"}
-
-{"word": "treason"}
-
-{"word": "and"}
-
-{"word": "sullied"}
-
-{"word": "my"}
-
-{"word": "good"}
-
-{"word": "name
-"}
-
-{"word": "As"}
-
-{"word": "you"}
-
-{"word": "can"}
-
-{"word": "see"}
-
-{"word": "I"}
-
-{"word": "have"}
-
-{"word": "done"}
-
-{"word": "nothing"}
-
-{"word": "to"}
-
-{"word": "provoke"}
-
-{"word": "legal"}
-
-{"word": "action
-"}
-
-{"word": "Are"}
-
-{"word": "my"}
-
-{"word": "answers"}
-
-{"word": "to"}
-
-{"word": "your"}
-
-{"word": "satisfaction
-"}
-
-{"name": "JEFFERSON"}
-
-{"word": "My"}
-
-{"word": "God
-"}
-
-{"name": "MADISON"}
-
-{"word": "Gentlemen"}
-
-{"word": "let’s"}
-
-{"word": "go
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "So
-"}
-
-{"name": "JEFFERSON AND MADISON"}
-
-{"word": "The"}
-
-{"word": "people"}
-
-{"word": "wont"}
-
-{"word": "know"}
-
-{"word": "what"}
-
-{"word": "we"}
-
-{"word": "know
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Burr
-"}
-
-{"word": "How"}
-
-{"word": "do"}
-
-{"word": "I"}
-
-{"word": "know"}
-
-{"word": "you"}
-
-{"word": "won’t"}
-
-{"word": "use"}
-
-{"word": "this"}
-
-{"word": "against"}
-
-{"word": "me
-"}
-
-{"word": "The"}
-
-{"word": "next"}
-
-{"word": "time"}
-
-{"word": "we"}
-
-{"word": "go"}
-
-{"word": "toe"}
-
-{"word": "to"}
-
-{"word": "toe
-"}
-
-{"name": "BURR"}
-
-{"word": "Alexander"}
-
-{"word": "rumors"}
-
-{"word": "only"}
-
-{"word": "grow"}
-
-{"word": "And"}
-
-{"word": "we"}
-
-{"word": "both
-"}
-
-{"word": "Know"}
-
-{"word": "what"}
-
-{"word": "we"}
-
-{"word": "know"}
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Mr"
+				},
+
+				{
+					"word": "Vice"
+				},
+
+				{
+					"word": "President"
+				},
+
+				{
+					"word": "Mr"
+				},
+
+				{
+					"word": "Madison"
+				},
+
+				{
+					"word": "Senator"
+				},
+
+				{
+					"word": "Burr"
+				},
+
+				{
+					"word": "What"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "this"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON"
+				},
+
+				{
+					"word": "We"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "check"
+				},
+
+				{
+					"word": "stubs"
+				},
+
+				{
+					"word": "From"
+				},
+
+				{
+					"word": "separate"
+				},
+
+				{
+					"word": "accounts…"
+				}
+			],
+
+			[{
+					"name": "MADISON"
+				},
+
+				{
+					"word": "Almost"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "thousand"
+				},
+
+				{
+					"word": "dollars"
+				},
+
+				{
+					"word": "paid"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "different"
+				},
+
+				{
+					"word": "amounts…"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "Mr"
+				},
+
+				{
+					"word": "James"
+				},
+
+				{
+					"word": "Reynolds"
+				},
+
+				{
+					"word": "way"
+				},
+
+				{
+					"word": "back"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "Seventeen"
+				},
+
+				{
+					"word": "ninetyone"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Is"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "Are"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "done"
+				}
+			],
+
+			[{
+					"name": "MADISON"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "are"
+				},
+
+				{
+					"word": "uniquely"
+				},
+
+				{
+					"word": "situated"
+				},
+
+				{
+					"word": "by"
+				},
+
+				{
+					"word": "virtue"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "position—"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON"
+				},
+
+				{
+					"word": "Though"
+				},
+
+				{
+					"word": "‘virtue’"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "word"
+				},
+
+				{
+					"word": "I’d"
+				},
+
+				{
+					"word": "apply"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "this"
+				},
+
+				{
+					"word": "situation—"
+				}
+			],
+
+			[{
+					"name": "MADISON"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "seek"
+				},
+
+				{
+					"word": "financial"
+				},
+
+				{
+					"word": "gain"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "stray"
+				},
+
+				{
+					"word": "from"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "sacred"
+				},
+
+				{
+					"word": "mission—"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "evidence"
+				},
+
+				{
+					"word": "suggests"
+				},
+
+				{
+					"word": "you’ve"
+				},
+
+				{
+					"word": "engaged"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "speculation—"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "An"
+				},
+
+				{
+					"word": "immigrant"
+				},
+
+				{
+					"word": "embezzling"
+				},
+
+				{
+					"word": "our"
+				},
+
+				{
+					"word": "government"
+				},
+
+				{
+					"word": "funds—"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON/MADISON"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "can"
+				},
+
+				{
+					"word": "almost"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "headline"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "career"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "done"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "hope"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "saved"
+				},
+
+				{
+					"word": "some"
+				},
+
+				{
+					"word": "money"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "daughter"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "sons"
+				}
+			],
+
+			[{
+					"name": "BURR/JEFFERSON/MADISON"
+				},
+
+				{
+					"word": "Ya"
+				},
+
+				{
+					"word": "best"
+				},
+
+				{
+					"word": "gwan"
+				},
+
+				{
+					"word": "run"
+				},
+
+				{
+					"word": "back"
+				},
+
+				{
+					"word": "where"
+				},
+
+				{
+					"word": "ya"
+				},
+
+				{
+					"word": "come"
+				},
+
+				{
+					"word": "from"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Ha"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "don’t"
+				},
+
+				{
+					"word": "even"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "you’re"
+				},
+
+				{
+					"word": "asking"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "confess"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON/MADISON/BURR"
+				},
+
+				{
+					"word": "Confess"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "nothing"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "don’t"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "anything"
+				},
+
+				{
+					"word": "at"
+				},
+
+				{
+					"word": "all"
+				},
+
+				{
+					"word": "Unless"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON/MADISON/BURR"
+				},
+
+				{
+					"word": "Unless"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "If"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "can"
+				},
+
+				{
+					"word": "prove"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "broke"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "law"
+				},
+
+				{
+					"word": "Do"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "promise"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "another"
+				},
+
+				{
+					"word": "soul"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "saw"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "No"
+				},
+
+				{
+					"word": "one"
+				},
+
+				{
+					"word": "else"
+				},
+
+				{
+					"word": "was"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "room"
+				},
+
+				{
+					"word": "where"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "happened"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Is"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "yes"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON/MADISON/BURR"
+				},
+
+				{
+					"word": "Um"
+				},
+
+				{
+					"word": "yes"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "prosperous"
+				},
+
+				{
+					"word": "enough"
+				},
+
+				{
+					"word": "position"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "put"
+				},
+
+				{
+					"word": "wealth"
+				},
+
+				{
+					"word": "In"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "pockets"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "people"
+				},
+
+				{
+					"word": "like"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "down"
+				},
+
+				{
+					"word": "on"
+				},
+
+				{
+					"word": "their"
+				},
+
+				{
+					"word": "luck"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "was"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "wife"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "decided"
+				},
+
+				{
+					"word": "to—”"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON"
+				},
+
+				{
+					"word": "Whaaaat—"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "She"
+				},
+
+				{
+					"word": "courted"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "Escorted"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "bed"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "she"
+				},
+
+				{
+					"word": "had"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "corner"
+				},
+
+				{
+					"word": "That’s"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "Reynolds"
+				},
+
+				{
+					"word": "extorted"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "For"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "sordid"
+				},
+
+				{
+					"word": "fee"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "paid"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "quarterly"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "may"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "mortally"
+				},
+
+				{
+					"word": "wounded"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "prospects"
+				},
+
+				{
+					"word": "But"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "papers"
+				},
+
+				{
+					"word": "are"
+				},
+
+				{
+					"word": "orderly"
+				},
+
+				{
+					"word": "As"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "can"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "kept"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "record"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "every"
+				},
+
+				{
+					"word": "check"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "checkered"
+				},
+
+				{
+					"word": "History"
+				},
+
+				{
+					"word": "Check"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "again"
+				},
+
+				{
+					"word": "against"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "list"
+				},
+
+				{
+					"word": "n’"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "consistency"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "spent"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "cent"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "wasn’t"
+				},
+
+				{
+					"word": "mine"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "sent"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "dogs"
+				},
+
+				{
+					"word": "after"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "scent"
+				},
+
+				{
+					"word": "that’s"
+				},
+
+				{
+					"word": "fine"
+				},
+
+				{
+					"word": "Yes"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "reasons"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "shame"
+				},
+
+				{
+					"word": "But"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "committed"
+				},
+
+				{
+					"word": "treason"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "sullied"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "good"
+				},
+
+				{
+					"word": "name"
+				},
+
+				{
+					"word": "As"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "can"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "done"
+				},
+
+				{
+					"word": "nothing"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "provoke"
+				},
+
+				{
+					"word": "legal"
+				},
+
+				{
+					"word": "action"
+				},
+
+				{
+					"word": "Are"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "answers"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "satisfaction"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON"
+				},
+
+				{
+					"word": "My"
+				},
+
+				{
+					"word": "God"
+				}
+			],
+
+			[{
+					"name": "MADISON"
+				},
+
+				{
+					"word": "Gentlemen"
+				},
+
+				{
+					"word": "let’s"
+				},
+
+				{
+					"word": "go"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "So"
+				}
+			],
+
+			[{
+					"name": "JEFFERSON AND MADISON"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "people"
+				},
+
+				{
+					"word": "wont"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "we"
+				},
+
+				{
+					"word": "know"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Burr"
+				},
+
+				{
+					"word": "How"
+				},
+
+				{
+					"word": "do"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "won’t"
+				},
+
+				{
+					"word": "use"
+				},
+
+				{
+					"word": "this"
+				},
+
+				{
+					"word": "against"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "next"
+				},
+
+				{
+					"word": "time"
+				},
+
+				{
+					"word": "we"
+				},
+
+				{
+					"word": "go"
+				},
+
+				{
+					"word": "toe"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "toe"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "Alexander"
+				},
+
+				{
+					"word": "rumors"
+				},
+
+				{
+					"word": "only"
+				},
+
+				{
+					"word": "grow"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "we"
+				},
+
+				{
+					"word": "both"
+				},
+
+				{
+					"word": "Know"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "we"
+				},
+
+				{
+					"word": "know"
+				}
+			]

@@ -1,394 +1,749 @@
 {
 	"results": [
-		[
-{"name": "PHILIP"}
-
-{"word": "Look
-"}
-
-{"word": "Grandpa’s"}
-
-{"word": "in"}
-
-{"word": "the"}
-
-{"word": "paper
-"}
-
-{"word": "Grandpa"}
-
-{"word": "just"}
-
-{"word": "lost"}
-
-{"word": "his"}
-
-{"word": "seat"}
-
-{"word": "in"}
-
-{"word": "the"}
-
-{"word": "senate
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Sometimes"}
-
-{"word": "that’s"}
-
-{"word": "how"}
-
-{"word": "it"}
-
-{"word": "goes
-"}
-
-{"name": "PHILIP"}
-
-{"word": "Daddy’s"}
-
-{"word": "gonna"}
-
-{"word": "find"}
-
-{"word": "out"}
-
-{"word": "any"}
-
-{"word": "minute
-"}
-
-{"name": "ELIZA"}
-
-{"word": "I’m"}
-
-{"word": "sure"}
-
-{"word": "he"}
-
-{"word": "already"}
-
-{"word": "knows
-"}
-
-{"name": "PHILIP"}
-
-{"word": "Further"}
-
-{"word": "down
-"}
-
-{"name": "PHILIP & ELIZA"}
-
-{"word": "Further"}
-
-{"word": "down
-"}
-
-{"name": "PHILIP"}
-
-{"word": "Let’s"}
-
-{"word": "meet"}
-
-{"word": "the"}
-
-{"word": "newest"}
-
-{"word": "senator"}
-
-{"word": "from"}
-
-{"word": "New"}
-
-{"word": "York
-"}
-
-{"name": "ELIZA"}
-
-{"word": "New"}
-
-{"word": "York
-"}
-
-{"name": "PHILIP & ELIZA"}
-
-{"word": "Our"}
-
-{"word": "senator
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Burr
-"}
-
-{"word": "Since"}
-
-{"word": "when"}
-
-{"word": "are"}
-
-{"word": "you"}
-
-{"word": "a"}
-
-{"word": "DemocraticRepublican
-"}
-
-{"name": "BURR"}
-
-{"word": "Since"}
-
-{"word": "being"}
-
-{"word": "one"}
-
-{"word": "put"}
-
-{"word": "me"}
-
-{"word": "on"}
-
-{"word": "the"}
-
-{"word": "up"}
-
-{"word": "and"}
-
-{"word": "up"}
-
-{"word": "again
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "No"}
-
-{"word": "one"}
-
-{"word": "knows"}
-
-{"word": "who"}
-
-{"word": "you"}
-
-{"word": "are"}
-
-{"word": "or"}
-
-{"word": "what"}
-
-{"word": "you"}
-
-{"word": "do
-"}
-
-{"name": "BURR"}
-
-{"word": "They"}
-
-{"word": "don’t"}
-
-{"word": "need"}
-
-{"word": "to"}
-
-{"word": "know"}
-
-{"word": "me
-"}
-
-{"word": "They"}
-
-{"word": "don’t"}
-
-{"word": "like"}
-
-{"word": "you
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Excuse"}
-
-{"word": "me
-"}
-
-{"name": "BURR"}
-
-{"word": "Oh"}
-
-{"word": "Wall"}
-
-{"word": "Street"}
-
-{"word": "thinks"}
-
-{"word": "you’re"}
-
-{"word": "great
-"}
-
-{"word": "You’ll"}
-
-{"word": "always"}
-
-{"word": "be"}
-
-{"word": "adored"}
-
-{"word": "by"}
-
-{"word": "the"}
-
-{"word": "things"}
-
-{"word": "you"}
-
-{"word": "create
-"}
-
-{"word": "But"}
-
-{"word": "upstate—
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Wait
-"}
-
-{"name": "BURR"}
-
-{"word": "Schuyler’s"}
-
-{"word": "seat"}
-
-{"word": "was"}
-
-{"word": "up"}
-
-{"word": "for"}
-
-{"word": "grabs"}
-
-{"word": "so"}
-
-{"word": "I"}
-
-{"word": "took"}
-
-{"word": "it
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "I’ve"}
-
-{"word": "always"}
-
-{"word": "considered"}
-
-{"word": "you"}
-
-{"word": "a"}
-
-{"word": "friend
-"}
-
-{"name": "BURR"}
-
-{"word": "I"}
-
-{"word": "don’t"}
-
-{"word": "see"}
-
-{"word": "why"}
-
-{"word": "that"}
-
-{"word": "has"}
-
-{"word": "to"}
-
-{"word": "end
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "You"}
-
-{"word": "changed"}
-
-{"word": "parties"}
-
-{"word": "to"}
-
-{"word": "run"}
-
-{"word": "against"}
-
-{"word": "my"}
-
-{"word": "fatherinlaw
-"}
-
-{"name": "BURR"}
-
-{"word": "I"}
-
-{"word": "changed"}
-
-{"word": "parties"}
-
-{"word": "to"}
-
-{"word": "seize"}
-
-{"word": "the"}
-
-{"word": "opportunity"}
-
-{"word": "I"}
-
-{"word": "saw
-"}
-
-{"word": "I"}
-
-{"word": "swear"}
-
-{"word": "your"}
-
-{"word": "pride"}
-
-{"word": "will"}
-
-{"word": "be"}
-
-{"word": "the"}
-
-{"word": "death"}
-
-{"word": "of"}
-
-{"word": "us"}
-
-{"word": "all
-"}
-
-{"word": "Beware"}
-
-{"word": "it"}
-
-{"word": "goeth"}
-
-{"word": "before"}
-
-{"word": "the"}
-
-{"word": "fall"}
+			[{
+					"name": "PHILIP"
+				},
+
+				{
+					"word": "Look"
+				},
+
+				{
+					"word": "Grandpa’s"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "paper"
+				},
+
+				{
+					"word": "Grandpa"
+				},
+
+				{
+					"word": "just"
+				},
+
+				{
+					"word": "lost"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "seat"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "senate"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Sometimes"
+				},
+
+				{
+					"word": "that’s"
+				},
+
+				{
+					"word": "how"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "goes"
+				}
+			],
+
+			[{
+					"name": "PHILIP"
+				},
+
+				{
+					"word": "Daddy’s"
+				},
+
+				{
+					"word": "gonna"
+				},
+
+				{
+					"word": "find"
+				},
+
+				{
+					"word": "out"
+				},
+
+				{
+					"word": "any"
+				},
+
+				{
+					"word": "minute"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "sure"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "already"
+				},
+
+				{
+					"word": "knows"
+				}
+			],
+
+			[{
+					"name": "PHILIP"
+				},
+
+				{
+					"word": "Further"
+				},
+
+				{
+					"word": "down"
+				}
+			],
+
+			[{
+					"name": "PHILIP & ELIZA"
+				},
+
+				{
+					"word": "Further"
+				},
+
+				{
+					"word": "down"
+				}
+			],
+
+			[{
+					"name": "PHILIP"
+				},
+
+				{
+					"word": "Let’s"
+				},
+
+				{
+					"word": "meet"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "newest"
+				},
+
+				{
+					"word": "senator"
+				},
+
+				{
+					"word": "from"
+				},
+
+				{
+					"word": "New"
+				},
+
+				{
+					"word": "York"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "New"
+				},
+
+				{
+					"word": "York"
+				}
+			],
+
+			[{
+					"name": "PHILIP & ELIZA"
+				},
+
+				{
+					"word": "Our"
+				},
+
+				{
+					"word": "senator"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Burr"
+				},
+
+				{
+					"word": "Since"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "are"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "DemocraticRepublican"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "Since"
+				},
+
+				{
+					"word": "being"
+				},
+
+				{
+					"word": "one"
+				},
+
+				{
+					"word": "put"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "on"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "up"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "up"
+				},
+
+				{
+					"word": "again"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "No"
+				},
+
+				{
+					"word": "one"
+				},
+
+				{
+					"word": "knows"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "are"
+				},
+
+				{
+					"word": "or"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "do"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "They"
+				},
+
+				{
+					"word": "don’t"
+				},
+
+				{
+					"word": "need"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "They"
+				},
+
+				{
+					"word": "don’t"
+				},
+
+				{
+					"word": "like"
+				},
+
+				{
+					"word": "you"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Excuse"
+				},
+
+				{
+					"word": "me"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "Oh"
+				},
+
+				{
+					"word": "Wall"
+				},
+
+				{
+					"word": "Street"
+				},
+
+				{
+					"word": "thinks"
+				},
+
+				{
+					"word": "you’re"
+				},
+
+				{
+					"word": "great"
+				},
+
+				{
+					"word": "You’ll"
+				},
+
+				{
+					"word": "always"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "adored"
+				},
+
+				{
+					"word": "by"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "things"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "create"
+				},
+
+				{
+					"word": "But"
+				},
+
+				{
+					"word": "upstate—"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Wait"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "Schuyler’s"
+				},
+
+				{
+					"word": "seat"
+				},
+
+				{
+					"word": "was"
+				},
+
+				{
+					"word": "up"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "grabs"
+				},
+
+				{
+					"word": "so"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "took"
+				},
+
+				{
+					"word": "it"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "I’ve"
+				},
+
+				{
+					"word": "always"
+				},
+
+				{
+					"word": "considered"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "friend"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "don’t"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "why"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "has"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "end"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "changed"
+				},
+
+				{
+					"word": "parties"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "run"
+				},
+
+				{
+					"word": "against"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "fatherinlaw"
+				}
+			],
+
+			[{
+					"name": "BURR"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "changed"
+				},
+
+				{
+					"word": "parties"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "seize"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "opportunity"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "saw"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "swear"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "pride"
+				},
+
+				{
+					"word": "will"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "death"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "us"
+				},
+
+				{
+					"word": "all"
+				},
+
+				{
+					"word": "Beware"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "goeth"
+				},
+
+				{
+					"word": "before"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "fall"
+				},

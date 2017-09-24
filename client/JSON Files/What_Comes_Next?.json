@@ -1,272 +1,498 @@
 {
 	"results": [
-		[
-{"name": "King George"}
-
-{"word": "They"}
-
-{"word": "say
-"}
-
-{"word": "The"}
-
-{"word": "price"}
-
-{"word": "of"}
-
-{"word": "my"}
-
-{"word": "war’s"}
-
-{"word": "not"}
-
-{"word": "a"}
-
-{"word": "price"}
-
-{"word": "that"}
-
-{"word": "they’re"}
-
-{"word": "willing"}
-
-{"word": "to"}
-
-{"word": "pay
-"}
-
-{"word": "Insane
-"}
-
-{"word": "You"}
-
-{"word": "cheat"}
-
-{"word": "with"}
-
-{"word": "the"}
-
-{"word": "French"}
-
-{"word": "now"}
-
-{"word": "I’m"}
-
-{"word": "fighting"}
-
-{"word": "with"}
-
-{"word": "France"}
-
-{"word": "and"}
-
-{"word": "with"}
-
-{"word": "Spain
-"}
-
-{"word": "I’m"}
-
-{"word": "so"}
-
-{"word": "blue
-"}
-
-{"word": "I"}
-
-{"word": "thought"}
-
-{"word": "that"}
-
-{"word": "we’d"}
-
-{"word": "made"}
-
-{"word": "an"}
-
-{"word": "arrangement
-"}
-
-{"word": "When"}
-
-{"word": "you"}
-
-{"word": "went"}
-
-{"word": "away
-"}
-
-{"word": "You"}
-
-{"word": "were"}
-
-{"word": "mine"}
-
-{"word": "to"}
-
-{"word": "subdue
-"}
-
-{"word": "Well"}
-
-{"word": "even"}
-
-{"word": "despite"}
-
-{"word": "our"}
-
-{"word": "estrangement"}
-
-{"word": "I’ve"}
-
-{"word": "got
-"}
-
-{"word": "A"}
-
-{"word": "small"}
-
-{"word": "query"}
-
-{"word": "for"}
-
-{"word": "you
-"}
-
-{"word": "What"}
-
-{"word": "comes"}
-
-{"word": "next
-"}
-
-{"word": "You’ve"}
-
-{"word": "been"}
-
-{"word": "freed
-"}
-
-{"word": "Do"}
-
-{"word": "you"}
-
-{"word": "know"}
-
-{"word": "how"}
-
-{"word": "hard"}
-
-{"word": "it"}
-
-{"word": "is"}
-
-{"word": "to"}
-
-{"word": "lead
-"}
-
-{"word": "You’re"}
-
-{"word": "on"}
-
-{"word": "your"}
-
-{"word": "own
-"}
-
-{"word": "Awesome"}
-
-{"word": "Wow
-"}
-
-{"word": "Do"}
-
-{"word": "you"}
-
-{"word": "have"}
-
-{"word": "a"}
-
-{"word": "clue"}
-
-{"word": "what"}
-
-{"word": "happens"}
-
-{"word": "now
-"}
-
-{"word": "Oceans"}
-
-{"word": "rise
-"}
-
-{"word": "Empires"}
-
-{"word": "fall
-"}
-
-{"word": "It’s"}
-
-{"word": "much"}
-
-{"word": "harder"}
-
-{"word": "when"}
-
-{"word": "it’s"}
-
-{"word": "all"}
-
-{"word": "your"}
-
-{"word": "call
-"}
-
-{"word": "All"}
-
-{"word": "alone"}
-
-{"word": "across"}
-
-{"word": "the"}
-
-{"word": "sea
-"}
-
-{"word": "When"}
-
-{"word": "your"}
-
-{"word": "people"}
-
-{"word": "say"}
-
-{"word": "they"}
-
-{"word": "hate"}
-
-{"word": "you
-"}
-
-{"word": "Don’t"}
-
-{"word": "come"}
-
-{"word": "crawling"}
-
-{"word": "back"}
-
-{"word": "to"}
-
-{"word": "me
-"}
-
-{"word": "You’re"}
-
-{"word": "on"}
-
-{"word": "your"}
-
-{"word": "own…"}
+			[{
+					"name": "King George"
+				},
+
+				{
+					"word": "They"
+				},
+
+				{
+					"word": "say"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "price"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "war’s"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "price"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "they’re"
+				},
+
+				{
+					"word": "willing"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "pay"
+				},
+
+				{
+					"word": "Insane"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "cheat"
+				},
+
+				{
+					"word": "with"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "French"
+				},
+
+				{
+					"word": "now"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "fighting"
+				},
+
+				{
+					"word": "with"
+				},
+
+				{
+					"word": "France"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "with"
+				},
+
+				{
+					"word": "Spain"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "so"
+				},
+
+				{
+					"word": "blue"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "thought"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "we’d"
+				},
+
+				{
+					"word": "made"
+				},
+
+				{
+					"word": "an"
+				},
+
+				{
+					"word": "arrangement"
+				},
+
+				{
+					"word": "When"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "went"
+				},
+
+				{
+					"word": "away"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "were"
+				},
+
+				{
+					"word": "mine"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "subdue"
+				},
+
+				{
+					"word": "Well"
+				},
+
+				{
+					"word": "even"
+				},
+
+				{
+					"word": "despite"
+				},
+
+				{
+					"word": "our"
+				},
+
+				{
+					"word": "estrangement"
+				},
+
+				{
+					"word": "I’ve"
+				},
+
+				{
+					"word": "got"
+				},
+
+				{
+					"word": "A"
+				},
+
+				{
+					"word": "small"
+				},
+
+				{
+					"word": "query"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "What"
+				},
+
+				{
+					"word": "comes"
+				},
+
+				{
+					"word": "next"
+				},
+
+				{
+					"word": "You’ve"
+				},
+
+				{
+					"word": "been"
+				},
+
+				{
+					"word": "freed"
+				},
+
+				{
+					"word": "Do"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "how"
+				},
+
+				{
+					"word": "hard"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "lead"
+				},
+
+				{
+					"word": "You’re"
+				},
+
+				{
+					"word": "on"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "own"
+				},
+
+				{
+					"word": "Awesome"
+				},
+
+				{
+					"word": "Wow"
+				},
+
+				{
+					"word": "Do"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "clue"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "happens"
+				},
+
+				{
+					"word": "now"
+				},
+
+				{
+					"word": "Oceans"
+				},
+
+				{
+					"word": "rise"
+				},
+
+				{
+					"word": "Empires"
+				},
+
+				{
+					"word": "fall"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "much"
+				},
+
+				{
+					"word": "harder"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "it’s"
+				},
+
+				{
+					"word": "all"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "call"
+				},
+
+				{
+					"word": "All"
+				},
+
+				{
+					"word": "alone"
+				},
+
+				{
+					"word": "across"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "sea"
+				},
+
+				{
+					"word": "When"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "people"
+				},
+
+				{
+					"word": "say"
+				},
+
+				{
+					"word": "they"
+				},
+
+				{
+					"word": "hate"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "Don’t"
+				},
+
+				{
+					"word": "come"
+				},
+
+				{
+					"word": "crawling"
+				},
+
+				{
+					"word": "back"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "You’re"
+				},
+
+				{
+					"word": "on"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "own…"
+				}
+			]

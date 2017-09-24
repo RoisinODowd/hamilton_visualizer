@@ -1,2001 +1,3686 @@
 {
 	"results": [
-		[
-{"name": "LAURENS"}
+			[{
+					"name": "LAURENS"
+				},
+
+				{
+					"word": "Alright"
+				},
+
+				{
+					"word": "alright"
+				},
+
+				{
+					"word": "That’s"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "talkin’"
+				},
+
+				{
+					"word": "about"
+				},
+
+				{
+					"word": "Now"
+				},
+
+				{
+					"word": "everyone"
+				},
+
+				{
+					"word": "give"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "up"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "maid"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "honor"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "Schuyler"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "A"
+				},
+
+				{
+					"word": "toast"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
 
-{"word": "Alright"}
+				{
+					"word": "To"
+				},
 
-{"word": "alright"}
+				{
+					"word": "the"
+				},
 
-{"word": "That’s"}
+				{
+					"word": "bride"
+				},
 
-{"word": "what"}
+				{
+					"word": "From"
+				},
 
-{"word": "I’m"}
+				{
+					"word": "your"
+				},
 
-{"word": "talkin’"}
+				{
+					"word": "sister"
+				},
 
-{"word": "about
-"}
+				{
+					"word": "Who"
+				},
 
-{"word": "Now"}
+				{
+					"word": "is"
+				},
 
-{"word": "everyone"}
+				{
+					"word": "always"
+				},
 
-{"word": "give"}
+				{
+					"word": "by"
+				},
 
-{"word": "it"}
+				{
+					"word": "your"
+				},
 
-{"word": "up"}
+				{
+					"word": "side"
+				},
 
-{"word": "for"}
+				{
+					"word": "To"
+				},
 
-{"word": "the"}
+				{
+					"word": "your"
+				},
 
-{"word": "maid"}
+				{
+					"word": "union"
+				},
 
-{"word": "of"}
+				{
+					"word": "And"
+				},
 
-{"word": "honor
-"}
+				{
+					"word": "the"
+				},
 
-{"word": "Angelica"}
+				{
+					"word": "hope"
+				},
 
-{"word": "Schuyler
-"}
+				{
+					"word": "that"
+				},
 
-{"name": "ANGELICA"}
+				{
+					"word": "you"
+				},
 
-{"word": "A"}
+				{
+					"word": "provide"
+				},
 
-{"word": "toast"}
+				{
+					"word": "May"
+				},
 
-{"word": "to"}
+				{
+					"word": "you"
+				},
 
-{"word": "the"}
+				{
+					"word": "always…"
+				},
 
-{"word": "groom
-"}
+				{
+					"word": "Be"
+				},
 
-{"word": "To"}
+				{
+					"word": "satisfied"
+				},
 
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "From"}
-
-{"word": "your"}
-
-{"word": "sister
-"}
-
-{"word": "Who"}
-
-{"word": "is"}
-
-{"word": "always"}
-
-{"word": "by"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"word": "To"}
-
-{"word": "your"}
-
-{"word": "union
-"}
-
-{"word": "And"}
-
-{"word": "the"}
-
-{"word": "hope"}
-
-{"word": "that"}
-
-{"word": "you"}
-
-{"word": "provide
-"}
-
-{"word": "May"}
-
-{"word": "you"}
-
-{"word": "always…
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied	"}
-
-{"word": "
-"}
-
-{"name": "ALL MEN"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "Angelica
-"}
-
-{"word": "Angelica
-"}
-
-{"word": "Angelica
-"}
-
-{"word": "By"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "union
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "revolution
-"}
-
-{"word": "You"}
-
-{"word": "provide
-"}
-
-{"word": "You"}
-
-{"word": "provide
-"}
-
-{"name": "HAMILTON AND MEN"}
-
-{"word": "Always—
-"}
-
-{"word": "Rewind—	"}
-
-{"word": "
-"}
-
-{"name": "ALL WOMEN"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"name": "ELIZA AND WOMEN"}
-
-{"word": "Angelica
-"}
-
-{"word": "By"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "union
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "revolution
-"}
-
-{"word": "You"}
-
-{"word": "provide
-"}
-
-{"word": "Always—
-"}
-
-{"word": "Rewind—
-"}
-
-{"name": "Recorded Samples"}
-
-{"word": "Rewind"}
-
-{"word": "Rewind
-"}
-
-{"word": "Helpless"}
-
-{"word": "skys"}
-
-{"word": "skys
-"}
-
-{"word": "Drownin"}
-
-{"word": "in"}
-
-{"word": "em
-"}
-
-{"word": "Drownin"}
-
-{"word": "rewind
-"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "that"}
-
-{"word": "night"}
-
-{"word": "I"}
-
-{"word": "just"}
-
-{"word": "might"}
-
-{"word": "rewind
-"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "that"}
-
-{"word": "night"}
-
-{"word": "I"}
-
-{"word": "just"}
-
-{"word": "might"}
-
-{"word": "rewind
-"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "that"}
-
-{"word": "night"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "that—
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "that"}
-
-{"word": "night"}
-
-{"word": "I"}
-
-{"word": "just"}
-
-{"word": "might
-"}
-
-{"word": "Regret"}
-
-{"word": "that"}
-
-{"word": "night"}
-
-{"word": "for"}
-
-{"word": "the"}
-
-{"word": "rest"}
-
-{"word": "of"}
-
-{"word": "my"}
-
-{"word": "days
-"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "those"}
-
-{"word": "soldier"}
-
-{"word": "boys
-"}
-
-{"word": "Tripping"}
-
-{"word": "over"}
-
-{"word": "themselves"}
-
-{"word": "to"}
-
-{"word": "win"}
-
-{"word": "our"}
-
-{"word": "praise
-"}
-
-{"word": "I"}
-
-{"word": "remember"}
-
-{"word": "that"}
-
-{"word": "dreamlike"}
-
-{"word": "candlelight
-"}
-
-{"word": "Like"}
-
-{"word": "a"}
-
-{"word": "dream"}
-
-{"word": "that"}
-
-{"word": "you"}
-
-{"word": "can’t"}
-
-{"word": "quite"}
-
-{"word": "place
-"}
-
-{"word": "But"}
-
-{"word": "Alexander"}
-
-{"word": "I’ll"}
-
-{"word": "never"}
-
-{"word": "forget"}
-
-{"word": "the"}
-
-{"word": "first
-"}
-
-{"word": "Time"}
-
-{"word": "I"}
-
-{"word": "saw"}
-
-{"word": "your"}
-
-{"word": "face
-"}
-
-{"word": "I"}
-
-{"word": "have"}
-
-{"word": "never"}
-
-{"word": "been"}
-
-{"word": "the"}
-
-{"word": "same
-"}
-
-{"word": "Intelligent"}
-
-{"word": "eyes"}
-
-{"word": "in"}
-
-{"word": "a"}
-
-{"word": "hungerpang"}
-
-{"word": "frame
-"}
-
-{"word": "And"}
-
-{"word": "when"}
-
-{"word": "you"}
-
-{"word": "said"}
-
-{"word": "“Hi”"}
-
-{"word": "I"}
-
-{"word": "forgot"}
-
-{"word": "my"}
-
-{"word": "dang"}
-
-{"word": "name
-"}
-
-{"word": "Set"}
-
-{"word": "my"}
-
-{"word": "heart"}
-
-{"word": "aflame"}
-
-{"word": "ev’ry"}
-
-{"word": "part"}
-
-{"word": "aflame
-"}
-
-{"name": "FULL COMPANY"}
-
-{"word": "This"}
-
-{"word": "is"}
-
-{"word": "not"}
-
-{"word": "a"}
-
-{"word": "game…
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "You"}
-
-{"word": "strike"}
-
-{"word": "me"}
-
-{"word": "as"}
-
-{"word": "a"}
-
-{"word": "woman"}
-
-{"word": "who"}
-
-{"word": "has"}
-
-{"word": "never"}
-
-{"word": "been"}
-
-{"word": "satisfied
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "I’m"}
-
-{"word": "sure"}
-
-{"word": "I"}
-
-{"word": "don’t"}
-
-{"word": "know"}
-
-{"word": "what"}
-
-{"word": "you"}
-
-{"word": "mean"}
-
-{"word": "You"}
-
-{"word": "forget"}
-
-{"word": "yourself
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "You’re"}
-
-{"word": "like"}
-
-{"word": "me"}
-
-{"word": "I’m"}
-
-{"word": "never"}
-
-{"word": "satisfied
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "Is"}
-
-{"word": "that"}
-
-{"word": "right
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "I"}
-
-{"word": "have"}
-
-{"word": "never"}
-
-{"word": "been"}
-
-{"word": "satisfied
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "My"}
-
-{"word": "name"}
-
-{"word": "is"}
-
-{"word": "Angelica"}
-
-{"word": "Schuyler
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Alexander"}
-
-{"word": "Hamilton
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "Where’s"}
-
-{"word": "your"}
-
-{"word": "fam’ly"}
-
-{"word": "from
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Unimportant"}
-
-{"word": "There’s"}
-
-{"word": "a"}
-
-{"word": "million"}
-
-{"word": "things"}
-
-{"word": "I"}
-
-{"word": "haven’t"}
-
-{"word": "done"}
-
-{"word": "but
-"}
-
-{"word": "Just"}
-
-{"word": "you"}
-
-{"word": "wait"}
-
-{"word": "just"}
-
-{"word": "you"}
-
-{"word": "wait…
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "So"}
-
-{"word": "so"}
-
-{"word": "so—
-"}
-
-{"word": "So"}
-
-{"word": "this"}
-
-{"word": "is"}
-
-{"word": "what"}
-
-{"word": "it"}
-
-{"word": "feels"}
-
-{"word": "like"}
-
-{"word": "to"}
-
-{"word": "match"}
-
-{"word": "wits
-"}
-
-{"word": "With"}
-
-{"word": "someone"}
-
-{"word": "at"}
-
-{"word": "your"}
-
-{"word": "level"}
-
-{"word": "What"}
-
-{"word": "the"}
-
-{"word": "hell"}
-
-{"word": "is"}
-
-{"word": "the"}
-
-{"word": "catch"}
-
-{"word": "It’s
-"}
-
-{"word": "The"}
-
-{"word": "feeling"}
-
-{"word": "of"}
-
-{"word": "freedom"}
-
-{"word": "of"}
-
-{"word": "seein’"}
-
-{"word": "the"}
-
-{"word": "light
-"}
-
-{"word": "It’s"}
-
-{"word": "Ben"}
-
-{"word": "Franklin"}
-
-{"word": "with"}
-
-{"word": "a"}
-
-{"word": "key"}
-
-{"word": "and"}
-
-{"word": "a"}
-
-{"word": "kite"}
-
-{"word": "You"}
-
-{"word": "see"}
-
-{"word": "it"}
-
-{"word": "right
-"}
-
-{"word": "The"}
-
-{"word": "conversation"}
-
-{"word": "lasted"}
-
-{"word": "two"}
-
-{"word": "minutes"}
-
-{"word": "maybe"}
-
-{"word": "three"}
-
-{"word": "minutes
-"}
-
-{"word": "Ev’rything"}
-
-{"word": "we"}
-
-{"word": "said"}
-
-{"word": "in"}
-
-{"word": "total"}
-
-{"word": "agreement"}
-
-{"word": "it’s
-"}
-
-{"word": "A"}
-
-{"word": "dream"}
-
-{"word": "and"}
-
-{"word": "it’s"}
-
-{"word": "a"}
-
-{"word": "bit"}
-
-{"word": "of"}
-
-{"word": "a"}
-
-{"word": "dance
-"}
-
-{"word": "A"}
-
-{"word": "bit"}
-
-{"word": "of"}
-
-{"word": "a"}
-
-{"word": "posture"}
-
-{"word": "it’s"}
-
-{"word": "a"}
-
-{"word": "bit"}
-
-{"word": "of"}
-
-{"word": "a"}
-
-{"word": "stance"}
-
-{"word": "He’s"}
-
-{"word": "a
-"}
-
-{"word": "Bit"}
-
-{"word": "of"}
-
-{"word": "a"}
-
-{"word": "flirt"}
-
-{"word": "but"}
-
-{"word": "I’m"}
-
-{"word": "‘a"}
-
-{"word": "give"}
-
-{"word": "it"}
-
-{"word": "a"}
-
-{"word": "chance
-"}
-
-{"word": "I"}
-
-{"word": "asked"}
-
-{"word": "about"}
-
-{"word": "his"}
-
-{"word": "fam’ly"}
-
-{"word": "did"}
-
-{"word": "you"}
-
-{"word": "see"}
-
-{"word": "his"}
-
-{"word": "answer
-"}
-
-{"word": "His"}
-
-{"word": "hands"}
-
-{"word": "started"}
-
-{"word": "fidgeting"}
-
-{"word": "he"}
-
-{"word": "looked"}
-
-{"word": "askance
-"}
-
-{"word": "He’s"}
-
-{"word": "penniless"}
-
-{"word": "he’s"}
-
-{"word": "flying"}
-
-{"word": "by"}
-
-{"word": "the"}
-
-{"word": "seat"}
-
-{"word": "of"}
-
-{"word": "his"}
-
-{"word": "pants
-"}
-
-{"word": "Handsome"}
-
-{"word": "boy"}
-
-{"word": "does"}
-
-{"word": "he"}
-
-{"word": "know"}
-
-{"word": "it
-"}
-
-{"word": "Peach"}
-
-{"word": "fuzz"}
-
-{"word": "and"}
-
-{"word": "he"}
-
-{"word": "can’t"}
-
-{"word": "even"}
-
-{"word": "grow"}
-
-{"word": "it
-"}
-
-{"word": "I"}
-
-{"word": "wanna"}
-
-{"word": "take"}
-
-{"word": "him"}
-
-{"word": "far"}
-
-{"word": "away"}
-
-{"word": "from"}
-
-{"word": "this"}
-
-{"word": "place
-"}
-
-{"word": "Then"}
-
-{"word": "I"}
-
-{"word": "turn"}
-
-{"word": "and"}
-
-{"word": "see"}
-
-{"word": "my"}
-
-{"word": "sister’s"}
-
-{"word": "face"}
-
-{"word": "and"}
-
-{"word": "she"}
-
-{"word": "is…
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Helpless…
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "And"}
-
-{"word": "I"}
-
-{"word": "know"}
-
-{"word": "she"}
-
-{"word": "is…
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Helpless…
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "And"}
-
-{"word": "her"}
-
-{"word": "eyes"}
-
-{"word": "are"}
-
-{"word": "just…
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Helpless…
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "And"}
-
-{"word": "I"}
-
-{"word": "realize
-"}
-
-{"name": "ANGELICA AND COMPANY"}
-
-{"word": "Three"}
-
-{"word": "fundamental"}
-
-{"word": "truths"}
-
-{"word": "at"}
-
-{"word": "the"}
-
-{"word": "exact"}
-
-{"word": "same"}
-
-{"word": "time…
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Where"}
-
-{"word": "are"}
-
-{"word": "you"}
-
-{"word": "taking"}
-
-{"word": "me
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "I’m"}
-
-{"word": "about"}
-
-{"word": "to"}
-
-{"word": "change"}
-
-{"word": "your"}
-
-{"word": "life
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Then"}
-
-{"word": "by"}
-
-{"word": "all"}
-
-{"word": "means"}
-
-{"word": "lead"}
-
-{"word": "the"}
-
-{"word": "way
-"}
-
-{"name": "COMPANY (EXCEPT ANGELICA)"}
-
-{"word": "Number"}
-
-{"word": "one
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "I’m"}
-
-{"word": "a"}
-
-{"word": "girl"}
-
-{"word": "in"}
-
-{"word": "a"}
-
-{"word": "world"}
-
-{"word": "in"}
-
-{"word": "which
-"}
-
-{"word": "My"}
-
-{"word": "only"}
-
-{"word": "job"}
-
-{"word": "is"}
-
-{"word": "to"}
-
-{"word": "marry"}
-
-{"word": "rich
-"}
-
-{"word": "My"}
-
-{"word": "father"}
-
-{"word": "has"}
-
-{"word": "no"}
-
-{"word": "sons"}
-
-{"word": "so"}
-
-{"word": "I’m"}
-
-{"word": "the"}
-
-{"word": "one
-"}
-
-{"word": "Who"}
-
-{"word": "has"}
-
-{"word": "to"}
-
-{"word": "social"}
-
-{"word": "climb"}
-
-{"word": "for"}
-
-{"word": "one
-"}
-
-{"word": "So"}
-
-{"word": "I’m"}
-
-{"word": "the"}
-
-{"word": "oldest"}
-
-{"word": "and"}
-
-{"word": "the"}
-
-{"word": "wittiest"}
-
-{"word": "and"}
-
-{"word": "the"}
-
-{"word": "gossip"}
-
-{"word": "in
-"}
-
-{"word": "New"}
-
-{"word": "York"}
-
-{"word": "City"}
-
-{"word": "is"}
-
-{"word": "insidious
-"}
-
-{"word": "And"}
-
-{"word": "Alexander"}
-
-{"word": "is"}
-
-{"word": "penniless
-"}
-
-{"word": "Ha"}
-
-{"word": "That"}
-
-{"word": "doesn’t"}
-
-{"word": "mean"}
-
-{"word": "I"}
-
-{"word": "want"}
-
-{"word": "him"}
-
-{"word": "any"}
-
-{"word": "less
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Elizabeth"}
-
-{"word": "Schuyler"}
-
-{"word": "It’s"}
-
-{"word": "a"}
-
-{"word": "pleasure"}
-
-{"word": "to"}
-
-{"word": "meet"}
-
-{"word": "you
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "Schuyler
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "My"}
-
-{"word": "sister
-"}
-
-{"name": "COMPANY"}
-
-{"word": "Number"}
-
-{"word": "two
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "He’s"}
-
-{"word": "after"}
-
-{"word": "me"}
-
-{"word": "cuz"}
-
-{"word": "I’m"}
-
-{"word": "a"}
-
-{"word": "Schuyler"}
-
-{"word": "sister
-"}
-
-{"word": "That"}
-
-{"word": "elevates"}
-
-{"word": "his"}
-
-{"word": "status"}
-
-{"word": "I’d
-"}
-
-{"word": "Have"}
-
-{"word": "to"}
-
-{"word": "be"}
-
-{"word": "naïve"}
-
-{"word": "to"}
-
-{"word": "set"}
-
-{"word": "that"}
-
-{"word": "aside
-"}
-
-{"word": "Maybe"}
-
-{"word": "that"}
-
-{"word": "is"}
-
-{"word": "why"}
-
-{"word": "I"}
-
-{"word": "introduce"}
-
-{"word": "him"}
-
-{"word": "to"}
-
-{"word": "Eliza
-"}
-
-{"word": "Now"}
-
-{"word": "that’s"}
-
-{"word": "his"}
-
-{"word": "bride
-"}
-
-{"word": "Nice"}
-
-{"word": "going"}
-
-{"word": "Angelica"}
-
-{"word": "he"}
-
-{"word": "was"}
-
-{"word": "right
-"}
-
-{"word": "You"}
-
-{"word": "will"}
-
-{"word": "never"}
-
-{"word": "be"}
-
-{"word": "satisfied
-"}
-
-{"name": "ELIZA"}
-
-{"word": "Thank"}
-
-{"word": "you"}
-
-{"word": "for"}
-
-{"word": "all"}
-
-{"word": "your"}
-
-{"word": "service
-"}
-
-{"name": "HAMILTON"}
-
-{"word": "If"}
-
-{"word": "it"}
-
-{"word": "takes"}
-
-{"word": "fighting"}
-
-{"word": "a"}
-
-{"word": "war"}
-
-{"word": "for"}
-
-{"word": "us"}
-
-{"word": "to"}
-
-{"word": "meet"}
-
-{"word": "it"}
-
-{"word": "will"}
-
-{"word": "have"}
-
-{"word": "been"}
-
-{"word": "worth"}
-
-{"word": "it
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "I’ll"}
-
-{"word": "leave"}
-
-{"word": "you"}
-
-{"word": "to"}
-
-{"word": "it
-"}
-
-{"name": "COMPANY"}
-
-{"word": "Number"}
-
-{"word": "three
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "I"}
-
-{"word": "know"}
-
-{"word": "my"}
-
-{"word": "sister"}
-
-{"word": "like"}
-
-{"word": "I"}
-
-{"word": "know"}
-
-{"word": "my"}
-
-{"word": "own"}
-
-{"word": "mind
-"}
-
-{"word": "You"}
-
-{"word": "will"}
-
-{"word": "never"}
-
-{"word": "find"}
-
-{"word": "anyone"}
-
-{"word": "as"}
-
-{"word": "trusting"}
-
-{"word": "or"}
-
-{"word": "as"}
-
-{"word": "kind
-"}
-
-{"word": "If"}
-
-{"word": "I"}
-
-{"word": "tell"}
-
-{"word": "her"}
-
-{"word": "that"}
-
-{"word": "I"}
-
-{"word": "love"}
-
-{"word": "him"}
-
-{"word": "she’d"}
-
-{"word": "be"}
-
-{"word": "silently"}
-
-{"word": "resigned
-"}
-
-{"word": "He’d"}
-
-{"word": "be"}
-
-{"word": "mine
-"}
-
-{"word": "She"}
-
-{"word": "would"}
-
-{"word": "say"}
-
-{"word": "“I’m"}
-
-{"word": "fine”
-"}
-
-{"name": "ANGELICA AND COMPANY"}
-
-{"word": "She’d"}
-
-{"word": "be"}
-
-{"word": "lying
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "But"}
-
-{"word": "when"}
-
-{"word": "I"}
-
-{"word": "fantasize"}
-
-{"word": "at"}
-
-{"word": "night
-"}
-
-{"word": "It’s"}
-
-{"word": "Alexander’s"}
-
-{"word": "eyes
-"}
-
-{"word": "As"}
-
-{"word": "I"}
-
-{"word": "romanticize"}
-
-{"word": "what"}
-
-{"word": "might
-"}
-
-{"word": "Have"}
-
-{"word": "been"}
-
-{"word": "if"}
-
-{"word": "I"}
-
-{"word": "hadn’t"}
-
-{"word": "sized"}
-
-{"word": "him
-"}
-
-{"word": "Up"}
-
-{"word": "so"}
-
-{"word": "quickly
-"}
-
-{"word": "At"}
-
-{"word": "least"}
-
-{"word": "my"}
-
-{"word": "dear"}
-
-{"word": "Eliza’s"}
-
-{"word": "his"}
-
-{"word": "wife
-"}
-
-{"word": "At"}
-
-{"word": "least"}
-
-{"word": "I"}
-
-{"word": "keep"}
-
-{"word": "his"}
-
-{"word": "eyes"}
-
-{"word": "in"}
-
-{"word": "my"}
-
-{"word": "life…
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "From"}
-
-{"word": "your"}
-
-{"word": "sister
-"}
-
-{"word": "Who"}
-
-{"word": "is"}
-
-{"word": "always"}
-
-{"word": "by"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"word": "To"}
-
-{"word": "your"}
-
-{"word": "union
-"}
-
-{"word": "And"}
-
-{"word": "the"}
-
-{"word": "hope"}
-
-{"word": "that"}
-
-{"word": "you"}
-
-{"word": "provide
-"}
-
-{"word": "May"}
-
-{"word": "you"}
-
-{"word": "always
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "And"}
-
-{"word": "I"}
-
-{"word": "know
-"}
-
-{"word": "She’ll"}
-
-{"word": "be"}
-
-{"word": "happy"}
-
-{"word": "as
-"}
-
-{"word": "His"}
-
-{"word": "bride
-"}
-
-{"word": "And"}
-
-{"word": "I"}
-
-{"word": "know	ALL"}
-
-{"word": "MEN"}
-
-{"word": "EXCEPT"}
-
-{"word": "HAMILTON
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "Angelica
-"}
-
-{"word": "Angelica
-"}
-
-{"word": "By"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "union
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "revolution
-"}
-
-{"word": "You"}
-
-{"word": "provide
-"}
-
-{"word": "You"}
-
-{"word": "provide
-"}
-
-{"name": "HAMILTON AND MEN"}
-
-{"word": "Always—
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"name": "MEN"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied	"}
-
-{"word": "
-"}
-
-{"name": "ALL WOMEN (EXCEPT ELIZA)"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "groom
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "bride
-"}
-
-{"name": "ELIZA AND WOMEN"}
-
-{"word": "Angelica
-"}
-
-{"word": "By"}
-
-{"word": "your"}
-
-{"word": "side
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "union
-"}
-
-{"word": "To"}
-
-{"word": "the"}
-
-{"word": "revolution
-"}
-
-{"word": "You"}
-
-{"word": "provide
-"}
-
-{"word": "Always—
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"name": "WOMEN"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"word": "Be"}
-
-{"word": "satisfied
-"}
-
-{"name": "ANGELICA"}
-
-{"word": "He"}
-
-{"word": "will"}
-
-{"word": "never"}
-
-{"word": "be"}
-
-{"word": "satisfied
-"}
-
-{"word": "I"}
-
-{"word": "will"}
-
-{"word": "never"}
-
-{"word": "be"}
-
-{"word": "satisfied"}
+				{
+					"word": ""
+				}
+			],
+
+			[{
+					"name": "ALL MEN"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "By"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "side"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "union"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "revolution"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "provide"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "provide"
+				}
+			],
+
+			[{
+					"name": "HAMILTON AND MEN"
+				},
+
+				{
+					"word": "Always—"
+				},
+
+				{
+					"word": "Rewind"
+				},
+
+				{
+					"word": ""
+				}
+			],
+
+			[{
+					"name": "ALL WOMEN"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND WOMEN"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "By"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "side"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "union"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "revolution"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "provide"
+				},
+
+				{
+					"word": "Always—"
+				},
+
+				{
+					"word": "Rewind—"
+				}
+			],
+
+			[{
+					"name": "Recorded Samples"
+				},
+
+				{
+					"word": "Rewind"
+				},
+
+				{
+					"word": "Rewind"
+				},
+
+				{
+					"word": "Helpless"
+				},
+
+				{
+					"word": "skys"
+				},
+
+				{
+					"word": "skys"
+				},
+
+				{
+					"word": "Drownin"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "em"
+				},
+
+				{
+					"word": "Drownin"
+				},
+
+				{
+					"word": "rewind"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "night"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "just"
+				},
+
+				{
+					"word": "might"
+				},
+
+				{
+					"word": "rewind"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "night"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "just"
+				},
+
+				{
+					"word": "might"
+				},
+
+				{
+					"word": "rewind"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "night"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "that—"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "night"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "just"
+				},
+
+				{
+					"word": "might"
+				},
+
+				{
+					"word": "Regret"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "night"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "rest"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "days"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "those"
+				},
+
+				{
+					"word": "soldier"
+				},
+
+				{
+					"word": "boys"
+				},
+
+				{
+					"word": "Tripping"
+				},
+
+				{
+					"word": "over"
+				},
+
+				{
+					"word": "themselves"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "win"
+				},
+
+				{
+					"word": "our"
+				},
+
+				{
+					"word": "praise"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "remember"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "dreamlike"
+				},
+
+				{
+					"word": "candlelight"
+				},
+
+				{
+					"word": "Like"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "dream"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "can’t"
+				},
+
+				{
+					"word": "quite"
+				},
+
+				{
+					"word": "place"
+				},
+
+				{
+					"word": "But"
+				},
+
+				{
+					"word": "Alexander"
+				},
+
+				{
+					"word": "I’ll"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "forget"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "first"
+				},
+
+				{
+					"word": "Time"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "saw"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "face"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "been"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "same"
+				},
+
+				{
+					"word": "Intelligent"
+				},
+
+				{
+					"word": "eyes"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "hungerpang"
+				},
+
+				{
+					"word": "frame"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "said"
+				},
+
+				{
+					"word": "“Hi”"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "forgot"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "dang"
+				},
+
+				{
+					"word": "name"
+				},
+
+				{
+					"word": "Set"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "heart"
+				},
+
+				{
+					"word": "aflame"
+				},
+
+				{
+					"word": "ev’ry"
+				},
+
+				{
+					"word": "part"
+				},
+
+				{
+					"word": "aflame"
+				}
+			],
+
+			[{
+					"name": "FULL COMPANY"
+				},
+
+				{
+					"word": "This"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "not"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "game…"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "strike"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "as"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "woman"
+				},
+
+				{
+					"word": "who"
+				},
+
+				{
+					"word": "has"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "been"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "sure"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "don’t"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "mean"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "forget"
+				},
+
+				{
+					"word": "yourself"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "You’re"
+				},
+
+				{
+					"word": "like"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "Is"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "right"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "been"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "My"
+				},
+
+				{
+					"word": "name"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "Schuyler"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Alexander"
+				},
+
+				{
+					"word": "Hamilton"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "Where’s"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "fam’ly"
+				},
+
+				{
+					"word": "from"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Unimportant"
+				},
+
+				{
+					"word": "There’s"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "million"
+				},
+
+				{
+					"word": "things"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "haven’t"
+				},
+
+				{
+					"word": "done"
+				},
+
+				{
+					"word": "but"
+				},
+
+				{
+					"word": "Just"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "wait"
+				},
+
+				{
+					"word": "just"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "wait…"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "So"
+				},
+
+				{
+					"word": "so"
+				},
+
+				{
+					"word": "so—"
+				},
+
+				{
+					"word": "So"
+				},
+
+				{
+					"word": "this"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "feels"
+				},
+
+				{
+					"word": "like"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "match"
+				},
+
+				{
+					"word": "wits"
+				},
+
+				{
+					"word": "With"
+				},
+
+				{
+					"word": "someone"
+				},
+
+				{
+					"word": "at"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "level"
+				},
+
+				{
+					"word": "What"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "hell"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "catch"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "feeling"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "freedom"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "seein’"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "light"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "Ben"
+				},
+
+				{
+					"word": "Franklin"
+				},
+
+				{
+					"word": "with"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "key"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "kite"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "right"
+				},
+
+				{
+					"word": "The"
+				},
+
+				{
+					"word": "conversation"
+				},
+
+				{
+					"word": "lasted"
+				},
+
+				{
+					"word": "two"
+				},
+
+				{
+					"word": "minutes"
+				},
+
+				{
+					"word": "maybe"
+				},
+
+				{
+					"word": "three"
+				},
+
+				{
+					"word": "minutes"
+				},
+
+				{
+					"word": "Ev’rything"
+				},
+
+				{
+					"word": "we"
+				},
+
+				{
+					"word": "said"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "total"
+				},
+
+				{
+					"word": "agreement"
+				},
+
+				{
+					"word": "it’s"
+				},
+
+				{
+					"word": "A"
+				},
+
+				{
+					"word": "dream"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "it’s"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "bit"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "dance"
+				},
+
+				{
+					"word": "A"
+				},
+
+				{
+					"word": "bit"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "posture"
+				},
+
+				{
+					"word": "it’s"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "bit"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "stance"
+				},
+
+				{
+					"word": "He’s"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "Bit"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "flirt"
+				},
+
+				{
+					"word": "but"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "‘a"
+				},
+
+				{
+					"word": "give"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "chance"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "asked"
+				},
+
+				{
+					"word": "about"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "fam’ly"
+				},
+
+				{
+					"word": "did"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "answer"
+				},
+
+				{
+					"word": "His"
+				},
+
+				{
+					"word": "hands"
+				},
+
+				{
+					"word": "started"
+				},
+
+				{
+					"word": "fidgeting"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "looked"
+				},
+
+				{
+					"word": "askance"
+				},
+
+				{
+					"word": "He’s"
+				},
+
+				{
+					"word": "penniless"
+				},
+
+				{
+					"word": "he’s"
+				},
+
+				{
+					"word": "flying"
+				},
+
+				{
+					"word": "by"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "seat"
+				},
+
+				{
+					"word": "of"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "pants"
+				},
+
+				{
+					"word": "Handsome"
+				},
+
+				{
+					"word": "boy"
+				},
+
+				{
+					"word": "does"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "Peach"
+				},
+
+				{
+					"word": "fuzz"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "can’t"
+				},
+
+				{
+					"word": "even"
+				},
+
+				{
+					"word": "grow"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "wanna"
+				},
+
+				{
+					"word": "take"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "far"
+				},
+
+				{
+					"word": "away"
+				},
+
+				{
+					"word": "from"
+				},
+
+				{
+					"word": "this"
+				},
+
+				{
+					"word": "place"
+				},
+
+				{
+					"word": "Then"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "turn"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "see"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "sister’s"
+				},
+
+				{
+					"word": "face"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "she"
+				},
+
+				{
+					"word": "is…"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Helpless…"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "she"
+				},
+
+				{
+					"word": "is…"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Helpless…"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "her"
+				},
+
+				{
+					"word": "eyes"
+				},
+
+				{
+					"word": "are"
+				},
+
+				{
+					"word": "just…"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Helpless…"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "realize"
+				}
+			],
+
+			[{
+					"name": "ANGELICA AND COMPANY"
+				},
+
+				{
+					"word": "Three"
+				},
+
+				{
+					"word": "fundamental"
+				},
+
+				{
+					"word": "truths"
+				},
+
+				{
+					"word": "at"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "exact"
+				},
+
+				{
+					"word": "same"
+				},
+
+				{
+					"word": "time…"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Where"
+				},
+
+				{
+					"word": "are"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "taking"
+				},
+
+				{
+					"word": "me"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "about"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "change"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "life"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Then"
+				},
+
+				{
+					"word": "by"
+				},
+
+				{
+					"word": "all"
+				},
+
+				{
+					"word": "means"
+				},
+
+				{
+					"word": "lead"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "way"
+				}
+			],
+
+			[{
+					"name": "COMPANY (EXCEPT ANGELICA)"
+				},
+
+				{
+					"word": "Number"
+				},
+
+				{
+					"word": "one"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "girl"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "world"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "which"
+				},
+
+				{
+					"word": "My"
+				},
+
+				{
+					"word": "only"
+				},
+
+				{
+					"word": "job"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "marry"
+				},
+
+				{
+					"word": "rich"
+				},
+
+				{
+					"word": "My"
+				},
+
+				{
+					"word": "father"
+				},
+
+				{
+					"word": "has"
+				},
+
+				{
+					"word": "no"
+				},
+
+				{
+					"word": "sons"
+				},
+
+				{
+					"word": "so"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "one"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "has"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "social"
+				},
+
+				{
+					"word": "climb"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "one"
+				},
+
+				{
+					"word": "So"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "oldest"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "wittiest"
+				},
+
+				{
+					"word": "and"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "gossip"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "New"
+				},
+
+				{
+					"word": "York"
+				},
+
+				{
+					"word": "City"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "insidious"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "Alexander"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "penniless"
+				},
+
+				{
+					"word": "Ha"
+				},
+
+				{
+					"word": "That"
+				},
+
+				{
+					"word": "doesn’t"
+				},
+
+				{
+					"word": "mean"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "want"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "any"
+				},
+
+				{
+					"word": "less"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Elizabeth"
+				},
+
+				{
+					"word": "Schuyler"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "pleasure"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "meet"
+				},
+
+				{
+					"word": "you"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "Schuyler"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "My"
+				},
+
+				{
+					"word": "sister"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "Number"
+				},
+
+				{
+					"word": "two"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "He’s"
+				},
+
+				{
+					"word": "after"
+				},
+
+				{
+					"word": "me"
+				},
+
+				{
+					"word": "cuz"
+				},
+
+				{
+					"word": "I’m"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "Schuyler"
+				},
+
+				{
+					"word": "sister"
+				},
+
+				{
+					"word": "That"
+				},
+
+				{
+					"word": "elevates"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "status"
+				},
+
+				{
+					"word": "I’d"
+				},
+
+				{
+					"word": "Have"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "naïve"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "set"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "aside"
+				},
+
+				{
+					"word": "Maybe"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "why"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "introduce"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "Eliza"
+				},
+
+				{
+					"word": "Now"
+				},
+
+				{
+					"word": "that’s"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "Nice"
+				},
+
+				{
+					"word": "going"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "he"
+				},
+
+				{
+					"word": "was"
+				},
+
+				{
+					"word": "right"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "will"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "ELIZA"
+				},
+
+				{
+					"word": "Thank"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "all"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "service"
+				}
+			],
+
+			[{
+					"name": "HAMILTON"
+				},
+
+				{
+					"word": "If"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "takes"
+				},
+
+				{
+					"word": "fighting"
+				},
+
+				{
+					"word": "a"
+				},
+
+				{
+					"word": "war"
+				},
+
+				{
+					"word": "for"
+				},
+
+				{
+					"word": "us"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "meet"
+				},
+
+				{
+					"word": "it"
+				},
+
+				{
+					"word": "will"
+				},
+
+				{
+					"word": "have"
+				},
+
+				{
+					"word": "been"
+				},
+
+				{
+					"word": "worth"
+				},
+
+				{
+					"word": "it"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "I’ll"
+				},
+
+				{
+					"word": "leave"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "to"
+				},
+
+				{
+					"word": "it"
+				}
+			],
+
+			[{
+					"name": "COMPANY"
+				},
+
+				{
+					"word": "Number"
+				},
+
+				{
+					"word": "three"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "sister"
+				},
+
+				{
+					"word": "like"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "own"
+				},
+
+				{
+					"word": "mind"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "will"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "find"
+				},
+
+				{
+					"word": "anyone"
+				},
+
+				{
+					"word": "as"
+				},
+
+				{
+					"word": "trusting"
+				},
+
+				{
+					"word": "or"
+				},
+
+				{
+					"word": "as"
+				},
+
+				{
+					"word": "kind"
+				},
+
+				{
+					"word": "If"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "tell"
+				},
+
+				{
+					"word": "her"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "love"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "she’d"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "silently"
+				},
+
+				{
+					"word": "resigned"
+				},
+
+				{
+					"word": "He’d"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "mine"
+				},
+
+				{
+					"word": "She"
+				},
+
+				{
+					"word": "would"
+				},
+
+				{
+					"word": "say"
+				},
+
+				{
+					"word": "“I’m"
+				},
+
+				{
+					"word": "fine”"
+				}
+			],
+
+			[{
+					"name": "ANGELICA AND COMPANY"
+				},
+
+				{
+					"word": "She’d"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "lying"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "But"
+				},
+
+				{
+					"word": "when"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "fantasize"
+				},
+
+				{
+					"word": "at"
+				},
+
+				{
+					"word": "night"
+				},
+
+				{
+					"word": "It’s"
+				},
+
+				{
+					"word": "Alexander’s"
+				},
+
+				{
+					"word": "eyes"
+				},
+
+				{
+					"word": "As"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "romanticize"
+				},
+
+				{
+					"word": "what"
+				},
+
+				{
+					"word": "might"
+				},
+
+				{
+					"word": "Have"
+				},
+
+				{
+					"word": "been"
+				},
+
+				{
+					"word": "if"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "hadn’t"
+				},
+
+				{
+					"word": "sized"
+				},
+
+				{
+					"word": "him"
+				},
+
+				{
+					"word": "Up"
+				},
+
+				{
+					"word": "so"
+				},
+
+				{
+					"word": "quickly"
+				},
+
+				{
+					"word": "At"
+				},
+
+				{
+					"word": "least"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "dear"
+				},
+
+				{
+					"word": "Eliza’s"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "wife"
+				},
+
+				{
+					"word": "At"
+				},
+
+				{
+					"word": "least"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "keep"
+				},
+
+				{
+					"word": "his"
+				},
+
+				{
+					"word": "eyes"
+				},
+
+				{
+					"word": "in"
+				},
+
+				{
+					"word": "my"
+				},
+
+				{
+					"word": "life…"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "From"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "sister"
+				},
+
+				{
+					"word": "Who"
+				},
+
+				{
+					"word": "is"
+				},
+
+				{
+					"word": "always"
+				},
+
+				{
+					"word": "by"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "side"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "union"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "hope"
+				},
+
+				{
+					"word": "that"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "provide"
+				},
+
+				{
+					"word": "May"
+				},
+
+				{
+					"word": "you"
+				},
+
+				{
+					"word": "always"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "She’ll"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "happy"
+				},
+
+				{
+					"word": "as"
+				},
+
+				{
+					"word": "His"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "And"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "know"
+				},
+
+				{
+					"word": "MEN"
+				},
+
+				{
+					"word": "EXCEPT"
+				},
+
+				{
+					"word": "HAMILTON"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "By"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "side"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "union"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "revolution"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "provide"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "provide"
+				}
+			],
+
+			[{
+					"name": "HAMILTON AND MEN"
+				},
+
+				{
+					"word": "Always—"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "MEN"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": ""
+				}
+			],
+
+			[{
+					"name": "ALL WOMEN (EXCEPT ELIZA)"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "groom"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "bride"
+				}
+			],
+
+			[{
+					"name": "ELIZA AND WOMEN"
+				},
+
+				{
+					"word": "Angelica"
+				},
+
+				{
+					"word": "By"
+				},
+
+				{
+					"word": "your"
+				},
+
+				{
+					"word": "side"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "union"
+				},
+
+				{
+					"word": "To"
+				},
+
+				{
+					"word": "the"
+				},
+
+				{
+					"word": "revolution"
+				},
+
+				{
+					"word": "You"
+				},
+
+				{
+					"word": "provide"
+				},
+
+				{
+					"word": "Always—"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "WOMEN"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "Be"
+				},
+
+				{
+					"word": "satisfied"
+				}
+			],
+
+			[{
+					"name": "ANGELICA"
+				},
+
+				{
+					"word": "He"
+				},
+
+				{
+					"word": "will"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "satisfied"
+				},
+
+				{
+					"word": "I"
+				},
+
+				{
+					"word": "will"
+				},
+
+				{
+					"word": "never"
+				},
+
+				{
+					"word": "be"
+				},
+
+				{
+					"word": "satisfied"
+				},

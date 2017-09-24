@@ -39,6 +39,7 @@ export default class Header extends React.Component{
 
 	onDropdownChange(choice){
 			this.setState({option: choice.label}); 
+		  this.props.func(choice.label);
 	}
 
   render() {
@@ -73,7 +74,7 @@ export default class Header extends React.Component{
           </a>
         </span>
 				<span> <DropdownWrapper func={this.onDropdownChange.bind(this)} option={this.state.option}/>  </span>
-        <span> <b>Hamilfy</b></span>
+        <span> <b> Hamilyze </b></span>
         <span style = {{display: 'flex', justifyContent: 'space-between'}} >
               <span> <Iframe value={this.state.option} /> </span>
               <span style = {{visibility: 'hidden'}}> right </span>

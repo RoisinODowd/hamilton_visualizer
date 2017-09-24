@@ -66,7 +66,7 @@ export default class Visualizer extends React.Component{
 		}
 
 		this.state.motifIndices = matchedMotifIndices;
-		var w = 12, h = 12;
+		var w = 16, h = 12;
 
 		for (i = 0; i < matchedMotifIndices.length; i++) {
 			var k = matchedMotifIndices[i];
@@ -123,7 +123,7 @@ export default class Visualizer extends React.Component{
     return (
 			<div ref='elem' id = 'visualizer' style = {mainStyle}>
 				<D3 funcBack={this.getDrawFromRenderer.bind(this)} indices = {this.state.motifIndices} id ='maind3' width='1000px' height='600px' />
-				<Scrollpane func={this.scroll.bind(this)} id='scroll' width='34vw' height='600px' lineHeight='18px' lineHeightNumber='18' />
+				<Scrollpane label = {this.props.label} func={this.scroll.bind(this)} id='scroll' width='34vw' height='600px' lineHeight='18px' lineHeightNumber='18' />
 			</div>
     );
   }

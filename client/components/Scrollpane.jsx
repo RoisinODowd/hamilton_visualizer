@@ -100,7 +100,7 @@ export default class Scrollpane extends React.Component{
 		
 		return (
 			<div style={scrollStyle} onScroll = {this.scrollListener.bind(this)}> 
-				<Text />
+				<Text label={this.props.label} />
 			</div>
 		);
 	}
