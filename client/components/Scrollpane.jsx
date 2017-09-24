@@ -34,7 +34,7 @@ export default class Scrollpane extends React.Component{
 				 element = myListItems[i];
 			   var height = element.clientHeight;
 			   var numLinesPerParagraph = Math.round(height / this.props.lineHeightNumber) - 2;
-			   sum += numLinesPerParagraph + 1;
+			   sum += Math.ceil(numLinesPerParagraph*0.75) + 1;
 		}
 
 
@@ -50,7 +50,7 @@ export default class Scrollpane extends React.Component{
 		if (number < 0)
 			number = 0;
 
-		if (number >= this.state.pastLines[this.state.currentParagraph + 1]) {
+		if (number >= this.state.pastLines[this.state.currentParagraph + 1] && this.state.currentParagraph < myListItems.length - 1) {
 			this.state = {
 				previousParagraph: this.state.currentParagraph,
 				currentParagraph: this.state.currentParagraph + 1,
@@ -66,26 +66,6 @@ export default class Scrollpane extends React.Component{
 			element.style.background = 'none';
 		}
 
-
-		//	if (number >= this.state.linesInPreviousParagraphs + numLinesPerParagraph + 1	) {
-		//	var newVal = this.state.linesInPreviousParagraphs + 1 + numLinesPerParagraph;
-		//	var cur = this.state.currentParagraph;
-		//	this.state = {
-		//		linesInPreviousParagraphs: newVal,
-		//		currentParagraph: cur+1,
-		//		pastLines: this.state.pastLines 
-		//	 };
-		//	 element.style.background = 'none';
-		//}else if (number <= this.state.linesInPreviousParagraphs - 0 - numLinesPerParagraph) {
-		//	element.style.background = 'none';
-		//	var newVal = this.state.linesInPreviousParagraphs -0 - numLinesPerParagraph;
-		//	var cur = this.state.currentParagraph;
-		//	this.state = {
-		//		linesInPreviousParagraphs: newVal,
-		//		currentParagraph: cur-1,
-		//		pastLines: this.state.pastLines
-		//	};
-		//	}
 
 	}
 
@@ -106,7 +86,8 @@ export default class Scrollpane extends React.Component{
 			overflow: 'scroll',
 			lineHeight: {lH},
 			fontFamily: 'Arial',
-			fontSize: lH
+			fontSize: lH,
+			border: '2px solid grey'
 		}
 
 		

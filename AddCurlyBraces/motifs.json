@@ -1,0 +1,4736 @@
+{
+	"motifs": [	{
+		"word1": "surround"},
+	{
+		"word2": "our"},
+	{
+		"word3": "troops'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "sept"},
+	{
+		"word2": "huit"},
+	{
+		"word3": "neuf'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "You"},
+	{
+		"word2": "could"},
+	{
+		"word3": "never'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "if"},
+	{
+		"word2": "theres"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Will"},
+	{
+		"word2": "they"},
+	{
+		"word3": "tell'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "If"},
+	{
+		"word2": "you"},
+	{
+		"word3": "had'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "nice"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "have"},
+	{
+		"word2": "the"},
+	{
+		"word3": "honor'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "hand"},
+	{
+		"word2": "man"},
+	{
+		"word3": "back'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "yo"},
+	{
+		"word2": "I'm"},
+	{
+		"word3": "just'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "Have"},
+	{
+		"word2": "you"},
+	{
+		"word3": "read'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "know"},
+	{
+		"word2": "I"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "six"},
+	{
+		"word2": "seven"},
+	{
+		"word3": "eight'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "But"},
+	{
+		"word2": "if"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "game'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "don't"},
+	{
+		"word2": "have"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "wait"},
+	{
+		"word2": "for"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 14},
+	
+	{
+		"word1": "I'll"},
+	{
+		"word2": "see"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "by"},
+	{
+		"word2": "your"},
+	{
+		"word3": "side'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "two"},
+	{
+		"word2": "three"},
+	{
+		"word3": "four'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "face"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Running"},
+	{
+		"word2": "out"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "sky's"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Say"},
+	{
+		"word2": "no"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 22},
+	
+	{
+		"word1": "fight"},
+	{
+		"word2": "like"},
+	{
+		"word3": "you're'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "away"},
+	{
+		"word2": "my"},
+	{
+		"word3": "shot'"},
+	{
+		"freq": 31},
+	
+	{
+		"word1": "see"},
+	{
+		"word2": "our"},
+	{
+		"word3": "glory'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "a"},
+	{
+		"word3": "part'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "want"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "glass"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "wrote"},
+	{
+		"word2": "my"},
+	{
+		"word3": "way'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "the"},
+	{
+		"word3": "sky's'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "so"},
+	{
+		"word2": "many"},
+	{
+		"word3": "have'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "by"},
+	{
+		"word2": "her"},
+	{
+		"word3": "side'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "go"},
+	{
+		"word2": "stay"},
+	{
+		"word3": "with'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "the"},
+	{
+		"word3": "four'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Hey"},
+	{
+		"word2": "hey"},
+	{
+		"word3": "hey'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Never"},
+	{
+		"word2": "gon'"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "haven't"},
+	{
+		"word3": "done'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "look"},
+	{
+		"word2": "around"},
+	{
+		"word3": "at'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "want"},
+	{
+		"word3": "Burr'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "I'll"},
+	{
+		"word2": "be"},
+	{
+		"word3": "damned'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "in"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "sinners"},
+	{
+		"word2": "and"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "with"},
+	{
+		"word2": "us"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "smartest"},
+	{
+		"word2": "in"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "greatest"},
+	{
+		"word2": "city"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Thomas"},
+	{
+		"word2": "Jefferson's"},
+	{
+		"word3": "coming'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Cinq"},
+	{
+		"word2": "six"},
+	{
+		"word3": "sept'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "bastard"},
+	{
+		"word3": "orphan'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "would"},
+	{
+		"word2": "be"},
+	{
+		"word3": "enough'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "one"},
+	{
+		"word2": "else"},
+	{
+		"word3": "was'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "these"},
+	{
+		"word2": "colonies"},
+	{
+		"word3": "gonna'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "be"},
+	{
+		"word3": "alive'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "tell"},
+	{
+		"word2": "the"},
+	{
+		"word3": "story'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "get"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "Your"},
+	{
+		"word3": "Obedient'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Hey"},
+	{
+		"word2": "Hey"},
+	{
+		"word3": "Hey'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "da"},
+	{
+		"word2": "dat"},
+	{
+		"word3": "dat'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "We"},
+	{
+		"word2": "have"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Take"},
+	{
+		"word2": "a"},
+	{
+		"word3": "break'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "stall"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "may"},
+	{
+		"word3": "not'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "have"},
+	{
+		"word2": "never"},
+	{
+		"word3": "been'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "sings"},
+	{
+		"word2": "for"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Jefferson's"},
+	{
+		"word2": "coming"},
+	{
+		"word3": "home'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Don't"},
+	{
+		"word2": "let"},
+	{
+		"word3": "them'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Treasury"},
+	{
+		"word2": "or"},
+	{
+		"word3": "State'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Look"},
+	{
+		"word2": "around"},
+	{
+		"word3": "look'"},
+	{
+		"freq": 13},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "a"},
+	{
+		"word3": "new'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "death"},
+	{
+		"word2": "so"},
+	{
+		"word3": "much'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "where"},
+	{
+		"word2": "it"},
+	{
+		"word3": "happens'"},
+	{
+		"freq": 29},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "have"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "To"},
+	{
+		"word2": "the"},
+	{
+		"word3": "union'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "eye"},
+	{
+		"word3": "aim'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "The"},
+	{
+		"word2": "world"},
+	{
+		"word3": "turned'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "across"},
+	{
+		"word2": "the"},
+	{
+		"word3": "sea'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "fight"},
+	{
+		"word3": "like'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "Summon"},
+	{
+		"word2": "all"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "its"},
+	{
+		"word2": "eyes"},
+	{
+		"word3": "on'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "they"},
+	{
+		"word2": "know"},
+	{
+		"word3": "what'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "part"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "what"},
+	{
+		"word2": "you"},
+	{
+		"word3": "overcame'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "I'm"},
+	{
+		"word2": "drownin'"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "like"},
+	{
+		"word2": "my"},
+	{
+		"word3": "country'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "more"},
+	{
+		"word2": "like"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "we"},
+	{
+		"word2": "make"},
+	{
+		"word3": "our'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "another"},
+	{
+		"word2": "round"},
+	{
+		"word3": "tonight'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "learned"},
+	{
+		"word2": "to"},
+	{
+		"word3": "take'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "It's"},
+	{
+		"word2": "hard"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "What"},
+	{
+		"word2": "do"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "money"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "wait"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "no"},
+	{
+		"word2": "to"},
+	{
+		"word3": "this'"},
+	{
+		"freq": 23},
+	
+	{
+		"word1": "that"},
+	{
+		"word2": "it"},
+	{
+		"word3": "happens'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "wait"},
+	{
+		"word2": "just"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "he's"},
+	{
+		"word2": "never"},
+	{
+		"word3": "gon''"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "It's"},
+	{
+		"word2": "quiet"},
+	{
+		"word3": "uptown'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "wings"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "how"},
+	{
+		"word2": "to"},
+	{
+		"word3": "say'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "remember"},
+	{
+		"word2": "that"},
+	{
+		"word3": "night'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "He"},
+	{
+		"word2": "will"},
+	{
+		"word3": "never'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "had"},
+	{
+		"word2": "to"},
+	{
+		"word3": "choose'"},
+	{
+		"freq": 13},
+	
+	{
+		"word1": "John"},
+	{
+		"word2": "Adams"},
+	{
+		"word3": "doesn't'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "It"},
+	{
+		"word2": "must"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "worry"},
+	{
+		"word3": "about'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "bit"},
+	{
+		"word2": "of"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "hey"},
+	{
+		"word2": "hey"},
+	{
+		"word3": "hey'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "New"},
+	{
+		"word3": "York'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Who"},
+	{
+		"word2": "are"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "no"},
+	{
+		"word2": "one"},
+	{
+		"word3": "else'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "get"},
+	{
+		"word2": "my"},
+	{
+		"word3": "plan'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "reason"},
+	{
+		"word3": "Im'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "The"},
+	{
+		"word2": "world"},
+	{
+		"word3": "will'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "They"},
+	{
+		"word2": "surround"},
+	{
+		"word3": "our'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "turned"},
+	{
+		"word2": "upside"},
+	{
+		"word3": "down'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "where"},
+	{
+		"word2": "it"},
+	{
+		"word3": "happened'"},
+	{
+		"freq": 22},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "street'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "else"},
+	{
+		"word2": "was"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "No"},
+	{
+		"word2": "one"},
+	{
+		"word3": "else'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Thank"},
+	{
+		"word2": "you"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "How"},
+	{
+		"word2": "does"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "takes"},
+	{
+		"word2": "and"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "assume"},
+	{
+		"word3": "you're'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "city"},
+	{
+		"word2": "in"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "on"},
+	{
+		"word2": "the"},
+	{
+		"word3": "other'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "tells"},
+	{
+		"word2": "your"},
+	{
+		"word3": "story'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "not"},
+	{
+		"word2": "live"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "see"},
+	{
+		"word2": "him"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "and"},
+	{
+		"word2": "the"},
+	{
+		"word3": "saints'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "am"},
+	{
+		"word3": "not'"},
+	{
+		"freq": 23},
+	
+	{
+		"word1": "into"},
+	{
+		"word2": "your"},
+	{
+		"word3": "eyes'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "eye"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "eyes"},
+	{
+		"word2": "on"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "if"},
+	{
+		"word2": "you"},
+	{
+		"word3": "can'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "never"},
+	{
+		"word2": "learned"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "are"},
+	{
+		"word2": "these"},
+	{
+		"word3": "colonies'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "see"},
+	{
+		"word2": "where"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "If"},
+	{
+		"word2": "I"},
+	{
+		"word3": "could'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "never"},
+	{
+		"word2": "gon'"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "other"},
+	{
+		"word3": "side'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "hope"},
+	{
+		"word2": "that"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "da"},
+	{
+		"word2": "dat"},
+	{
+		"word3": "da'"},
+	{
+		"freq": 14},
+	
+	{
+		"word1": "message"},
+	{
+		"word2": "from"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "less"},
+	{
+		"word2": "thing"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "what"},
+	{
+		"word2": "you"},
+	{
+		"word3": "believe'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "can"},
+	{
+		"word2": "be"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "Washington's"},
+	{
+		"word2": "going"},
+	{
+		"word3": "home'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "The"},
+	{
+		"word2": "room"},
+	{
+		"word3": "where'"},
+	{
+		"freq": 48},
+	
+	{
+		"word1": "of"},
+	{
+		"word2": "a"},
+	{
+		"word3": "whore'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Run"},
+	{
+		"word2": "away"},
+	{
+		"word3": "with'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "can"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "say"},
+	{
+		"word2": "what"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "eyes"},
+	{
+		"word2": "on"},
+	{
+		"word3": "me'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "am"},
+	{
+		"word2": "not"},
+	{
+		"word3": "throwing'"},
+	{
+		"freq": 13},
+	
+	{
+		"word1": "bastard"},
+	{
+		"word2": "orphan"},
+	{
+		"word3": "son'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "show"},
+	{
+		"word2": "me"},
+	{
+		"word3": "how'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "feels"},
+	{
+		"word2": "more"},
+	{
+		"word3": "like'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "am"},
+	{
+		"word2": "not"},
+	{
+		"word3": "throwin''"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "for"},
+	{
+		"word2": "us"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "sky's"},
+	{
+		"word2": "the"},
+	{
+		"word3": "limit'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "air'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "gon'"},
+	{
+		"word2": "be"},
+	{
+		"word3": "President'"},
+	{
+		"freq": 18},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "do"},
+	{
+		"word3": "I'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "I"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Will"},
+	{
+		"word2": "they"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "stand"},
+	{
+		"word2": "for"},
+	{
+		"word3": "nothing'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "see"},
+	{
+		"word3": "him'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "just"},
+	{
+		"word2": "like"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "million"},
+	{
+		"word3": "things'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "To"},
+	{
+		"word2": "the"},
+	{
+		"word3": "revolution'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "don't"},
+	{
+		"word2": "know"},
+	{
+		"word3": "how'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "world"},
+	{
+		"word2": "turned"},
+	{
+		"word3": "upside'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "running"},
+	{
+		"word2": "out"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "courage"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "plan"},
+	{
+		"word2": "through"},
+	{
+		"word3": "Congress'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "They'll"},
+	{
+		"word2": "tell"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "I've"},
+	{
+		"word2": "got"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "me"},
+	{
+		"word2": "how"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "What's"},
+	{
+		"word2": "your"},
+	{
+		"word3": "name'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "write"},
+	{
+		"word3": "like'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "What's"},
+	{
+		"word2": "he"},
+	{
+		"word3": "gonna'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "take"},
+	{
+		"word2": "your"},
+	{
+		"word3": "time'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "story"},
+	{
+		"word2": "of"},
+	{
+		"word3": "tonight'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "at"},
+	{
+		"word2": "how"},
+	{
+		"word3": "lucky'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "I'm"},
+	{
+		"word2": "just"},
+	{
+		"word3": "like'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "courage"},
+	{
+		"word2": "you"},
+	{
+		"word3": "require'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Well"},
+	{
+		"word2": "he's"},
+	{
+		"word3": "never'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "orphan"},
+	{
+		"word2": "son"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "your"},
+	{
+		"word2": "eyes"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "they"},
+	{
+		"word2": "tell"},
+	{
+		"word3": "your'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Un"},
+	{
+		"word2": "deux"},
+	{
+		"word3": "trois'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "smartest"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Jefferson"},
+	{
+		"word2": "or"},
+	{
+		"word3": "Burr'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "Thirtytwo"},
+	{
+		"word2": "thousand"},
+	{
+		"word3": "troops'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "eye'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "for"},
+	{
+		"word2": "a"},
+	{
+		"word3": "mind'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "world"},
+	{
+		"word2": "will"},
+	{
+		"word3": "never'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "way"},
+	{
+		"word2": "across"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "thousand"},
+	{
+		"word2": "troops"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you're"},
+	{
+		"word2": "the"},
+	{
+		"word3": "smartest'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Aaron"},
+	{
+		"word2": "Burr"},
+	{
+		"word3": "sir'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "honest"},
+	{
+		"word2": "with"},
+	{
+		"word3": "our'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "things"},
+	{
+		"word2": "I"},
+	{
+		"word3": "haven't'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "How"},
+	{
+		"word2": "do"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Wait"},
+	{
+		"word2": "for"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 34},
+	
+	{
+		"word1": "money"},
+	{
+		"word2": "and"},
+	{
+		"word3": "see'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "York"},
+	{
+		"word2": "you"},
+	{
+		"word3": "can'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "or"},
+	{
+		"word2": "what"},
+	{
+		"word3": "you're'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "New"},
+	{
+		"word2": "York"},
+	{
+		"word3": "harbor'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "want'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "lot"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "stall'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "dat"},
+	{
+		"word2": "dat"},
+	{
+		"word3": "da'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "much"},
+	{
+		"word2": "it"},
+	{
+		"word3": "feels'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "A"},
+	{
+		"word2": "message"},
+	{
+		"word3": "from'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "us"},
+	{
+		"word2": "all"},
+	{
+		"word3": "away'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "take"},
+	{
+		"word2": "a"},
+	{
+		"word3": "shot'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "waiting"},
+	{
+		"word2": "in"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "The"},
+	{
+		"word2": "Schuyler"},
+	{
+		"word3": "sisters'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "see"},
+	{
+		"word3": "our'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "That"},
+	{
+		"word2": "would"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "street"},
+	{
+		"word2": "walking"},
+	{
+		"word3": "by'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "that"},
+	{
+		"word2": "would"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "place'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "and"},
+	{
+		"word2": "it"},
+	{
+		"word3": "takes'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "around"},
+	{
+		"word2": "look"},
+	{
+		"word3": "around'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "take"},
+	{
+		"word2": "a"},
+	{
+		"word3": "stand'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "on"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "seven"},
+	{
+		"word2": "eight"},
+	{
+		"word3": "nine'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "make"},
+	{
+		"word2": "our"},
+	{
+		"word3": "mistakes'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "like"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "day"},
+	{
+		"word2": "you"},
+	{
+		"word3": "fight'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "need"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "all"},
+	{
+		"word2": "go"},
+	{
+		"word3": "stay'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Raise"},
+	{
+		"word2": "a"},
+	{
+		"word3": "glass'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "dat"},
+	{
+		"word2": "da"},
+	{
+		"word3": "ya'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "scrappy"},
+	{
+		"word2": "and"},
+	{
+		"word3": "hungry'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "four"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "for"},
+	{
+		"word2": "a"},
+	{
+		"word3": "new'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "By"},
+	{
+		"word2": "your"},
+	{
+		"word3": "side'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "You"},
+	{
+		"word2": "will"},
+	{
+		"word3": "never'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "One"},
+	{
+		"word2": "two"},
+	{
+		"word3": "three'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "read"},
+	{
+		"word3": "this'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "New"},
+	{
+		"word3": "York'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "greatest"},
+	{
+		"word3": "city'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "When"},
+	{
+		"word2": "so"},
+	{
+		"word3": "many'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "we"},
+	{
+		"word3": "keep'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "That's"},
+	{
+		"word2": "one"},
+	{
+		"word3": "less'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "lucky"},
+	{
+		"word2": "we"},
+	{
+		"word3": "are'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "know"},
+	{
+		"word3": "it's'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "wrote"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "honor"},
+	{
+		"word2": "to"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "write'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "on"},
+	{
+		"word2": "the"},
+	{
+		"word3": "British'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "we"},
+	{
+		"word3": "make'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "can"},
+	{
+		"word3": "go'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "History"},
+	{
+		"word2": "has"},
+	{
+		"word3": "its'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "never"},
+	{
+		"word2": "be"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "him"},
+	{
+		"word2": "in"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "can"},
+	{
+		"word2": "all"},
+	{
+		"word3": "go'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Your"},
+	{
+		"word2": "Obedient"},
+	{
+		"word3": "Servant'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "right"},
+	{
+		"word2": "hand"},
+	{
+		"word3": "man'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "stand"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "the"},
+	{
+		"word3": "same'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "rewrote"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "are"},
+	{
+		"word2": "waiting"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "was"},
+	{
+		"word2": "honest"},
+	{
+		"word3": "with'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Look"},
+	{
+		"word2": "into"},
+	{
+		"word3": "your'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "city'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "young"},
+	{
+		"word2": "scrappy"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Da"},
+	{
+		"word2": "da"},
+	{
+		"word3": "da'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "middle"},
+	{
+		"word2": "of"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "he"},
+	{
+		"word2": "was"},
+	{
+		"word3": "honest'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "he"},
+	{
+		"word3": "wrote'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I'm"},
+	{
+		"word2": "young"},
+	{
+		"word3": "scrappy'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "I"},
+	{
+		"word3": "do'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "out"},
+	{
+		"word2": "of"},
+	{
+		"word3": "style'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "I'm"},
+	{
+		"word3": "not'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "don't"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "When"},
+	{
+		"word2": "are"},
+	{
+		"word3": "these'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "just"},
+	{
+		"word2": "you"},
+	{
+		"word3": "wait'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "comes"},
+	{
+		"word2": "the"},
+	{
+		"word3": "General'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "glass"},
+	{
+		"word2": "to"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "they"},
+	{
+		"word2": "know"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "know"},
+	{
+		"word2": "what"},
+	{
+		"word3": "you're'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "alive"},
+	{
+		"word2": "right"},
+	{
+		"word3": "now'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "What'd"},
+	{
+		"word2": "I"},
+	{
+		"word3": "miss'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "yo"},
+	{
+		"word2": "yo"},
+	{
+		"word3": "yo'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "At"},
+	{
+		"word2": "least"},
+	{
+		"word3": "he'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Down"},
+	{
+		"word2": "down"},
+	{
+		"word3": "down'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "blow"},
+	{
+		"word2": "us"},
+	{
+		"word3": "all'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "need"},
+	{
+		"word2": "to"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "know"},
+	{
+		"word3": "what'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "you're"},
+	{
+		"word2": "against"},
+	{
+		"word3": "or'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "if"},
+	{
+		"word2": "you"},
+	{
+		"word3": "had'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "tell"},
+	{
+		"word2": "your"},
+	{
+		"word3": "story'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "away"},
+	{
+		"word2": "with"},
+	{
+		"word3": "us'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "night"},
+	{
+		"word2": "I"},
+	{
+		"word3": "just'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "new"},
+	{
+		"word3": "man'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "has"},
+	{
+		"word2": "its"},
+	{
+		"word3": "eyes'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "new"},
+	{
+		"word3": "man'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "and"},
+	{
+		"word2": "see"},
+	{
+		"word3": "where'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "it"},
+	{
+		"word2": "feels"},
+	{
+		"word3": "more'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "If"},
+	{
+		"word2": "you"},
+	{
+		"word3": "see'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "it"},
+	{
+		"word2": "wait"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "it"},
+	{
+		"word2": "takes"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "how"},
+	{
+		"word2": "lucky"},
+	{
+		"word3": "we'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "like"},
+	{
+		"word2": "you're"},
+	{
+		"word3": "running'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "If"},
+	{
+		"word2": "you"},
+	{
+		"word3": "stand'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "night"},
+	{
+		"word3": "gets'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "not"},
+	{
+		"word2": "throwing"},
+	{
+		"word3": "away'"},
+	{
+		"freq": 20},
+	
+	{
+		"word1": "wings"},
+	{
+		"word2": "for"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "know"},
+	{
+		"word2": "what"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "second"},
+	{
+		"word2": "you're"},
+	{
+		"word3": "alive'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "six"},
+	{
+		"word2": "sept"},
+	{
+		"word3": "huit'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "street"},
+	{
+		"word3": "walking'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "We"},
+	{
+		"word2": "know"},
+	{
+		"word3": "it's'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "you'll"},
+	{
+		"word2": "blow"},
+	{
+		"word3": "us'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "and"},
+	{
+		"word2": "night"},
+	{
+		"word3": "like'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you're"},
+	{
+		"word2": "running"},
+	{
+		"word3": "out'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "side"},
+	{
+		"word2": "of"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Im"},
+	{
+		"word2": "willing"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "wait"},
+	{
+		"word3": "just'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "we"},
+	{
+		"word2": "are"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "and"},
+	{
+		"word2": "ever"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "be"},
+	{
+		"word3": "Your'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "same"},
+	{
+		"word3": "oh'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "sinners"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Meet"},
+	{
+		"word2": "him"},
+	{
+		"word3": "inside'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "The"},
+	{
+		"word2": "people"},
+	{
+		"word3": "are'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "around"},
+	{
+		"word2": "at"},
+	{
+		"word3": "how'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "what"},
+	{
+		"word2": "you're"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "know"},
+	{
+		"word2": "it's"},
+	{
+		"word3": "loselose'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "eye"},
+	{
+		"word2": "aim"},
+	{
+		"word3": "no'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Whoa"},
+	{
+		"word2": "whoa"},
+	{
+		"word3": "whoa'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "gonna"},
+	{
+		"word2": "rise"},
+	{
+		"word3": "up'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "It"},
+	{
+		"word2": "takes"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "One"},
+	{
+		"word2": "last"},
+	{
+		"word3": "time'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "nice"},
+	{
+		"word2": "it"},
+	{
+		"word3": "must'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "Caribbean'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "da"},
+	{
+		"word2": "da"},
+	{
+		"word3": "ya'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "give"},
+	{
+		"word2": "you"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Washington"},
+	{
+		"word2": "on"},
+	{
+		"word3": "your'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "face'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "a"},
+	{
+		"word2": "mind"},
+	{
+		"word3": "at'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "may"},
+	{
+		"word2": "not"},
+	{
+		"word3": "live'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "thing"},
+	{
+		"word2": "to"},
+	{
+		"word3": "worry'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "assume'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "alive"},
+	{
+		"word3": "right'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "world'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "all"},
+	{
+		"word2": "the"},
+	{
+		"word3": "courage'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "have"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "other"},
+	{
+		"word2": "side"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Time"},
+	{
+		"word2": "to"},
+	{
+		"word3": "take'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "Be"},
+	{
+		"word2": "a"},
+	{
+		"word3": "new'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "da"},
+	{
+		"word2": "ya"},
+	{
+		"word3": "da'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "middle"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "got"},
+	{
+		"word2": "to"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "There's"},
+	{
+		"word2": "a"},
+	{
+		"word3": "million'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "always"},
+	{
+		"word2": "say"},
+	{
+		"word3": "what'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "fall"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "New"},
+	{
+		"word2": "York"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "But"},
+	{
+		"word2": "just"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Here"},
+	{
+		"word2": "comes"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "from"},
+	{
+		"word2": "the"},
+	{
+		"word3": "King'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "You'll"},
+	{
+		"word2": "be"},
+	{
+		"word3": "back'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Why"},
+	{
+		"word2": "do"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 18},
+	
+	{
+		"word1": "go"},
+	{
+		"word2": "back"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "live"},
+	{
+		"word2": "to"},
+	{
+		"word3": "see'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "will"},
+	{
+		"word2": "never"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "To"},
+	{
+		"word2": "the"},
+	{
+		"word3": "bride'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "day"},
+	{
+		"word2": "and"},
+	{
+		"word3": "night'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "not"},
+	{
+		"word2": "throwin'"},
+	{
+		"word3": "away'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "of"},
+	{
+		"word2": "the"},
+	{
+		"word3": "war'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "imagine"},
+	{
+		"word2": "death"},
+	{
+		"word3": "so'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "know"},
+	{
+		"word2": "how"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "may"},
+	{
+		"word3": "have'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Five"},
+	{
+		"word2": "six"},
+	{
+		"word3": "seven'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "wanna"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "know"},
+	{
+		"word3": "that'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "da"},
+	{
+		"word2": "da"},
+	{
+		"word3": "dat'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "always'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "know"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "be"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "same"},
+	{
+		"word3": "spot'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Let's"},
+	{
+		"word2": "have"},
+	{
+		"word3": "another'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "dat"},
+	{
+		"word2": "da"},
+	{
+		"word3": "da'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "In"},
+	{
+		"word2": "New"},
+	{
+		"word3": "York'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "Mr"},
+	{
+		"word2": "Jefferson"},
+	{
+		"word3": "welcome'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "for"},
+	{
+		"word2": "the"},
+	{
+		"word3": "count'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "don't"},
+	{
+		"word3": "have'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "have"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "When"},
+	{
+		"word2": "I"},
+	{
+		"word3": "was'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Teach"},
+	{
+		"word2": "'em"},
+	{
+		"word3": "how'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "George"},
+	{
+		"word2": "Washington's"},
+	{
+		"word3": "going'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "had"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 15},
+	
+	{
+		"word1": "Just"},
+	{
+		"word2": "you"},
+	{
+		"word3": "wait'"},
+	{
+		"freq": 13},
+	
+	{
+		"word1": "back"},
+	{
+		"word2": "to"},
+	{
+		"word3": "New'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "one"},
+	{
+		"word2": "less"},
+	{
+		"word3": "thing'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "drownin'"},
+	{
+		"word2": "in"},
+	{
+		"word3": "'em'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Sept"},
+	{
+		"word2": "huit"},
+	{
+		"word3": "neuf'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "write"},
+	{
+		"word2": "like"},
+	{
+		"word3": "you're'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "know"},
+	{
+		"word3": "I'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "take"},
+	{
+		"word3": "your'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "We"},
+	{
+		"word2": "can"},
+	{
+		"word3": "all'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "what"},
+	{
+		"word2": "we"},
+	{
+		"word3": "know'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "might"},
+	{
+		"word2": "be"},
+	{
+		"word3": "nice'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "To"},
+	{
+		"word2": "the"},
+	{
+		"word3": "groom'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "da"},
+	{
+		"word2": "da"},
+	{
+		"word3": "da'"},
+	{
+		"freq": 16},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "middle'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "like"},
+	{
+		"word2": "a"},
+	{
+		"word3": "memory'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "know"},
+	{
+		"word2": "you"},
+	{
+		"word3": "rewrote'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "lookin'"},
+	{
+		"word2": "for"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "By"},
+	{
+		"word2": "being"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "throwing"},
+	{
+		"word2": "away"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 20},
+	
+	{
+		"word1": "I'm"},
+	{
+		"word2": "lookin'"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "just"},
+	{
+		"word3": "might'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "out"},
+	{
+		"word2": "of"},
+	{
+		"word3": "time'"},
+	{
+		"freq": 17},
+	
+	{
+		"word1": "what"},
+	{
+		"word2": "you"},
+	{
+		"word3": "do'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "are"},
+	{
+		"word2": "to"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "against"},
+	{
+		"word2": "or"},
+	{
+		"word3": "what'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "assume"},
+	{
+		"word2": "you're"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "throwin'"},
+	{
+		"word2": "away"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 10},
+	
+	{
+		"word1": "what"},
+	{
+		"word2": "you're"},
+	{
+		"word3": "against'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "my"},
+	{
+		"word2": "way"},
+	{
+		"word3": "out'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "My"},
+	{
+		"word2": "name"},
+	{
+		"word3": "is'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "asking"},
+	{
+		"word2": "me"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "were"},
+	{
+		"word3": "mine'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "front"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "For"},
+	{
+		"word2": "just"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "is"},
+	{
+		"word2": "not"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "room'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "America"},
+	{
+		"word2": "sings"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "rewrote"},
+	{
+		"word2": "the"},
+	{
+		"word3": "game'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "four"},
+	{
+		"word2": "of"},
+	{
+		"word3": "us'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Going"},
+	{
+		"word2": "out"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "We"},
+	{
+		"word2": "are"},
+	{
+		"word3": "outgunned'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "The"},
+	{
+		"word2": "Reynolds"},
+	{
+		"word3": "Pamphlet'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "willing"},
+	{
+		"word2": "to"},
+	{
+		"word3": "wait'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "don't"},
+	{
+		"word2": "have"},
+	{
+		"word3": "your'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "take"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 12},
+	
+	{
+		"word1": "don't"},
+	{
+		"word2": "have"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "honor"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "What"},
+	{
+		"word2": "are"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "No"},
+	{
+		"word2": "matter"},
+	{
+		"word3": "what'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Jefferson"},
+	{
+		"word2": "welcome"},
+	{
+		"word3": "home'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "story"},
+	{
+		"word3": "of'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "have"},
+	{
+		"word2": "the"},
+	{
+		"word3": "votes'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "wanna"},
+	{
+		"word2": "be"},
+	{
+		"word3": "in'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "give"},
+	{
+		"word2": "it"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Who"},
+	{
+		"word2": "lives"},
+	{
+		"word3": "who'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "have"},
+	{
+		"word2": "another"},
+	{
+		"word3": "round'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "Let's"},
+	{
+		"word2": "go"},
+	{
+		"word3": "upstate'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Buck"},
+	{
+		"word2": "buck"},
+	{
+		"word3": "buck'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Da"},
+	{
+		"word2": "da"},
+	{
+		"word3": "dat'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "this"},
+	{
+		"word2": "is"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Dear"},
+	{
+		"word2": "Mr"},
+	{
+		"word3": "Hamilton'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Write"},
+	{
+		"word2": "day"},
+	{
+		"word3": "and'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "see"},
+	{
+		"word2": "you"},
+	{
+		"word3": "on'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "remember"},
+	{
+		"word3": "that'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "troops"},
+	{
+		"word2": "in"},
+	{
+		"word3": "New'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "You"},
+	{
+		"word2": "never"},
+	{
+		"word3": "learned'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "in"},
+	{
+		"word2": "the"},
+	{
+		"word3": "wings'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "dat"},
+	{
+		"word2": "da"},
+	{
+		"word3": "dat'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "Look"},
+	{
+		"word2": "at"},
+	{
+		"word3": "where'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "In"},
+	{
+		"word2": "the"},
+	{
+		"word3": "greatest'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "fall"},
+	{
+		"word3": "apart'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "an"},
+	{
+		"word2": "ocean"},
+	{
+		"word3": "away'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Hey"},
+	{
+		"word2": "yo"},
+	{
+		"word3": "I'm'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "son"},
+	{
+		"word2": "of"},
+	{
+		"word3": "a'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "theres"},
+	{
+		"word2": "a"},
+	{
+		"word3": "reason'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "mind"},
+	{
+		"word2": "at"},
+	{
+		"word3": "work'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "tell"},
+	{
+		"word2": "you"},
+	{
+		"word3": "what'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "million"},
+	{
+		"word2": "things"},
+	{
+		"word3": "I'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "glass"},
+	{
+		"word2": "to"},
+	{
+		"word3": "freedom'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "never"},
+	{
+		"word2": "be"},
+	{
+		"word3": "satisfied'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "I'm"},
+	{
+		"word2": "not"},
+	{
+		"word3": "throwing'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "it"},
+	{
+		"word2": "must"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "that"},
+	{
+		"word2": "night"},
+	{
+		"word3": "I'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "ahead"},
+	{
+		"word2": "of"},
+	{
+		"word3": "me'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Well"},
+	{
+		"word2": "I'll"},
+	{
+		"word3": "be'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "gotta"},
+	{
+		"word2": "fend"},
+	{
+		"word3": "for'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "'em"},
+	{
+		"word2": "how"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Chaos"},
+	{
+		"word2": "and"},
+	{
+		"word3": "bloodshed'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Down"},
+	{
+		"word2": "for"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "Ev'ry"},
+	{
+		"word2": "day"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "look"},
+	{
+		"word2": "forward"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "room"},
+	{
+		"word2": "where"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 52},
+	
+	{
+		"word1": "Oh"},
+	{
+		"word2": "Alexander"},
+	{
+		"word3": "Hamilton'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "on"},
+	{
+		"word2": "your"},
+	{
+		"word3": "side'"},
+	{
+		"freq": 9},
+	
+	{
+		"word1": "aim"},
+	{
+		"word2": "no"},
+	{
+		"word3": "higher'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "of"},
+	{
+		"word2": "a"},
+	{
+		"word3": "nation'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "so"},
+	{
+		"word2": "much"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "know"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "is"},
+	{
+		"word2": "in"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "colonies"},
+	{
+		"word2": "gonna"},
+	{
+		"word3": "rise'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "Between"},
+	{
+		"word2": "the"},
+	{
+		"word3": "sinners'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "imagine"},
+	{
+		"word3": "death'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "to"},
+	{
+		"word2": "say"},
+	{
+		"word3": "goodbye'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "least"},
+	{
+		"word2": "he"},
+	{
+		"word3": "was'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "must"},
+	{
+		"word2": "be"},
+	{
+		"word3": "nice'"},
+	{
+		"freq": 16},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "I'm"},
+	{
+		"word3": "drownin''"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "us"},
+	{
+		"word2": "for"},
+	{
+		"word3": "the'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Who"},
+	{
+		"word2": "tells"},
+	{
+		"word3": "your'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "when"},
+	{
+		"word3": "my'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "the"},
+	{
+		"word2": "room"},
+	{
+		"word3": "where'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "nice"},
+	{
+		"word2": "to"},
+	{
+		"word3": "have'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "President"},
+	{
+		"word3": "now'"},
+	{
+		"freq": 18},
+	
+	{
+		"word1": "for"},
+	{
+		"word2": "it"},
+	{
+		"word3": "wait'"},
+	{
+		"freq": 11},
+	
+	{
+		"word1": "you"},
+	{
+		"word2": "always"},
+	{
+		"word3": "say'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "Can"},
+	{
+		"word2": "you"},
+	{
+		"word3": "imagine'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "wish"},
+	{
+		"word3": "I'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "New"},
+	{
+		"word2": "York"},
+	{
+		"word3": "City'"},
+	{
+		"freq": 7},
+	
+	{
+		"word1": "back"},
+	{
+		"word2": "to"},
+	{
+		"word3": "sleep'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "And"},
+	{
+		"word2": "if"},
+	{
+		"word3": "theres'"},
+	{
+		"freq": 3},
+	
+	{
+		"word1": "with"},
+	{
+		"word2": "our"},
+	{
+		"word3": "money'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "You"},
+	{
+		"word2": "and"},
+	{
+		"word3": "I'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "Well"},
+	{
+		"word2": "if"},
+	{
+		"word3": "it'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "be"},
+	{
+		"word2": "nice"},
+	{
+		"word3": "to'"},
+	{
+		"freq": 6},
+	
+	{
+		"word1": "do"},
+	{
+		"word2": "you"},
+	{
+		"word3": "fight'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "deux"},
+	{
+		"word2": "trois"},
+	{
+		"word3": "quatre'"},
+	{
+		"freq": 8},
+	
+	{
+		"word1": "I"},
+	{
+		"word2": "have"},
+	{
+		"word3": "never'"},
+	{
+		"freq": 5},
+	
+	{
+		"word1": "at"},
+	{
+		"word2": "where"},
+	{
+		"word3": "you'"},
+	{
+		"freq": 4},
+	
+	{
+		"word1": "buck"},
+	{
+		"word2": "buck"},
+	{
+		"word3": "buck'"},
+	{
+		"freq": 8},
+
+]}

@@ -1,0 +1,6 @@
+
+public class Motif {
+	public static void main(String[] args) {
+		String output = "{\n\t\"motifs\": [";
+	}
+}

@@ -36,11 +36,11 @@ export default class Renderer extends React.Component {
     var draw = SVG('drawing');
 
 
-		draw.size(500, 600);
-		var rect = draw.rect(100, 100);
-		rect.animate().attr({ fill: '#f06' });
+		draw.size('60vw', 600);
+		var rect = draw.circle(100, 100);
+		rect.animate().attr({ fill: '#89a' });
 		
-    rect.animate().center(250, 250).loop(10000, true);
+    rect.animate().center(250, 250).loop(2, true);
 		this.arc_links(draw,50,50,250,50,2,40);
     this.arc_links(draw,250,50,250,250,3,40);
     this.arc_links(draw,250,250,50,250,4,40);

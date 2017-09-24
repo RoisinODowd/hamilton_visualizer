@@ -46,7 +46,8 @@ export default class D3 extends React.Component{
 			backgroundColor: '#000000',
             display: 'flex',
             justifyContent: 'center',
-            alignItems: 'center'
+			alignItems: 'center',
+			border: '2px solid grey'
         }
 
         const svgStyle = {
@@ -61,7 +62,7 @@ export default class D3 extends React.Component{
 
 		return (
 			<div id = 'outter' style={D3Style}>
-				<svg id='drawing' width='400px' height='500px' style={svgStyle} onClick = {this.onClickHandler.bind(this)}>
+				<svg id='drawing' width='1000px' height='500px' style={svgStyle} onClick = {this.onClickHandler.bind(this)}>
                 </svg>
 						<div>
 					</div>
