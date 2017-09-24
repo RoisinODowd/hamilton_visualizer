@@ -45,7 +45,7 @@ export default class Scrollpane extends React.Component{
 		};
 
 		element = document.getElementById('text').getElementsByTagName('p')[this.state.currentParagraph];
-		element.style.background = '#eeffcc';
+		element.style.background = 'rgba(255, 255, 255, 1)';
 
 		if (number < 0)
 			number = 0;
@@ -91,7 +91,7 @@ export default class Scrollpane extends React.Component{
 
 	componentDidMount() {
 		//var element = document.getElementById("1");
-		document.getElementById('text').getElementsByTagName('p')[0].style.background = '#eeffcc';
+		document.getElementById('text').getElementsByTagName('p')[0].style.background = '#fff';
 	}
 
 	render() {

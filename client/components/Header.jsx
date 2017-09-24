@@ -5,14 +5,14 @@
 
 import React from 'react';
 import Iframe from './Iframe.jsx'
-import Dropdown from './Dropdown.jsx'
+import DropdownWrapper from './Dropdown.jsx'
 
 export default class Header extends React.Component{
 
   constructor(props) {
     super(props);
 
-    this.state = {sidebar : false, sidebarWidth: 160};
+    this.state = {sidebar : false, sidebarWidth: 160, option: 'Alexander Hamilton'};
   }
 
   onClickHandler(event) {
@@ -36,6 +36,10 @@ export default class Header extends React.Component{
       document.getElementById('visualizer').style.marginLeft = '0vw';
     }
   }
+
+	onDropdownChange(choice){
+			this.setState({option: choice.label}); 
+	}
 
   render() {
    const headerStyle = {
@@ -68,10 +72,10 @@ export default class Header extends React.Component{
             </svg>
           </a>
         </span>
-        <span> <b>Hamilton Visualizer</b></span>
-        <span> <Dropdown /> </span>
+				<span> <DropdownWrapper func={this.onDropdownChange.bind(this)} option={this.state.option}/>  </span>
+        <span> <b>Hamilfy</b></span>
         <span style = {{display: 'flex', justifyContent: 'space-between'}} >
-              <span> <Iframe /> </span>
+              <span> <Iframe value={this.state.option} /> </span>
               <span style = {{visibility: 'hidden'}}> right </span>
            </span>
       </div>

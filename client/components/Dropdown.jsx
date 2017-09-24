@@ -5,11 +5,13 @@ import Dropdown from 'react-dropdown'
 
 
 
-export default class Dropdown extends React.Component {
+export default class DropdownWrapper extends React.Component {
 
-    render(){
-    const options = [
 
+	constructor() {
+		super();
+		this.state = { option : 'Alexander Hamilton', 
+		options: [
         "Alexander Hamilton",
         "Aaron Burr, Sir",
         "My Shot",
@@ -56,12 +58,17 @@ export default class Dropdown extends React.Component {
         "Best Of Wives And Best Of Women",
         "The World Was Wide Enough", 
         "Who Lives, Who Dies, Who Tells Your Story"
+    ] };
+	}
 
 
-    ]; 
-
-        const defaultOption = options[0]
-        return <Dropdown options={options} onChange={this._onSelect} value={defaultOption} placeholder="Select an option" />aultOption}
+    render(){
+     const defaultOption = this.props.option;
+			return (
+				<div style={{ maxHeight: '80px', minHeight: '20px', width: '350px', overflow: 'scroll', background: 'black' , font: '18px Arial', color: '#997500'}}>
+				<Dropdown options={this.state.options} onChange={this.props.func} value={defaultOption} placeholder="Select an option" />
+			  </div>
+			);
 
     }
 

@@ -30,10 +30,12 @@ export default class App extends React.Component {
     document.getElementById('body').style = {
       background: bgColor,
       margin: '0',
-      padding: '0'
+			padding: '0',
+			overflow: 'hidden'
     };
     document.getElementById('html').style = {
-      background: bgColor
+			background: '#000',
+			overflow: 'hidden'
     };
 
     return (
