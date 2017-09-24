@@ -68,7 +68,10 @@ export default class Header extends React.Component{
           </a>
         </span>
         <span> <b>Hamilton Visualizer</b></span>
-        <span > <Iframe /> </span>
+        <span style = {{display: 'flex', justifyContent: 'space-between'}} >
+              <span> <Iframe /> </span>
+              <span style = {{visibility: 'hidden'}}> right </span>
+           </span>
       </div>
     );
   }

@@ -76,7 +76,7 @@ ReactDOM.render(
       <div id = "player" style={iframeStyle}>
         <span style = {{marginLeft: '100px', display: 'flex', alignItems: 'right', overflow: 'hidden'}}>
         <iframe src="https://open.spotify.com/embed?uri=spotify:track:4TTV7EcfroSLWzXRY6gLv6"
-        width="250" height="80" frameborder="0" allowtransparency="true"></iframe>;
+        width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
         </span>
       </div>
     );
