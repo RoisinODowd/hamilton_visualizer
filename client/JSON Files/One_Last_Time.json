@@ -1,2827 +1,2830 @@
 {
 	"results": [
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Mr"
-				},
-
-				{
-					"word": "President"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "asked"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "see"
-				},
-
-				{
-					"word": "me"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "know"
-				},
-
-				{
-					"word": "you’re"
-				},
-
-				{
-					"word": "busy"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "What"
-				},
-
-				{
-					"word": "do"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "need"
-				},
-
-				{
-					"word": "sir"
-				},
-
-				{
-					"word": "Sir"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "wanna"
-				},
-
-				{
-					"word": "give"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "word"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "warning"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Sir"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "don’t"
-				},
-
-				{
-					"word": "know"
-				},
-
-				{
-					"word": "what"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "heard"
-				},
-
-				{
-					"word": "But"
-				},
-
-				{
-					"word": "whatever"
-				},
-
-				{
-					"word": "it"
-				},
-
-				{
-					"word": "is"
-				},
-
-				{
-					"word": "Jefferson"
-				},
-
-				{
-					"word": "started"
-				},
-
-				{
-					"word": "it"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Thomas"
-				},
-
-				{
-					"word": "Jefferson"
-				},
-
-				{
-					"word": "resigned"
-				},
-
-				{
-					"word": "this"
-				},
-
-				{
-					"word": "morning"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "You’re"
-				},
-
-				{
-					"word": "kidding"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "need"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "favor"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Whatever"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "sir"
-				},
-
-				{
-					"word": "Jefferson"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "pay"
-				},
-
-				{
-					"word": "for"
-				},
-
-				{
-					"word": "his"
-				},
-
-				{
-					"word": "behavior"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Shh"
-				},
-
-				{
-					"word": "Talk"
-				},
-
-				{
-					"word": "less"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "I’ll"
-				},
-
-				{
-					"word": "use"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "press"
-				},
-
-				{
-					"word": "I’ll"
-				},
-
-				{
-					"word": "write"
-				},
-
-				{
-					"word": "under"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "pseudonym"
-				},
-
-				{
-					"word": "you’ll"
-				},
-
-				{
-					"word": "see"
-				},
-
-				{
-					"word": "what"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "can"
-				},
-
-				{
-					"word": "do"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "him—"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "need"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "draft"
-				},
-
-				{
-					"word": "an"
-				},
-
-				{
-					"word": "address"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Yes"
-				},
-
-				{
-					"word": "He"
-				},
-
-				{
-					"word": "resigned"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "can"
-				},
-
-				{
-					"word": "finally"
-				},
-
-				{
-					"word": "speak"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "mind—"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "No"
-				},
-
-				{
-					"word": "he’s"
-				},
-
-				{
-					"word": "stepping"
-				},
-
-				{
-					"word": "down"
-				},
-
-				{
-					"word": "so"
-				},
-
-				{
-					"word": "he"
-				},
-
-				{
-					"word": "can"
-				},
-
-				{
-					"word": "run"
-				},
-
-				{
-					"word": "for"
-				},
-
-				{
-					"word": "President"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Ha"
-				},
-
-				{
-					"word": "Good"
-				},
-
-				{
-					"word": "luck"
-				},
-
-				{
-					"word": "defeating"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "sir"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "stepping"
-				},
-
-				{
-					"word": "down"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "not"
-				},
-
-				{
-					"word": "running"
-				},
-
-				{
-					"word": "for"
-				},
-
-				{
-					"word": "President"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "sorry"
-				},
-
-				{
-					"word": "what"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				},
-
-				{
-					"word": "Relax"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "drink"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				},
-
-				{
-					"word": "Let’s"
-				},
-
-				{
-					"word": "take"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "break"
-				},
-
-				{
-					"word": "tonight"
-				},
-
-				{
-					"word": "And"
-				},
-
-				{
-					"word": "then"
-				},
-
-				{
-					"word": "we’ll"
-				},
-
-				{
-					"word": "teach"
-				},
-
-				{
-					"word": "them"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "To"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "I"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "No"
-				},
-
-				{
-					"word": "sir"
-				},
-
-				{
-					"word": "why"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "wanna"
-				},
-
-				{
-					"word": "talk"
-				},
-
-				{
-					"word": "about"
-				},
-
-				{
-					"word": "neutrality"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Sir"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "Britain"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "France"
-				},
-
-				{
-					"word": "on"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "verge"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "war"
-				},
-
-				{
-					"word": "is"
-				},
-
-				{
-					"word": "this"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "best"
-				},
-
-				{
-					"word": "time—"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "want"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "warn"
-				},
-
-				{
-					"word": "against"
-				},
-
-				{
-					"word": "partisan"
-				},
-
-				{
-					"word": "fighting"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "But—"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Pick"
-				},
-
-				{
-					"word": "up"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "pen"
-				},
-
-				{
-					"word": "start"
-				},
-
-				{
-					"word": "writing"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "wanna"
-				},
-
-				{
-					"word": "talk"
-				},
-
-				{
-					"word": "about"
-				},
-
-				{
-					"word": "what"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "learned"
-				},
-
-				{
-					"word": "The"
-				},
-
-				{
-					"word": "hardwon"
-				},
-
-				{
-					"word": "wisdom"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "earned"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "As"
-				},
-
-				{
-					"word": "far"
-				},
-
-				{
-					"word": "as"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "people"
-				},
-
-				{
-					"word": "are"
-				},
-
-				{
-					"word": "concerned"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "serve"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "could"
-				},
-
-				{
-					"word": "continue"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "serve—"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "No"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				},
-
-				{
-					"word": "The"
-				},
-
-				{
-					"word": "people"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "hear"
-				},
-
-				{
-					"word": "from"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				},
-
-				{
-					"word": "And"
-				},
-
-				{
-					"word": "if"
-				},
-
-				{
-					"word": "we"
-				},
-
-				{
-					"word": "get"
-				},
-
-				{
-					"word": "this"
-				},
-
-				{
-					"word": "right"
-				},
-
-				{
-					"word": "We’re"
-				},
-
-				{
-					"word": "gonna"
-				},
-
-				{
-					"word": "teach"
-				},
-
-				{
-					"word": "‘em"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "Goodbye"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "I—"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Mr"
-				},
-
-				{
-					"word": "President"
-				},
-
-				{
-					"word": "they"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "you’re"
-				},
-
-				{
-					"word": "weak"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "No"
-				},
-
-				{
-					"word": "they"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "see"
-				},
-
-				{
-					"word": "we’re"
-				},
-
-				{
-					"word": "strong"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Your"
-				},
-
-				{
-					"word": "position"
-				},
-
-				{
-					"word": "is"
-				},
-
-				{
-					"word": "so"
-				},
-
-				{
-					"word": "unique"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "So"
-				},
-
-				{
-					"word": "I’ll"
-				},
-
-				{
-					"word": "use"
-				},
-
-				{
-					"word": "it"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "move"
-				},
-
-				{
-					"word": "them"
-				},
-
-				{
-					"word": "along"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Why"
-				},
-
-				{
-					"word": "do"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "If"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "nation"
-				},
-
-				{
-					"word": "learns"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "move"
-				},
-
-				{
-					"word": "on"
-				},
-
-				{
-					"word": "It"
-				},
-
-				{
-					"word": "outlives"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "when"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "gone"
-				},
-
-				{
-					"word": "Like"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "scripture"
-				},
-
-				{
-					"word": "says"
-				},
-
-				{
-					"word": "And"
-				},
-
-				{
-					"word": "no"
-				},
-
-				{
-					"word": "one"
-				},
-
-				{
-					"word": "shall"
-				},
-
-				{
-					"word": "make"
-				},
-
-				{
-					"word": "them"
-				},
-
-				{
-					"word": "afraid”"
-				},
-
-				{
-					"word": "They’ll"
-				},
-
-				{
-					"word": "be"
-				},
-
-				{
-					"word": "safe"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "nation"
-				},
-
-				{
-					"word": "we’ve"
-				},
-
-				{
-					"word": "made"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "wanna"
-				},
-
-				{
-					"word": "sit"
-				},
-
-				{
-					"word": "under"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "own"
-				},
-
-				{
-					"word": "vine"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "fig"
-				},
-
-				{
-					"word": "tree"
-				},
-
-				{
-					"word": "A"
-				},
-
-				{
-					"word": "moment"
-				},
-
-				{
-					"word": "alone"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "shade"
-				},
-
-				{
-					"word": "At"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "this"
-				},
-
-				{
-					"word": "nation"
-				},
-
-				{
-					"word": "we’ve"
-				},
-
-				{
-					"word": "made"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Though"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "reviewing"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "incidents"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "administration"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "am"
-				},
-
-				{
-					"word": "unconscious"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "intentional"
-				},
-
-				{
-					"word": "error"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "am"
-				},
-
-				{
-					"word": "nevertheless"
-				},
-
-				{
-					"word": "too"
-				},
-
-				{
-					"word": "sensible"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "defects"
-				},
-
-				{
-					"word": "not"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "think"
-				},
-
-				{
-					"word": "it"
-				},
-
-				{
-					"word": "probable"
-				},
-
-				{
-					"word": "that"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "may"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "committed"
-				},
-
-				{
-					"word": "many"
-				},
-
-				{
-					"word": "errors"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "shall"
-				},
-
-				{
-					"word": "also"
-				},
-
-				{
-					"word": "carry"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "me"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "The"
-				},
-
-				{
-					"word": "hope"
-				},
-
-				{
-					"word": "That"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "country"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "View"
-				},
-
-				{
-					"word": "them"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "indulgence"
-				},
-
-				{
-					"word": "And"
-				},
-
-				{
-					"word": "that"
-				},
-
-				{
-					"word": "After"
-				},
-
-				{
-					"word": "fortyfive"
-				},
-
-				{
-					"word": "years"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "life"
-				},
-
-				{
-					"word": "dedicated"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "its"
-				},
-
-				{
-					"word": "service"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "an"
-				},
-
-				{
-					"word": "upright"
-				},
-
-				{
-					"word": "zeal"
-				},
-
-				{
-					"word": "The"
-				},
-
-				{
-					"word": "faults"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "incompetent"
-				},
-
-				{
-					"word": "abilities"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "be"
-				},
-
-				{
-					"word": "Consigned"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "oblivion"
-				},
-
-				{
-					"word": "as"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "myself"
-				},
-
-				{
-					"word": "must"
-				},
-
-				{
-					"word": "soon"
-				},
-
-				{
-					"word": "be"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "mansions"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "rest"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "anticipate"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "pleasing"
-				},
-
-				{
-					"word": "expectation"
-				},
-
-				{
-					"word": "that"
-				},
-
-				{
-					"word": "retreat"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "which"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "promise"
-				},
-
-				{
-					"word": "myself"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "realize"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "sweet"
-				},
-
-				{
-					"word": "enjoyment"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "partaking"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "midst"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "fellowcitizens"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "benign"
-				},
-
-				{
-					"word": "influence"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "good"
-				},
-
-				{
-					"word": "laws"
-				},
-
-				{
-					"word": "Under"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "free"
-				},
-
-				{
-					"word": "government"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "everfavorite"
-				},
-
-				{
-					"word": "object"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "heart"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "happy"
-				},
-
-				{
-					"word": "reward"
-				},
-
-				{
-					"word": "as"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "trust"
-				},
-
-				{
-					"word": "Of"
-				},
-
-				{
-					"word": "our"
-				},
-
-				{
-					"word": "mutual"
-				},
-
-				{
-					"word": "cares"
-				},
-
-				{
-					"word": "labors"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "danger"
-				},
-
-				{
-					"word": "The"
-				},
-
-				{
-					"word": "hope"
-				},
-
-				{
-					"word": "View"
-				},
-
-				{
-					"word": "them"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "indulgence"
-				},
-
-				{
-					"word": "After"
-				},
-
-				{
-					"word": "fortyfive"
-				},
-
-				{
-					"word": "years"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "life"
-				},
-
-				{
-					"word": "dedicated"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "its"
-				},
-
-				{
-					"word": "service"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "an"
-				},
-
-				{
-					"word": "upright"
-				},
-
-				{
-					"word": "zeal"
-				},
-
-				{
-					"word": "Consigned"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "oblivion"
-				},
-
-				{
-					"word": "as"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "myself"
-				},
-
-				{
-					"word": "must"
-				},
-
-				{
-					"word": "soon"
-				},
-
-				{
-					"word": "be"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "mansions"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "rest"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "anticipate"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "pleasing"
-				},
-
-				{
-					"word": "expectation"
-				},
-
-				{
-					"word": "that"
-				},
-
-				{
-					"word": "retreat"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "which"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "promise"
-				},
-
-				{
-					"word": "myself"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "realize"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "sweet"
-				},
-
-				{
-					"word": "enjoyment"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "partaking"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "midst"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "fellowcitizens"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "benign"
-				},
-
-				{
-					"word": "influence"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "good"
-				},
-
-				{
-					"word": "laws"
-				},
-
-				{
-					"word": "Under"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "free"
-				},
-
-				{
-					"word": "government"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "everfavorite"
-				},
-
-				{
-					"word": "object"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "heart"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "happy"
-				},
-
-				{
-					"word": "reward"
-				},
-
-				{
-					"word": "as"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "trust"
-				},
-
-				{
-					"word": "Of"
-				},
-
-				{
-					"word": "our"
-				},
-
-				{
-					"word": "mutual"
-				},
-
-				{
-					"word": "cares"
-				},
-
-				{
-					"word": "labors"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "dangers"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				}
-			],
-
-			[{
-					"name": "ALL WOMEN"
-				},
-
-				{
-					"word": "George"
-				},
-
-				{
-					"word": "Washington’s"
-				},
-
-				{
-					"word": "going"
-				},
-
-				{
-					"word": "home"
-				}
-			],
-
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Teach"
-				},
-
-				{
-					"word": "‘em"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				}
-			],
-
-			[{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "Going"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "History"
-				},
-
-				{
-					"word": "has"
-				},
-
-				{
-					"word": "its"
-				},
-
-				{
-					"word": "eyes"
-				},
-
-				{
-					"word": "on"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "We’re"
-				},
-
-				{
-					"word": "gonna"
-				},
-
-				{
-					"word": "teach"
-				},
-
-				{
-					"word": "‘em"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "Say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "Teach"
-				},
-
-				{
-					"word": "‘em"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "Say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "To"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "Say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				},
-
-				{
-					"word": "George"
-				},
-
-				{
-					"word": "Washington’s"
-				},
-
-				{
-					"word": "going"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "George"
-				},
-
-				{
-					"word": "Washington’s"
-				},
-
-				{
-					"word": "going"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "George"
-				},
-
-				{
-					"word": "Washington’s"
-				},
-
-				{
-					"word": "going"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "George"
-				},
-
-				{
-					"word": "Washington’s"
-				},
-
-				{
-					"word": "going"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "Teach"
-				},
-
-				{
-					"word": "‘em"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "Teach"
-				},
-
-				{
-					"word": "‘em"
-				},
-
-				{
-					"word": "how"
-				},
-
-				{
-					"word": "Say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "Say"
-				},
-
-				{
-					"word": "goodbye"
-				},
-
-				{
-					"word": "One"
-				},
-
-				{
-					"word": "last"
-				},
-
-				{
-					"word": "time"
-				},
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Mr"
+			},
+
+			{
+				"word": "President"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "asked"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "see"
+			},
+
+			{
+				"word": "me"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "know"
+			},
+
+			{
+				"word": "you’re"
+			},
+
+			{
+				"word": "busy"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "What"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "sir"
+			},
+
+			{
+				"word": "Sir"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "give"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "word"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "warning"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Sir"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "don’t"
+			},
+
+			{
+				"word": "know"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "heard"
+			},
+
+			{
+				"word": "But"
+			},
+
+			{
+				"word": "whatever"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "Jefferson"
+			},
+
+			{
+				"word": "started"
+			},
+
+			{
+				"word": "it"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Thomas"
+			},
+
+			{
+				"word": "Jefferson"
+			},
+
+			{
+				"word": "resigned"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "morning"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "You’re"
+			},
+
+			{
+				"word": "kidding"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "favor"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Whatever"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "sir"
+			},
+
+			{
+				"word": "Jefferson"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "pay"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "his"
+			},
+
+			{
+				"word": "behavior"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Shh"
+			},
+
+			{
+				"word": "Talk"
+			},
+
+			{
+				"word": "less"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "I’ll"
+			},
+
+			{
+				"word": "use"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "press"
+			},
+
+			{
+				"word": "I’ll"
+			},
+
+			{
+				"word": "write"
+			},
+
+			{
+				"word": "under"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "pseudonym"
+			},
+
+			{
+				"word": "you’ll"
+			},
+
+			{
+				"word": "see"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "him—"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "draft"
+			},
+
+			{
+				"word": "an"
+			},
+
+			{
+				"word": "address"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Yes"
+			},
+
+			{
+				"word": "He"
+			},
+
+			{
+				"word": "resigned"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "finally"
+			},
+
+			{
+				"word": "speak"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "mind—"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "No"
+			},
+
+			{
+				"word": "he’s"
+			},
+
+			{
+				"word": "stepping"
+			},
+
+			{
+				"word": "down"
+			},
+
+			{
+				"word": "so"
+			},
+
+			{
+				"word": "he"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "run"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "President"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Ha"
+			},
+
+			{
+				"word": "Good"
+			},
+
+			{
+				"word": "luck"
+			},
+
+			{
+				"word": "defeating"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "sir"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "stepping"
+			},
+
+			{
+				"word": "down"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "not"
+			},
+
+			{
+				"word": "running"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "President"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "sorry"
+			},
+
+			{
+				"word": "what"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "Relax"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "drink"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "Let’s"
+			},
+
+			{
+				"word": "take"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "break"
+			},
+
+			{
+				"word": "tonight"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "then"
+			},
+
+			{
+				"word": "we’ll"
+			},
+
+			{
+				"word": "teach"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "To"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "I"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "No"
+			},
+
+			{
+				"word": "sir"
+			},
+
+			{
+				"word": "why"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "talk"
+			},
+
+			{
+				"word": "about"
+			},
+
+			{
+				"word": "neutrality"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Sir"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "Britain"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "France"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "verge"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "war"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "best"
+			},
+
+			{
+				"word": "time—"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "want"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "warn"
+			},
+
+			{
+				"word": "against"
+			},
+
+			{
+				"word": "partisan"
+			},
+
+			{
+				"word": "fighting"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "But—"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Pick"
+			},
+
+			{
+				"word": "up"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "pen"
+			},
+
+			{
+				"word": "start"
+			},
+
+			{
+				"word": "writing"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "talk"
+			},
+
+			{
+				"word": "about"
+			},
+
+			{
+				"word": "what"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "learned"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "hardwon"
+			},
+
+			{
+				"word": "wisdom"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "earned"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "As"
+			},
+
+			{
+				"word": "far"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "people"
+			},
+
+			{
+				"word": "are"
+			},
+
+			{
+				"word": "concerned"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "serve"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "could"
+			},
+
+			{
+				"word": "continue"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "serve—"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "No"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "people"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "hear"
+			},
+
+			{
+				"word": "from"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "if"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "get"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "We’re"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "teach"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "Goodbye"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "I—"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Mr"
+			},
+
+			{
+				"word": "President"
+			},
+
+			{
+				"word": "they"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "you’re"
+			},
+
+			{
+				"word": "weak"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "No"
+			},
+
+			{
+				"word": "they"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "see"
+			},
+
+			{
+				"word": "we’re"
+			},
+
+			{
+				"word": "strong"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Your"
+			},
+
+			{
+				"word": "position"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "so"
+			},
+
+			{
+				"word": "unique"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "So"
+			},
+
+			{
+				"word": "I’ll"
+			},
+
+			{
+				"word": "use"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "move"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "along"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Why"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "If"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "nation"
+			},
+
+			{
+				"word": "learns"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "move"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "It"
+			},
+
+			{
+				"word": "outlives"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "when"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "gone"
+			},
+
+			{
+				"word": "Like"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "scripture"
+			},
+
+			{
+				"word": "says"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "no"
+			},
+
+			{
+				"word": "one"
+			},
+
+			{
+				"word": "shall"
+			},
+
+			{
+				"word": "make"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "afraid”"
+			},
+
+			{
+				"word": "They’ll"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "safe"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "nation"
+			},
+
+			{
+				"word": "we’ve"
+			},
+
+			{
+				"word": "made"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "wanna"
+			},
+
+			{
+				"word": "sit"
+			},
+
+			{
+				"word": "under"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "own"
+			},
+
+			{
+				"word": "vine"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "fig"
+			},
+
+			{
+				"word": "tree"
+			},
+
+			{
+				"word": "A"
+			},
+
+			{
+				"word": "moment"
+			},
+
+			{
+				"word": "alone"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "shade"
+			},
+
+			{
+				"word": "At"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "nation"
+			},
+
+			{
+				"word": "we’ve"
+			},
+
+			{
+				"word": "made"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Though"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "reviewing"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "incidents"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "administration"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "unconscious"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "intentional"
+			},
+
+			{
+				"word": "error"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "nevertheless"
+			},
+
+			{
+				"word": "too"
+			},
+
+			{
+				"word": "sensible"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "defects"
+			},
+
+			{
+				"word": "not"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "think"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "probable"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "may"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "committed"
+			},
+
+			{
+				"word": "many"
+			},
+
+			{
+				"word": "errors"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "shall"
+			},
+
+			{
+				"word": "also"
+			},
+
+			{
+				"word": "carry"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "me"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "hope"
+			},
+
+			{
+				"word": "That"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "country"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "View"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "indulgence"
+			},
+
+			{
+				"word": "And"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "After"
+			},
+
+			{
+				"word": "fortyfive"
+			},
+
+			{
+				"word": "years"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "life"
+			},
+
+			{
+				"word": "dedicated"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "its"
+			},
+
+			{
+				"word": "service"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "an"
+			},
+
+			{
+				"word": "upright"
+			},
+
+			{
+				"word": "zeal"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "faults"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "incompetent"
+			},
+
+			{
+				"word": "abilities"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "Consigned"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "oblivion"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "myself"
+			},
+
+			{
+				"word": "must"
+			},
+
+			{
+				"word": "soon"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "mansions"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "rest"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "anticipate"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "pleasing"
+			},
+
+			{
+				"word": "expectation"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "retreat"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "which"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "promise"
+			},
+
+			{
+				"word": "myself"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "realize"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "sweet"
+			},
+
+			{
+				"word": "enjoyment"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "partaking"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "midst"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "fellowcitizens"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "benign"
+			},
+
+			{
+				"word": "influence"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "good"
+			},
+
+			{
+				"word": "laws"
+			},
+
+			{
+				"word": "Under"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "free"
+			},
+
+			{
+				"word": "government"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "everfavorite"
+			},
+
+			{
+				"word": "object"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "heart"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "happy"
+			},
+
+			{
+				"word": "reward"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "trust"
+			},
+
+			{
+				"word": "Of"
+			},
+
+			{
+				"word": "our"
+			},
+
+			{
+				"word": "mutual"
+			},
+
+			{
+				"word": "cares"
+			},
+
+			{
+				"word": "labors"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "danger"
+			},
+
+			{
+				"word": "The"
+			},
+
+			{
+				"word": "hope"
+			},
+
+			{
+				"word": "View"
+			},
+
+			{
+				"word": "them"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "indulgence"
+			},
+
+			{
+				"word": "After"
+			},
+
+			{
+				"word": "fortyfive"
+			},
+
+			{
+				"word": "years"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "life"
+			},
+
+			{
+				"word": "dedicated"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "its"
+			},
+
+			{
+				"word": "service"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "an"
+			},
+
+			{
+				"word": "upright"
+			},
+
+			{
+				"word": "zeal"
+			},
+
+			{
+				"word": "Consigned"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "oblivion"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "myself"
+			},
+
+			{
+				"word": "must"
+			},
+
+			{
+				"word": "soon"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "mansions"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "rest"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "anticipate"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "pleasing"
+			},
+
+			{
+				"word": "expectation"
+			},
+
+			{
+				"word": "that"
+			},
+
+			{
+				"word": "retreat"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "which"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "promise"
+			},
+
+			{
+				"word": "myself"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "realize"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "sweet"
+			},
+
+			{
+				"word": "enjoyment"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "partaking"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "midst"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "fellowcitizens"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "benign"
+			},
+
+			{
+				"word": "influence"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "good"
+			},
+
+			{
+				"word": "laws"
+			},
+
+			{
+				"word": "Under"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "free"
+			},
+
+			{
+				"word": "government"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "everfavorite"
+			},
+
+			{
+				"word": "object"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "heart"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "happy"
+			},
+
+			{
+				"word": "reward"
+			},
+
+			{
+				"word": "as"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "trust"
+			},
+
+			{
+				"word": "Of"
+			},
+
+			{
+				"word": "our"
+			},
+
+			{
+				"word": "mutual"
+			},
+
+			{
+				"word": "cares"
+			},
+
+			{
+				"word": "labors"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "dangers"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			}
+		],
+
+		[{
+				"name": "ALL WOMEN"
+			},
+
+			{
+				"word": "George"
+			},
+
+			{
+				"word": "Washington’s"
+			},
+
+			{
+				"word": "going"
+			},
+
+			{
+				"word": "home"
+			}
+		],
+
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Teach"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			}
+		],
+
+		[{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "Going"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "History"
+			},
+
+			{
+				"word": "has"
+			},
+
+			{
+				"word": "its"
+			},
+
+			{
+				"word": "eyes"
+			},
+
+			{
+				"word": "on"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "We’re"
+			},
+
+			{
+				"word": "gonna"
+			},
+
+			{
+				"word": "teach"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "Say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "Teach"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "Say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "To"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "Say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			},
+
+			{
+				"word": "George"
+			},
+
+			{
+				"word": "Washington’s"
+			},
+
+			{
+				"word": "going"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "George"
+			},
+
+			{
+				"word": "Washington’s"
+			},
+
+			{
+				"word": "going"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "George"
+			},
+
+			{
+				"word": "Washington’s"
+			},
+
+			{
+				"word": "going"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "George"
+			},
+
+			{
+				"word": "Washington’s"
+			},
+
+			{
+				"word": "going"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "Teach"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "Teach"
+			},
+
+			{
+				"word": "‘em"
+			},
+
+			{
+				"word": "how"
+			},
+
+			{
+				"word": "Say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "Say"
+			},
+
+			{
+				"word": "goodbye"
+			},
+
+			{
+				"word": "One"
+			},
+
+			{
+				"word": "last"
+			},
+
+			{
+				"word": "time"
+			}
+		]
+	]
+}

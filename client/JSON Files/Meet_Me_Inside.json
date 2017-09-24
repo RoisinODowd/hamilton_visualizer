@@ -1,1213 +1,1216 @@
 {
 	"results": [
-			[{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Lee"
-				},
-
-				{
-					"word": "do"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "yield"
-				},
-
-				{
-					"name": "BURR"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "shot"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "side"
-				},
-
-				{
-					"word": "Yes"
-				},
-
-				{
-					"word": "he"
-				},
-
-				{
-					"word": "yields"
-				},
-
-				{
-					"name": "LAURENS"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "satisfied"
-				},
-
-				{
-					"name": "BURR"
-				},
-
-				{
-					"word": "Yo"
-				},
-
-				{
-					"word": "we"
-				},
-
-				{
-					"word": "gotta"
-				},
-
-				{
-					"word": "clear"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "field"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Go"
-				},
-
-				{
-					"word": "We"
-				},
-
-				{
-					"word": "won"
-				},
-
-				{
-					"name": "COMPANY"
-				},
-
-				{
-					"word": "Here"
-				},
-
-				{
-					"word": "comes"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "General"
-				},
-
-				{
-					"name": "BURR"
-				},
-
-				{
-					"word": "This"
-				},
-
-				{
-					"word": "should"
-				},
-
-				{
-					"word": "be"
-				},
-
-				{
-					"word": "fun"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "What"
-				},
-
-				{
-					"word": "is"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "meaning"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "this"
-				},
-
-				{
-					"word": "Mr"
-				},
-
-				{
-					"word": "Burr"
-				},
-
-				{
-					"word": "get"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "medic"
-				},
-
-				{
-					"word": "for"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "General"
-				},
-
-				{
-					"name": "BURR"
-				},
-
-				{
-					"word": "Yes"
-				},
-
-				{
-					"word": "sir"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Lee"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "will"
-				},
-
-				{
-					"word": "never"
-				},
-
-				{
-					"word": "agree"
-				},
-
-				{
-					"word": "with"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "But"
-				},
-
-				{
-					"word": "believe"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "these"
-				},
-
-				{
-					"word": "young"
-				},
-
-				{
-					"word": "men"
-				},
-
-				{
-					"word": "don’t"
-				},
-
-				{
-					"word": "speak"
-				},
-
-				{
-					"word": "for"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "Thank"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "for"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "service"
-				},
-
-				{
-					"name": "BURR"
-				},
-
-				{
-					"word": "Let’s"
-				},
-
-				{
-					"word": "ride"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Hamilton"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Sir"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Meet"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "inside"
-				},
-
-				{
-					"name": "COMPANY"
-				},
-
-				{
-					"word": "Meet"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "inside"
-				},
-
-				{
-					"word": "Meet"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "inside"
-				},
-
-				{
-					"word": "Meet"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "inside"
-				},
-
-				{
-					"word": "meet"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "meet"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "inside"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Son—"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Don’t"
-				},
-
-				{
-					"word": "call"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "son"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "This"
-				},
-
-				{
-					"word": "war"
-				},
-
-				{
-					"word": "is"
-				},
-
-				{
-					"word": "hard"
-				},
-
-				{
-					"word": "enough"
-				},
-
-				{
-					"word": "Without"
-				},
-
-				{
-					"word": "infighting—"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Lee"
-				},
-
-				{
-					"word": "called"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "out"
-				},
-
-				{
-					"word": "We"
-				},
-
-				{
-					"word": "called"
-				},
-
-				{
-					"word": "his"
-				},
-
-				{
-					"word": "bluff"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "You"
-				},
-
-				{
-					"word": "solve"
-				},
-
-				{
-					"word": "nothing"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "aggravate"
-				},
-
-				{
-					"word": "our"
-				},
-
-				{
-					"word": "allies"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "south"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Youre"
-				},
-
-				{
-					"word": "absolutely"
-				},
-
-				{
-					"word": "right"
-				},
-
-				{
-					"word": "John"
-				},
-
-				{
-					"word": "should"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "shot"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "mouth"
-				},
-
-				{
-					"word": "That"
-				},
-
-				{
-					"word": "would’ve"
-				},
-
-				{
-					"word": "shut"
-				},
-
-				{
-					"word": "him"
-				},
-
-				{
-					"word": "up"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Son—"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "notcha"
-				},
-
-				{
-					"word": "son—"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Watch"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "tone"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "am"
-				},
-
-				{
-					"word": "not"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "maiden"
-				},
-
-				{
-					"word": "in"
-				},
-
-				{
-					"word": "need"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "defending"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "am"
-				},
-
-				{
-					"word": "grown"
-				},
-
-				{
-					"name": "HAMILTON (OVERLAPPING)"
-				},
-
-				{
-					"word": "Charles"
-				},
-
-				{
-					"word": "Lee"
-				},
-
-				{
-					"word": "Thomas"
-				},
-
-				{
-					"word": "Conway"
-				},
-
-				{
-					"word": "men"
-				},
-
-				{
-					"word": "take"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "name"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "they"
-				},
-
-				{
-					"word": "rake"
-				},
-
-				{
-					"word": "it"
-				},
-
-				{
-					"word": "Through"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "mud"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "My"
-				},
-
-				{
-					"word": "name’s"
-				},
-
-				{
-					"word": "been"
-				},
-
-				{
-					"word": "through"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "lot"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "can"
-				},
-
-				{
-					"word": "take"
-				},
-
-				{
-					"word": "it"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Well"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "don’t"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "name"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "don’t"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "titles"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "don’t"
-				},
-
-				{
-					"word": "have"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "land"
-				},
-
-				{
-					"word": "But"
-				},
-
-				{
-					"word": "if"
-				},
-
-				{
-					"word": "you—"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "No—"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "If"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "gave"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "command"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "battalion"
-				},
-
-				{
-					"word": "a"
-				},
-
-				{
-					"word": "group"
-				},
-
-				{
-					"word": "of"
-				},
-
-				{
-					"word": "men"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "lead"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "could"
-				},
-
-				{
-					"word": "fly"
-				},
-
-				{
-					"word": "above"
-				},
-
-				{
-					"word": "my"
-				},
-
-				{
-					"word": "station"
-				},
-
-				{
-					"word": "after"
-				},
-
-				{
-					"word": "the"
-				},
-
-				{
-					"word": "war"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Or"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "could"
-				},
-
-				{
-					"word": "die"
-				},
-
-				{
-					"word": "and"
-				},
-
-				{
-					"word": "we"
-				},
-
-				{
-					"word": "need"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "alive"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "I’m"
-				},
-
-				{
-					"word": "more"
-				},
-
-				{
-					"word": "than"
-				},
-
-				{
-					"word": "willing"
-				},
-
-				{
-					"word": "to"
-				},
-
-				{
-					"word": "die—"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Your"
-				},
-
-				{
-					"word": "wife"
-				},
-
-				{
-					"word": "needs"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "alive"
-				},
-
-				{
-					"word": "son"
-				},
-
-				{
-					"word": "I"
-				},
-
-				{
-					"word": "need"
-				},
-
-				{
-					"word": "you"
-				},
-
-				{
-					"word": "alive—"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Call"
-				},
-
-				{
-					"word": "me"
-				},
-
-				{
-					"word": "son"
-				},
-
-				{
-					"word": "one"
-				},
-
-				{
-					"word": "more"
-				},
-
-				{
-					"word": "time—"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Go"
-				},
-
-				{
-					"word": "home"
-				},
-
-				{
-					"word": "Alexander"
-				},
-
-				{
-					"word": "That’s"
-				},
-
-				{
-					"word": "an"
-				},
-
-				{
-					"word": "order"
-				},
-
-				{
-					"word": "from"
-				},
-
-				{
-					"word": "your"
-				},
-
-				{
-					"word": "commander"
-				},
-
-				{
-					"name": "HAMILTON"
-				},
-
-				{
-					"word": "Sir—"
-				},
-
-				{
-					"name": "WASHINGTON"
-				},
-
-				{
-					"word": "Go"
-				},
-
-				{
-					"word": "home"
-				},
+		[{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Lee"
+			},
+
+			{
+				"word": "do"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "yield"
+			},
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "shot"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "side"
+			},
+
+			{
+				"word": "Yes"
+			},
+
+			{
+				"word": "he"
+			},
+
+			{
+				"word": "yields"
+			},
+
+			{
+				"name": "LAURENS"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "satisfied"
+			},
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Yo"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "gotta"
+			},
+
+			{
+				"word": "clear"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "field"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Go"
+			},
+
+			{
+				"word": "We"
+			},
+
+			{
+				"word": "won"
+			},
+
+			{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Here"
+			},
+
+			{
+				"word": "comes"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "General"
+			},
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "This"
+			},
+
+			{
+				"word": "should"
+			},
+
+			{
+				"word": "be"
+			},
+
+			{
+				"word": "fun"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "What"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "meaning"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "this"
+			},
+
+			{
+				"word": "Mr"
+			},
+
+			{
+				"word": "Burr"
+			},
+
+			{
+				"word": "get"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "medic"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "General"
+			},
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Yes"
+			},
+
+			{
+				"word": "sir"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Lee"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "will"
+			},
+
+			{
+				"word": "never"
+			},
+
+			{
+				"word": "agree"
+			},
+
+			{
+				"word": "with"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "But"
+			},
+
+			{
+				"word": "believe"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "these"
+			},
+
+			{
+				"word": "young"
+			},
+
+			{
+				"word": "men"
+			},
+
+			{
+				"word": "don’t"
+			},
+
+			{
+				"word": "speak"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "Thank"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "for"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "service"
+			},
+
+			{
+				"name": "BURR"
+			},
+
+			{
+				"word": "Let’s"
+			},
+
+			{
+				"word": "ride"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Hamilton"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Sir"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Meet"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "inside"
+			},
+
+			{
+				"name": "COMPANY"
+			},
+
+			{
+				"word": "Meet"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "inside"
+			},
+
+			{
+				"word": "Meet"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "inside"
+			},
+
+			{
+				"word": "Meet"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "inside"
+			},
+
+			{
+				"word": "meet"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "meet"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "inside"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Son—"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Don’t"
+			},
+
+			{
+				"word": "call"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "son"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "This"
+			},
+
+			{
+				"word": "war"
+			},
+
+			{
+				"word": "is"
+			},
+
+			{
+				"word": "hard"
+			},
+
+			{
+				"word": "enough"
+			},
+
+			{
+				"word": "Without"
+			},
+
+			{
+				"word": "infighting—"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Lee"
+			},
+
+			{
+				"word": "called"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "out"
+			},
+
+			{
+				"word": "We"
+			},
+
+			{
+				"word": "called"
+			},
+
+			{
+				"word": "his"
+			},
+
+			{
+				"word": "bluff"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "You"
+			},
+
+			{
+				"word": "solve"
+			},
+
+			{
+				"word": "nothing"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "aggravate"
+			},
+
+			{
+				"word": "our"
+			},
+
+			{
+				"word": "allies"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "south"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Youre"
+			},
+
+			{
+				"word": "absolutely"
+			},
+
+			{
+				"word": "right"
+			},
+
+			{
+				"word": "John"
+			},
+
+			{
+				"word": "should"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "shot"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "mouth"
+			},
+
+			{
+				"word": "That"
+			},
+
+			{
+				"word": "would’ve"
+			},
+
+			{
+				"word": "shut"
+			},
+
+			{
+				"word": "him"
+			},
+
+			{
+				"word": "up"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Son—"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "notcha"
+			},
+
+			{
+				"word": "son—"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Watch"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "tone"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "not"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "maiden"
+			},
+
+			{
+				"word": "in"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "defending"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "am"
+			},
+
+			{
+				"word": "grown"
+			},
+
+			{
+				"name": "HAMILTON (OVERLAPPING)"
+			},
+
+			{
+				"word": "Charles"
+			},
+
+			{
+				"word": "Lee"
+			},
+
+			{
+				"word": "Thomas"
+			},
+
+			{
+				"word": "Conway"
+			},
+
+			{
+				"word": "men"
+			},
+
+			{
+				"word": "take"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "name"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "they"
+			},
+
+			{
+				"word": "rake"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"word": "Through"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "mud"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "My"
+			},
+
+			{
+				"word": "name’s"
+			},
+
+			{
+				"word": "been"
+			},
+
+			{
+				"word": "through"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "lot"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "can"
+			},
+
+			{
+				"word": "take"
+			},
+
+			{
+				"word": "it"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Well"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "don’t"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "name"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "don’t"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "titles"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "don’t"
+			},
+
+			{
+				"word": "have"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "land"
+			},
+
+			{
+				"word": "But"
+			},
+
+			{
+				"word": "if"
+			},
+
+			{
+				"word": "you—"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "No—"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "If"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "gave"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "command"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "battalion"
+			},
+
+			{
+				"word": "a"
+			},
+
+			{
+				"word": "group"
+			},
+
+			{
+				"word": "of"
+			},
+
+			{
+				"word": "men"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "lead"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "could"
+			},
+
+			{
+				"word": "fly"
+			},
+
+			{
+				"word": "above"
+			},
+
+			{
+				"word": "my"
+			},
+
+			{
+				"word": "station"
+			},
+
+			{
+				"word": "after"
+			},
+
+			{
+				"word": "the"
+			},
+
+			{
+				"word": "war"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Or"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "could"
+			},
+
+			{
+				"word": "die"
+			},
+
+			{
+				"word": "and"
+			},
+
+			{
+				"word": "we"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "alive"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "I’m"
+			},
+
+			{
+				"word": "more"
+			},
+
+			{
+				"word": "than"
+			},
+
+			{
+				"word": "willing"
+			},
+
+			{
+				"word": "to"
+			},
+
+			{
+				"word": "die—"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Your"
+			},
+
+			{
+				"word": "wife"
+			},
+
+			{
+				"word": "needs"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "alive"
+			},
+
+			{
+				"word": "son"
+			},
+
+			{
+				"word": "I"
+			},
+
+			{
+				"word": "need"
+			},
+
+			{
+				"word": "you"
+			},
+
+			{
+				"word": "alive—"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Call"
+			},
+
+			{
+				"word": "me"
+			},
+
+			{
+				"word": "son"
+			},
+
+			{
+				"word": "one"
+			},
+
+			{
+				"word": "more"
+			},
+
+			{
+				"word": "time—"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Go"
+			},
+
+			{
+				"word": "home"
+			},
+
+			{
+				"word": "Alexander"
+			},
+
+			{
+				"word": "That’s"
+			},
+
+			{
+				"word": "an"
+			},
+
+			{
+				"word": "order"
+			},
+
+			{
+				"word": "from"
+			},
+
+			{
+				"word": "your"
+			},
+
+			{
+				"word": "commander"
+			},
+
+			{
+				"name": "HAMILTON"
+			},
+
+			{
+				"word": "Sir—"
+			},
+
+			{
+				"name": "WASHINGTON"
+			},
+
+			{
+				"word": "Go"
+			},
+
+			{
+				"word": "home"
+			}
+		]
+	]
+}
