@@ -12,7 +12,10 @@ export default class Visualizer extends React.Component{
 
   constructor(props) {
     super(props);
-		
+
+		var json = require('../motifs.json');
+	  this.state = {motifs:  json["motifs"]};
+		console.log(this.state.motifs);
   }
 
   render() {

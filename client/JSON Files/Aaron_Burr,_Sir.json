@@ -2,7 +2,7 @@
 	"results": [
 		[
 {"name": "COMPANY"}
-        ][
+        ],[
 {"name": "HAMILTON"}
 
 {"word": "Pardon"}
@@ -19,7 +19,7 @@
 
 {"word": "sir
 "}
-        ][
+        ],[
 {"name": "BURR"}
 
 {"word": "That"}
@@ -30,7 +30,7 @@
 
 {"word": "asking
 "}
-        ][
+        ],[
 {"name": "HAMILTON"}
 
 {"word": "Oh"}
@@ -39,8 +39,7 @@
 
 {"word": "sure"}
 
-{"word": "sir
-"}
+{"word": "sir"}
 
 {"word": "I’m"}
 
