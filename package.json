@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "HAMILTON TEAM NAME LOL",
   "license": "MIT",
+  "homepage": "https://roisinodowd.github.io/hamilton_visualizer",
   "scripts": {
     "start": "webpack-dev-server --hot --open"
   },
